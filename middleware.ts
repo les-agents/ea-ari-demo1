@@ -1,11 +1,15 @@
 import { NextResponse } from 'next/server';
 
-export function middleware(req: Request) {
+export const config = {
+    matcher: '/:path*',
+};
+
+export default function middleware(req: Request) {
     const authHeader = req.headers.get('authorization');
 
-    const username = 'demo';
-    const password = 'ari';
-    const encodedCredentials = Buffer.from(`${username}:${password}`).toString('base64');
+    const username = 'admin';
+    const password = 'yourpassword';
+    const encodedCredentials = btoa(`${username}:${password}`);
 
     if (!authHeader || authHeader !== `Basic ${encodedCredentials}`) {
         return new NextResponse('Unauthorized', {
@@ -18,7 +22,3 @@ export function middleware(req: Request) {
 
     return NextResponse.next();
 }
-
-export const config = {
-    matcher: '/:path*', // Applique le middleware à toutes les routes
-};
