@@ -4,9 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Espaces Atypiques - Démo</title>
-    <script src="https://ea-ari-demo1.vercel.app/ea-ari-script.js"></script>
+    <script type="module">
+        import {CustomOpenURLExtension} from "./extensions.js"
+        (function (d, t) {
+        var v = d.createElement(t),s = d.getElementsByTagName(t)[0];
+        v.onload = function () {
+        window.voiceflow.chat.load({
+            verify: { projectID: '679bba21dbd2e6376007c5b8' },
+            url: 'https://general-runtime.voiceflow.com',
+            versionID: 'production',
+            assistant: {
+                extensions: [CustomOpenURLExtension],
+                stylesheet:'voiceflow.fr.css',
+            },
+            });
+        };
+        v.src = 'https://cdn.voiceflow.com/widget-next/bundle.mjs';
+        v.type = 'text/javascript';
+        s.parentNode.insertBefore(v, s);
+        })(document, 'script');
+        </script>
     <style>
-         *{
+        * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
