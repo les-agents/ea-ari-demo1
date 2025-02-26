@@ -1,0 +1,27 @@
+.vfrc-prompt button.vfrc-button,
+footer button.vfrc-button {
+  position: relative;
+  color: transparent !important;
+}
+.vfrc-prompt button.vfrc-button::after,
+footer button.vfrc-button::after {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  inset: 0;
+  color: #ffffff;
+}
+.vfrc-prompt button.vfrc-button[label='Start new chat']::after,
+footer button.vfrc-button[label='Start new chat']::after {
+  content: 'Commencer une nouvelle conversation';
+}
+.vfrc-prompt button.vfrc-button[label='End Chat']::after,
+footer button.vfrc-button[label='End Chat']::after {
+  content: 'Terminer la conversation';
+}
+.vfrc-prompt button.vfrc-button[label='Cancel']::after,
+footer button.vfrc-button[label='Cancel']::after {
+  content: 'Annuler';
+  color: rgba(0, 0, 0, 0.9);
+}
