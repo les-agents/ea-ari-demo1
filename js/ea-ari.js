@@ -29,10 +29,13 @@ const CustomOpenURLExtension = {
     var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
     v.onload = function() {
         window.voiceflow.chat.load({
-            verify: { projectID: '67b59a2e911c627b7c493b8e' },
+            verify: { projectID: '679bba21dbd2e6376007c5b8' },
             url: 'https://general-runtime.voiceflow.com',
             versionID: 'production', 
-            assistant: { extensions: [CustomOpenURLExtension] },
+            assistant: { 
+                extensions: [CustomOpenURLExtension],
+                stylesheet:'https://ea-ari-demo1.vercel.app/voiceflow.fr.css'
+             },
             voice: { 
                 url: "https://runtime-api.voiceflow.com" 
             }
