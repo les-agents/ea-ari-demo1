@@ -7,13 +7,12 @@
     <script type="module">
         import {CustomOpenURLExtension} from "./extensions.js"
         (function (d, t) {
-        var v = d.createElement(t),
-        s = d.getElementsByTagName(t)[0];
+        var v = d.createElement(t),s = d.getElementsByTagName(t)[0];
         v.onload = function () {
         window.voiceflow.chat.load({
             verify: { projectID: '679bba21dbd2e6376007c5b8' },
             url: 'https://general-runtime.voiceflow.com',
-            versionID: 'development',
+            versionID: 'production',
             assistant: {
                 extensions: [CustomOpenURLExtension],
                 stylesheet:'voiceflow.fr.css',
