@@ -39,7 +39,8 @@ console.log("User parameter:", userParam);
         window.voiceflow.chat.load({
             verify: { projectID: '679bba21dbd2e6376007c5b8' },
             url: 'https://general-runtime.voiceflow.com',
-            versionID: 'production', 
+            versionID: 'production',
+            userID: userParam, 
             assistant: { 
                 extensions: [CustomOpenURLExtension],
                 stylesheet:'https://ea-ari-demo1.vercel.app/voiceflow.fr.css'
