@@ -28,6 +28,11 @@ const CustomOpenURLExtension = {
 // Log the current page URL
 console.log("Current page URL:", window.location.href);
 
+// Extract URL parameters
+const urlParams = new URLSearchParams(window.location.search);
+const userParam = urlParams.get('user');
+console.log("User parameter:", userParam);
+
 (function(d, t) {
     var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
     v.onload = function() {
