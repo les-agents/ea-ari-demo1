@@ -1,0 +1,115 @@
+{
+  "id": 193360,
+  "date": "2020-11-25T09:33:36",
+  "date_gmt": "2020-11-25T08:33:36",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET.jpg"
+  },
+  "modified": "2020-11-25T09:33:36",
+  "modified_gmt": "2020-11-25T08:33:36",
+  "slug": "visuel-protege-cholet",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/49300-cholet-local-commercial-a-reinterpreter-en-lofts-439/attachment/visuel-protege-cholet/",
+  "title": {
+    "rendered": "VISUEL PROTEGE CHOLET"
+  },
+  "author": 36,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"546\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET-960x546.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET-960x546.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET-1680x956.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET-480x273.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET-1536x874.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1092,
+    "file": "2019/10/VISUEL-PROTEGE-CHOLET.jpg",
+    "sizes": {
+      "medium": {
+        "file": "VISUEL-PROTEGE-CHOLET-960x546.jpg",
+        "width": 960,
+        "height": 546,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET-960x546.jpg"
+      },
+      "large": {
+        "file": "VISUEL-PROTEGE-CHOLET-1680x956.jpg",
+        "width": 1680,
+        "height": 956,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET-1680x956.jpg"
+      },
+      "thumbnail": {
+        "file": "VISUEL-PROTEGE-CHOLET-480x273.jpg",
+        "width": 480,
+        "height": 273,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET-480x273.jpg"
+      },
+      "1536x1536": {
+        "file": "VISUEL-PROTEGE-CHOLET-1536x874.jpg",
+        "width": 1536,
+        "height": 874,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET-1536x874.jpg"
+      },
+      "full": {
+        "file": "VISUEL-PROTEGE-CHOLET.jpg",
+        "width": 1920,
+        "height": 1092,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Thibault",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1604485469",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 91328,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/VISUEL-PROTEGE-CHOLET.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/193360"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/36"
+      }
+    ]
+  }
+}

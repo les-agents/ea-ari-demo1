@@ -1,0 +1,115 @@
+{
+  "id": 152892,
+  "date": "2020-09-08T23:47:57",
+  "date_gmt": "2020-09-08T21:47:57",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1.jpg"
+  },
+  "modified": "2020-09-08T23:47:58",
+  "modified_gmt": "2020-09-08T21:47:58",
+  "slug": "104732-1779el-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/69006-lyon-maison-de-ville-avec-vue-sur-le-parc-de-la-tete-dor-1779el/attachment/104732-1779el-1-jpg/",
+  "title": {
+    "rendered": "Maison de ville  avec vue  sur le Parc de la tête d&rsquo;or &#8211; Réf. 1779EL"
+  },
+  "author": 19,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"636\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1-960x636.jpg\" class=\"attachment-medium size-medium\" alt=\"69006 LYON - Maison de ville  avec vue  sur le Parc de la tête d&#039;or - Réf. 1779EL\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1-960x636.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1-1680x1113.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1-480x318.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1-1536x1018.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "69006 LYON - Maison de ville  avec vue  sur le Parc de la tête d'or - Réf. 1779EL",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1272,
+    "file": "104732/1779EL/104732-1779EL-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "104732-1779EL-1-960x636.jpg",
+        "width": 960,
+        "height": 636,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1-960x636.jpg"
+      },
+      "large": {
+        "file": "104732-1779EL-1-1680x1113.jpg",
+        "width": 1680,
+        "height": 1113,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1-1680x1113.jpg"
+      },
+      "thumbnail": {
+        "file": "104732-1779EL-1-480x318.jpg",
+        "width": 480,
+        "height": 318,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1-480x318.jpg"
+      },
+      "1536x1536": {
+        "file": "104732-1779EL-1-1536x1018.jpg",
+        "width": 1536,
+        "height": 1018,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1-1536x1018.jpg"
+      },
+      "full": {
+        "file": "104732-1779EL-1.jpg",
+        "width": 1920,
+        "height": 1272,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 152891,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104732/1779EL/104732-1779EL-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/152892"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/19"
+      }
+    ]
+  }
+}

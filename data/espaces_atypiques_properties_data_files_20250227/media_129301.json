@@ -1,0 +1,115 @@
+{
+  "id": 129301,
+  "date": "2020-08-02T17:40:29",
+  "date_gmt": "2020-08-02T15:40:29",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1.jpg"
+  },
+  "modified": "2020-08-02T17:40:36",
+  "modified_gmt": "2020-08-02T15:40:36",
+  "slug": "283405-ea64118-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/64500-ciboure-maison-de-ville-avec-terrasse-ciboure-75-m%c2%b2-ea64118/attachment/283405-ea64118-1-jpg/",
+  "title": {
+    "rendered": "Maison  de ville avec terrasse &#8211; Ciboure 75 m² &#8211; Réf. EA64118"
+  },
+  "author": 27,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"647\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1-960x647.jpg\" class=\"attachment-medium size-medium\" alt=\"64500 CIBOURE - Maison  de ville avec terrasse - Ciboure 75 m² - Réf. EA64118\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1-960x647.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1-1680x1131.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1-480x323.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1-1536x1034.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "64500 CIBOURE - Maison  de ville avec terrasse - Ciboure 75 m² - Réf. EA64118",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1293,
+    "file": "283405/EA64118/283405-EA64118-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "283405-EA64118-1-960x647.jpg",
+        "width": 960,
+        "height": 647,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1-960x647.jpg"
+      },
+      "large": {
+        "file": "283405-EA64118-1-1680x1131.jpg",
+        "width": 1680,
+        "height": 1131,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1-1680x1131.jpg"
+      },
+      "thumbnail": {
+        "file": "283405-EA64118-1-480x323.jpg",
+        "width": 480,
+        "height": 323,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1-480x323.jpg"
+      },
+      "1536x1536": {
+        "file": "283405-EA64118-1-1536x1034.jpg",
+        "width": 1536,
+        "height": 1034,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1-1536x1034.jpg"
+      },
+      "full": {
+        "file": "283405-EA64118-1.jpg",
+        "width": 1920,
+        "height": 1293,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 129300,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64118/283405-EA64118-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/129301"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/27"
+      }
+    ]
+  }
+}

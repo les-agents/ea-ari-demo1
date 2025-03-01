@@ -1,0 +1,79 @@
+{
+  "id": 180919,
+  "date": "2020-10-27T14:10:47",
+  "date_gmt": "2020-10-27T13:10:47",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/37455383a.jpg"
+  },
+  "modified": "2020-10-27T14:12:56",
+  "modified_gmt": "2020-10-27T13:12:56",
+  "slug": "37455383a",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/ferme-renovee-replonges/attachment/37455383a/",
+  "title": {
+    "rendered": "37455383a"
+  },
+  "author": 12,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37455383a.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37455383a.jpg\" class=\"attachment-medium size-medium\" alt=\"01750 REPLONGES - Ferme rénovée - Réf. 172EB\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "01750 REPLONGES - Ferme rénovée - Réf. 172EB",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 683,
+    "file": "2020/10/37455383a.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 180395,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37455383a.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/180919"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/12"
+      }
+    ]
+  }
+}

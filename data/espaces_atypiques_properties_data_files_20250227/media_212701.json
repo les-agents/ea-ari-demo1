@@ -1,0 +1,101 @@
+{
+  "id": 212701,
+  "date": "2021-01-12T20:08:04",
+  "date_gmt": "2021-01-12T19:08:04",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b.png"
+  },
+  "modified": "2021-01-12T20:09:07",
+  "modified_gmt": "2021-01-12T19:09:07",
+  "slug": "31700404b-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83500-la-seyne-sur-mer-maison-de-style-art-deco-de-1925-a-renover-corniche-michel-pacha-0008ev/attachment/31700404b-2/",
+  "title": {
+    "rendered": "maison-art-deco-la-seyne-sur-mer-michel-pacha-photo 1"
+  },
+  "author": 57,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b.png'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b-960x640.png\" class=\"attachment-medium size-medium\" alt=\"maison-art-deco-la-seyne-sur-mer-michel-pacha-photo 1\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b-960x640.png 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b-480x320.png 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b.png 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "maison-art-deco-la-seyne-sur-mer-michel-pacha-photo 1",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+    "width": 1024,
+    "height": 683,
+    "file": "2020/05/31700404b.png",
+    "sizes": {
+      "medium": {
+        "file": "31700404b-960x640.png",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/png",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b-960x640.png"
+      },
+      "thumbnail": {
+        "file": "31700404b-480x320.png",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/png",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b-480x320.png"
+      },
+      "full": {
+        "file": "31700404b.png",
+        "width": 1024,
+        "height": 683,
+        "mime_type": "image/png",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b.png"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 201236,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/31700404b.png",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/212701"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/57"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 205543,
+  "date": "2020-12-18T15:30:23",
+  "date_gmt": "2020-12-18T14:30:23",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1.jpg"
+  },
+  "modified": "2020-12-18T15:30:25",
+  "modified_gmt": "2020-12-18T14:30:25",
+  "slug": "138081-0554-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34000-montpellier-lexceptionnelle-vue-sur-la-ville-0554/attachment/138081-0554-1-jpg/",
+  "title": {
+    "rendered": "L&rsquo;exceptionnelle vue sur la ville &#8211; Réf. 0554"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"768\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1-960x768.jpg\" class=\"attachment-medium size-medium\" alt=\"34000 MONTPELLIER - L&#039;exceptionnelle vue sur la ville - Réf. 0554\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1-960x768.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1-1680x1344.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1-480x384.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1-1536x1229.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1.jpg 1800w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "34000 MONTPELLIER - L'exceptionnelle vue sur la ville - Réf. 0554",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1800,
+    "height": 1440,
+    "file": "138081/0554/138081-0554-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "138081-0554-1-960x768.jpg",
+        "width": 960,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1-960x768.jpg"
+      },
+      "large": {
+        "file": "138081-0554-1-1680x1344.jpg",
+        "width": 1680,
+        "height": 1344,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1-1680x1344.jpg"
+      },
+      "thumbnail": {
+        "file": "138081-0554-1-480x384.jpg",
+        "width": 480,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1-480x384.jpg"
+      },
+      "1536x1536": {
+        "file": "138081-0554-1-1536x1229.jpg",
+        "width": 1536,
+        "height": 1229,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1-1536x1229.jpg"
+      },
+      "full": {
+        "file": "138081-0554-1.jpg",
+        "width": 1800,
+        "height": 1440,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 205542,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0554/138081-0554-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/205543"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

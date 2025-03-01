@@ -1,0 +1,115 @@
+{
+  "id": 127372,
+  "date": "2020-08-01T04:35:51",
+  "date_gmt": "2020-08-01T02:35:51",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1.jpg"
+  },
+  "modified": "2021-01-10T11:16:09",
+  "modified_gmt": "2021-01-10T10:16:09",
+  "slug": "151467-140-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83460-taradeau-propriete-du-xviii-renove-sur-un-domaine-de-82-hectares-140/attachment/151467-140-1-jpg/",
+  "title": {
+    "rendered": "propriétés du XVIII rénovées sur un domaine de 82 hectares &#8211; Réf. 140"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"638\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1-960x638.jpg\" class=\"attachment-medium size-medium\" alt=\"83460 TARADEAU - propriétés du XVIII rénovées sur un domaine de 82 hectares - Réf. 140\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1-960x638.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1-1680x1117.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1-1536x1021.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83460 TARADEAU - propriétés du XVIII rénovées sur un domaine de 82 hectares - Réf. 140",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1276,
+    "file": "151467/140/151467-140-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "151467-140-1-960x638.jpg",
+        "width": 960,
+        "height": 638,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1-960x638.jpg"
+      },
+      "large": {
+        "file": "151467-140-1-1680x1117.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1-1680x1117.jpg"
+      },
+      "thumbnail": {
+        "file": "151467-140-1-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "151467-140-1-1536x1021.jpg",
+        "width": 1536,
+        "height": 1021,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1-1536x1021.jpg"
+      },
+      "full": {
+        "file": "151467-140-1.jpg",
+        "width": 1920,
+        "height": 1276,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 127371,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/140/151467-140-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/127372"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

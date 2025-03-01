@@ -1,0 +1,115 @@
+{
+  "id": 172101,
+  "date": "2020-10-12T17:27:41",
+  "date_gmt": "2020-10-12T15:27:41",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1.jpg"
+  },
+  "modified": "2020-12-29T08:10:55",
+  "modified_gmt": "2020-12-29T07:10:55",
+  "slug": "270305-32692-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/35000-rennes-jeu-de-balcon-et-terrasse-pour-ce-confortable-appartement-de-109-m%c2%b2-32692/attachment/270305-32692-1-jpg/",
+  "title": {
+    "rendered": "Jeu de balcon et terrasse pour ce confortable appartement de 109 m² &#8211; Réf. 32692"
+  },
+  "author": 39,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"629\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1-960x629.jpg\" class=\"attachment-medium size-medium\" alt=\"35000 RENNES - Jeu de balcon et terrasse pour ce confortable appartement de 109 m² - Réf. 32692\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1-960x629.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1-1680x1101.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1-480x315.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1-1536x1006.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "35000 RENNES - Jeu de balcon et terrasse pour ce confortable appartement de 109 m² - Réf. 32692",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1258,
+    "file": "270305/32692/270305-32692-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "270305-32692-1-960x629.jpg",
+        "width": 960,
+        "height": 629,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1-960x629.jpg"
+      },
+      "large": {
+        "file": "270305-32692-1-1680x1101.jpg",
+        "width": 1680,
+        "height": 1101,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1-1680x1101.jpg"
+      },
+      "thumbnail": {
+        "file": "270305-32692-1-480x315.jpg",
+        "width": 480,
+        "height": 315,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1-480x315.jpg"
+      },
+      "1536x1536": {
+        "file": "270305-32692-1-1536x1006.jpg",
+        "width": 1536,
+        "height": 1006,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1-1536x1006.jpg"
+      },
+      "full": {
+        "file": "270305-32692-1.jpg",
+        "width": 1920,
+        "height": 1258,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 172100,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/32692/270305-32692-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/172101"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/39"
+      }
+    ]
+  }
+}

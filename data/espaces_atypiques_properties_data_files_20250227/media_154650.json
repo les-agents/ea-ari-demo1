@@ -1,0 +1,94 @@
+{
+  "id": 154650,
+  "date": "2020-09-11T09:51:45",
+  "date_gmt": "2020-09-11T07:51:45",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/39374745a.jpg"
+  },
+  "modified": "2020-09-11T09:53:51",
+  "modified_gmt": "2020-09-11T07:53:51",
+  "slug": "39374745a",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/31380-montastruc-la-conseillere-maison-de-caractere-a-lest-de-toulouse-449et/attachment/39374745a/",
+  "title": {
+    "rendered": "39374745a"
+  },
+  "author": 31,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/39374745a.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/39374745a-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/39374745a-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/39374745a.jpg 1918w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1918,
+    "height": 1280,
+    "file": "2020/09/39374745a.jpg",
+    "sizes": {
+      "medium": {
+        "file": "39374745a-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/39374745a-960x641.jpg"
+      },
+      "full": {
+        "file": "39374745a.jpg",
+        "width": 1918,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/39374745a.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 154321,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/39374745a.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/154650"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/31"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": 125762,
+  "date": "2020-07-31T08:42:47",
+  "date_gmt": "2020-07-31T06:42:47",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1.jpg"
+  },
+  "modified": "2020-10-15T13:36:53",
+  "modified_gmt": "2020-10-15T11:36:53",
+  "slug": "281096-00104eaca-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/22590-pordic-maison-ossature-bois-et-sa-vue-mer-205/attachment/281096-00104eaca-1-jpg/",
+  "title": {
+    "rendered": "Maison ossature bois et sa vue mer &#8211; Réf. 00104EACA"
+  },
+  "author": 41,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"559\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1-960x559.jpg\" class=\"attachment-medium size-medium\" alt=\"22590 PORDIC - Maison ossature bois et sa vue mer - Réf. 00104EACA\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1-960x559.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1-480x279.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "22590 PORDIC - Maison ossature bois et sa vue mer - Réf. 00104EACA",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 596,
+    "file": "281096/00104EACA/281096-00104EACA-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "281096-00104EACA-1-960x559.jpg",
+        "width": 960,
+        "height": 559,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1-960x559.jpg"
+      },
+      "thumbnail": {
+        "file": "281096-00104EACA-1-480x279.jpg",
+        "width": 480,
+        "height": 279,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1-480x279.jpg"
+      },
+      "full": {
+        "file": "281096-00104EACA-1.jpg",
+        "width": 1024,
+        "height": 596,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 114946,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00104EACA/281096-00104EACA-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/125762"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/41"
+      }
+    ]
+  }
+}

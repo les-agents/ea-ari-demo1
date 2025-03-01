@@ -1,0 +1,79 @@
+{
+  "id": 172286,
+  "date": "2020-10-12T21:14:03",
+  "date_gmt": "2020-10-12T19:14:03",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/visuel-4-gabriel.jpg"
+  },
+  "modified": "2020-10-12T21:15:43",
+  "modified_gmt": "2020-10-12T19:15:43",
+  "slug": "visuel-4-gabriel",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/35000-rennes-elegance-pour-cet-appartement-et-son-jardin-suspendu-32696/attachment/visuel-4-gabriel/",
+  "title": {
+    "rendered": "visuel 4 gabriel"
+  },
+  "author": 39,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/visuel-4-gabriel.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"629\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/visuel-4-gabriel.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 3024,
+    "height": 1982,
+    "file": "2020/10/visuel-4-gabriel.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 172121,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/visuel-4-gabriel.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/172286"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/39"
+      }
+    ]
+  }
+}

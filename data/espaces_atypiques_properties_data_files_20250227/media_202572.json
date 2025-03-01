@@ -1,0 +1,115 @@
+{
+  "id": 202572,
+  "date": "2020-12-11T21:50:53",
+  "date_gmt": "2020-12-11T20:50:53",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1.jpg"
+  },
+  "modified": "2020-12-11T21:51:08",
+  "modified_gmt": "2020-12-11T20:51:08",
+  "slug": "121992-539eag-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/38400-saint-martin-d-heres-maison-avec-jardin-et-solarium-signee-jean-renaudie-539eag/attachment/121992-539eag-1-jpg/",
+  "title": {
+    "rendered": "Maison avec jardin et solarium signée Jean Renaudie &#8211; Réf. 539EAG"
+  },
+  "author": 21,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"635\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1-960x635.jpg\" class=\"attachment-medium size-medium\" alt=\"38400 SAINT MARTIN D HERES - Maison avec jardin et solarium signée Jean Renaudie - Réf. 539EAG\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1-960x635.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1-1680x1111.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1-480x318.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1-1536x1016.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "38400 SAINT MARTIN D HERES - Maison avec jardin et solarium signée Jean Renaudie - Réf. 539EAG",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1270,
+    "file": "121992/539EAG/121992-539EAG-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "121992-539EAG-1-960x635.jpg",
+        "width": 960,
+        "height": 635,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1-960x635.jpg"
+      },
+      "large": {
+        "file": "121992-539EAG-1-1680x1111.jpg",
+        "width": 1680,
+        "height": 1111,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1-1680x1111.jpg"
+      },
+      "thumbnail": {
+        "file": "121992-539EAG-1-480x318.jpg",
+        "width": 480,
+        "height": 318,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1-480x318.jpg"
+      },
+      "1536x1536": {
+        "file": "121992-539EAG-1-1536x1016.jpg",
+        "width": 1536,
+        "height": 1016,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1-1536x1016.jpg"
+      },
+      "full": {
+        "file": "121992-539EAG-1.jpg",
+        "width": 1920,
+        "height": 1270,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 202571,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121992/539EAG/121992-539EAG-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/202572"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/21"
+      }
+    ]
+  }
+}

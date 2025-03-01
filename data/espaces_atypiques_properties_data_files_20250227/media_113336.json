@@ -1,0 +1,101 @@
+{
+  "id": 113336,
+  "date": "2020-07-29T14:03:12",
+  "date_gmt": "2020-07-29T12:03:12",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01.jpg"
+  },
+  "modified": "2020-08-03T18:54:57",
+  "modified_gmt": "2020-08-03T16:54:57",
+  "slug": "355ea_bossey_renovation_01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/74160-bossey-corps-de-ferme-dexception-dominant-geneve-803ea/attachment/355ea_bossey_renovation_01/",
+  "title": {
+    "rendered": "355EA_bossey_renovation_01"
+  },
+  "author": 22,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"Maison d&#039;exception aux portes de Genève\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01.jpg 1678w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "Maison d'exception aux portes de Genève",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1678,
+    "height": 1120,
+    "file": "2018/05/355EA_bossey_renovation_01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "355EA_bossey_renovation_01-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "355EA_bossey_renovation_01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01-480x320.jpg"
+      },
+      "full": {
+        "file": "355EA_bossey_renovation_01.jpg",
+        "width": 1678,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "NIKON D750",
+      "caption": "",
+      "created_timestamp": "1492525542",
+      "copyright": "",
+      "focal_length": "16",
+      "iso": "100",
+      "shutter_speed": "0.002",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 34895,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/355EA_bossey_renovation_01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/113336"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/22"
+      }
+    ]
+  }
+}

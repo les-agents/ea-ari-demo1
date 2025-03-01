@@ -1,0 +1,94 @@
+{
+  "id": 122420,
+  "date": "2020-07-30T12:51:43",
+  "date_gmt": "2020-07-30T10:51:43",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/DSC09458-HDR-Copy.jpg"
+  },
+  "modified": "2020-07-30T12:52:37",
+  "modified_gmt": "2020-07-30T10:52:37",
+  "slug": "dsc09458-hdr-copy",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/73200-mercury-maison-de-campagne-revisitee-avec-vue-mont-blanc-718ea/attachment/dsc09458-hdr-copy/",
+  "title": {
+    "rendered": "DSC09458-HDR (Copy)"
+  },
+  "author": 22,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/DSC09458-HDR-Copy.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/DSC09458-HDR-Copy-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"MERCURY\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/DSC09458-HDR-Copy-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/DSC09458-HDR-Copy.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "MERCURY",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/06/DSC09458-HDR-Copy.jpg",
+    "sizes": {
+      "medium": {
+        "file": "DSC09458-HDR-Copy-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/DSC09458-HDR-Copy-960x640.jpg"
+      },
+      "full": {
+        "file": "DSC09458-HDR-Copy.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/DSC09458-HDR-Copy.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "ILCE-7RM3",
+      "caption": "",
+      "created_timestamp": "1570097540",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "500",
+      "shutter_speed": "0.0015625",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 35293,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/DSC09458-HDR-Copy.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/122420"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/22"
+      }
+    ]
+  }
+}

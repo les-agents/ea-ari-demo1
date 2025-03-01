@@ -1,0 +1,101 @@
+{
+  "id": 138358,
+  "date": "2020-08-12T10:48:49",
+  "date_gmt": "2020-08-12T08:48:49",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1.jpg"
+  },
+  "modified": "2020-08-12T10:48:49",
+  "modified_gmt": "2020-08-12T08:48:49",
+  "slug": "289699-0261-16-1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/30360-vezenobres-douce-maison-de-ville-avec-jardin-piscine-et-vue-panoramique-0261-16/attachment/289699-0261-16-1/",
+  "title": {
+    "rendered": "Douce maison de ville avec jardin"
+  },
+  "author": 30,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"30360 VEZENOBRES - Douce maison de ville avec jardin\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "30360 VEZENOBRES - Douce maison de ville avec jardin",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 853,
+    "file": "289699/0261-16/289699-0261-16-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "289699-0261-16-1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "289699-0261-16-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1-480x320.jpg"
+      },
+      "full": {
+        "file": "289699-0261-16-1.jpg",
+        "width": 1280,
+        "height": 853,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 135952,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289699/0261-16/289699-0261-16-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/138358"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/30"
+      }
+    ]
+  }
+}

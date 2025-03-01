@@ -1,0 +1,115 @@
+{
+  "id": 209673,
+  "date": "2021-01-05T12:42:00",
+  "date_gmt": "2021-01-05T11:42:00",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3.jpg"
+  },
+  "modified": "2021-01-05T12:42:00",
+  "modified_gmt": "2021-01-05T11:42:00",
+  "slug": "loft-ancien-theatre-st-genes-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33000-bordeaux-loft-avec-terrasses-dans-un-ancien-theatre-863eabx/attachment/loft-ancien-theatre-st-genes-3/",
+  "title": {
+    "rendered": "loft-ancien-theatre-st-genes-3"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1281,
+    "file": "2020/09/loft-ancien-theatre-st-genes-3.jpg",
+    "sizes": {
+      "medium": {
+        "file": "loft-ancien-theatre-st-genes-3-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3-960x641.jpg"
+      },
+      "large": {
+        "file": "loft-ancien-theatre-st-genes-3-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "loft-ancien-theatre-st-genes-3-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "loft-ancien-theatre-st-genes-3-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3-1536x1025.jpg"
+      },
+      "full": {
+        "file": "loft-ancien-theatre-st-genes-3.jpg",
+        "width": 1920,
+        "height": 1281,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "©Stanislas Ledoux",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1599056434",
+      "copyright": "©Stanislas Ledoux",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 151873,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/loft-ancien-theatre-st-genes-3.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/209673"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

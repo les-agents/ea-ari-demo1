@@ -1,0 +1,115 @@
+{
+  "id": 171641,
+  "date": "2020-10-10T23:04:52",
+  "date_gmt": "2020-10-10T21:04:52",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1.jpg"
+  },
+  "modified": "2020-10-10T23:05:07",
+  "modified_gmt": "2020-10-10T21:05:07",
+  "slug": "270305-3283-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/35000-rennes-appartement-cosy-a-saint-helier-proche-gare-lgv-3283/attachment/270305-3283-1-jpg/",
+  "title": {
+    "rendered": "Appartement cosy à Saint-Hélier &#8211; proche  gare LGV &#8211; Réf. 3283"
+  },
+  "author": 39,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"35000 RENNES - Appartement cosy à Saint-Hélier - proche  gare LGV - Réf. 3283\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1-1680x1117.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "35000 RENNES - Appartement cosy à Saint-Hélier - proche  gare LGV - Réf. 3283",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1277,
+    "file": "270305/3283/270305-3283-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "270305-3283-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1-960x639.jpg"
+      },
+      "large": {
+        "file": "270305-3283-1-1680x1117.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1-1680x1117.jpg"
+      },
+      "thumbnail": {
+        "file": "270305-3283-1-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "270305-3283-1-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1-1536x1022.jpg"
+      },
+      "full": {
+        "file": "270305-3283-1.jpg",
+        "width": 1920,
+        "height": 1277,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 171640,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3283/270305-3283-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/171641"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/39"
+      }
+    ]
+  }
+}

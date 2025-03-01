@@ -1,0 +1,101 @@
+{
+  "id": 133120,
+  "date": "2020-08-05T19:27:23",
+  "date_gmt": "2020-08-05T17:27:23",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4.jpg"
+  },
+  "modified": "2020-10-29T17:06:24",
+  "modified_gmt": "2020-10-29T16:06:24",
+  "slug": "169287-ealr452-4-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/17200-royan-renovation-contemporaine-dans-les-parcs-ealr516/attachment/169287-ealr452-4-jpg/",
+  "title": {
+    "rendered": "Villa des Années 30 revisitée dans les Parcs &#8211; Réf. EALR452"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"renovation-contemporaine-parc-royan\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>renovation-contemporaine-parc-royan</p>\n"
+  },
+  "alt_text": "renovation-contemporaine-parc-royan",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 682,
+    "file": "169287/EALR452/169287-EALR452-4.jpg",
+    "sizes": {
+      "medium": {
+        "file": "169287-EALR452-4-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4-960x639.jpg"
+      },
+      "thumbnail": {
+        "file": "169287-EALR452-4-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4-480x320.jpg"
+      },
+      "full": {
+        "file": "169287-EALR452-4.jpg",
+        "width": 1024,
+        "height": 682,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 133113,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR452/169287-EALR452-4.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/133120"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

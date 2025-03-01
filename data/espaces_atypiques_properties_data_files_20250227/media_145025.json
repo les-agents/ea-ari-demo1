@@ -1,0 +1,108 @@
+{
+  "id": 145025,
+  "date": "2020-08-24T18:30:52",
+  "date_gmt": "2020-08-24T16:30:52",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1.jpg"
+  },
+  "modified": "2020-12-09T11:16:55",
+  "modified_gmt": "2020-12-09T10:16:55",
+  "slug": "151467-76-1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83990-saint-tropez-villa-contemporaine-vue-mer-proche-plage-451/attachment/151467-76-1/",
+  "title": {
+    "rendered": "VILLA VUE MER D&rsquo;INSPIRATION MARCIO KOGAN ARCHITECTE BRESILIEN &#8211; Réf. 76"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"644\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1-960x644.jpg\" class=\"attachment-medium size-medium\" alt=\"83310 GRIMAUD - VILLA VUE MER D&#039;INSPIRATION MARCIO KOGAN ARCHITECTE BRESILIEN - Réf. 76\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1-960x644.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1-480x322.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1-1536x1031.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1.jpg 1669w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83310 GRIMAUD - VILLA VUE MER D'INSPIRATION MARCIO KOGAN ARCHITECTE BRESILIEN - Réf. 76",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1669,
+    "height": 1120,
+    "file": "151467/76/151467-76-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "151467-76-1-960x644.jpg",
+        "width": 960,
+        "height": 644,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1-960x644.jpg"
+      },
+      "thumbnail": {
+        "file": "151467-76-1-480x322.jpg",
+        "width": 480,
+        "height": 322,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1-480x322.jpg"
+      },
+      "1536x1536": {
+        "file": "151467-76-1-1536x1031.jpg",
+        "width": 1536,
+        "height": 1031,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1-1536x1031.jpg"
+      },
+      "full": {
+        "file": "151467-76-1.jpg",
+        "width": 1669,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 130580,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/76/151467-76-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/145025"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 150308,
+  "date": "2020-09-03T20:42:48",
+  "date_gmt": "2020-09-03T18:42:48",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR.jpg"
+  },
+  "modified": "2020-09-03T20:43:38",
+  "modified_gmt": "2020-09-03T18:43:38",
+  "slug": "dsc00134-hdr",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/14130-pont-l-eveque-magnifique-pressoir-rehabilite-a-pont-leveque-349/attachment/dsc00134-hdr/",
+  "title": {
+    "rendered": "EADC349CT1"
+  },
+  "author": 42,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"EADC349CT1\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-2048x1365.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "EADC349CT1",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 5982,
+    "height": 3988,
+    "file": "2020/08/DSC00134-HDR.jpg",
+    "sizes": {
+      "medium": {
+        "file": "DSC00134-HDR-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-960x640.jpg"
+      },
+      "large": {
+        "file": "DSC00134-HDR-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "DSC00134-HDR-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "DSC00134-HDR-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-1536x1024.jpg"
+      },
+      "2048x2048": {
+        "file": "DSC00134-HDR-2048x1365.jpg",
+        "width": 2048,
+        "height": 1365,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR-2048x1365.jpg"
+      },
+      "full": {
+        "file": "DSC00134-HDR.jpg",
+        "width": 5982,
+        "height": 3988,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "7.1",
+      "credit": "",
+      "camera": "ILCE-6300",
+      "caption": "",
+      "created_timestamp": "1559820136",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.125",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 116929,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC00134-HDR.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/150308"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/42"
+      }
+    ]
+  }
+}

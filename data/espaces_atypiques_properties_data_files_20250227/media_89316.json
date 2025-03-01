@@ -1,0 +1,101 @@
+{
+  "id": 89316,
+  "date": "2020-07-24T10:52:05",
+  "date_gmt": "2020-07-24T08:52:05",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002.jpeg"
+  },
+  "modified": "2020-08-25T13:18:13",
+  "modified_gmt": "2020-08-25T11:18:13",
+  "slug": "1039eaf-propriete-bucolique-au-bord-de-lelorn-guipavas00002",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/29490-guipavas-propriete-bucolique-au-bord-de-lelorn-v1039eaf/attachment/1039eaf-propriete-bucolique-au-bord-de-lelorn-guipavas00002/",
+  "title": {
+    "rendered": "1039EAF-propriété-bucolique-au-bord-de-l&rsquo;élorn-guipavas00002"
+  },
+  "author": 40,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"638\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002-960x638.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002-960x638.jpeg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002-480x319.jpeg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002.jpeg 1106w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1106,
+    "height": 735,
+    "file": "2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002.jpeg",
+    "sizes": {
+      "medium": {
+        "file": "1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002-960x638.jpeg",
+        "width": 960,
+        "height": 638,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002-960x638.jpeg"
+      },
+      "thumbnail": {
+        "file": "1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002-480x319.jpeg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002-480x319.jpeg"
+      },
+      "full": {
+        "file": "1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002.jpeg",
+        "width": 1106,
+        "height": 735,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002.jpeg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1587472368",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 8734,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/1039EAF-propriété-bucolique-au-bord-de-lélorn-guipavas00002.jpeg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/89316"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/40"
+      }
+    ]
+  }
+}

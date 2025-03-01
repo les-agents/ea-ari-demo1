@@ -1,0 +1,115 @@
+{
+  "id": 198337,
+  "date": "2020-12-03T22:58:06",
+  "date_gmt": "2020-12-03T21:58:06",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01.jpg"
+  },
+  "modified": "2020-12-03T22:59:09",
+  "modified_gmt": "2020-12-03T21:59:09",
+  "slug": "2156el_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/69007-lyon-ancien-renove-en-dernier-etage-2156el/attachment/2156el_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01/",
+  "title": {
+    "rendered": "2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01"
+  },
+  "author": 19,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-960x640.jpg"
+      },
+      "large": {
+        "file": "2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01-1536x1024.jpg"
+      },
+      "full": {
+        "file": "2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "NIKON D850",
+      "caption": "",
+      "created_timestamp": "1603808591",
+      "copyright": "",
+      "focal_length": "20",
+      "iso": "64",
+      "shutter_speed": "0.008",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 198311,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2156EL_appartmeent_ancien_renove_contemporain_saxe_gambetta_place_saint_louis_lyon_01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/198337"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/19"
+      }
+    ]
+  }
+}

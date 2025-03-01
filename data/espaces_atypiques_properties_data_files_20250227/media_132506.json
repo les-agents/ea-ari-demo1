@@ -1,0 +1,115 @@
+{
+  "id": 132506,
+  "date": "2020-08-05T10:53:48",
+  "date_gmt": "2020-08-05T08:53:48",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier.jpg"
+  },
+  "modified": "2020-09-16T17:12:00",
+  "modified_gmt": "2020-09-16T15:12:00",
+  "slug": "duplex-dernier-etage-avec-vue-488eag-1-copier",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/38000-grenoble-duplex-en-dernier-etage-avec-vue-488eag/attachment/duplex-dernier-etage-avec-vue-488eag-1-copier/",
+  "title": {
+    "rendered": "duplex-dernier-etage-avec-vue-488eag-1 (Copier)"
+  },
+  "author": 21,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier.jpg",
+    "sizes": {
+      "medium": {
+        "file": "duplex-dernier-etage-avec-vue-488eag-1-Copier-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier-960x640.jpg"
+      },
+      "large": {
+        "file": "duplex-dernier-etage-avec-vue-488eag-1-Copier-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "duplex-dernier-etage-avec-vue-488eag-1-Copier-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "duplex-dernier-etage-avec-vue-488eag-1-Copier-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier-1536x1024.jpg"
+      },
+      "full": {
+        "file": "duplex-dernier-etage-avec-vue-488eag-1-Copier.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 128501,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/duplex-dernier-etage-avec-vue-488eag-1-Copier.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/132506"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/21"
+      }
+    ]
+  }
+}

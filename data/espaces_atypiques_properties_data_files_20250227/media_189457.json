@@ -1,0 +1,94 @@
+{
+  "id": 189457,
+  "date": "2020-11-16T20:21:00",
+  "date_gmt": "2020-11-16T19:21:00",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/121806/747-1/121806-747-1-1.jpg"
+  },
+  "modified": "2020-11-16T20:21:02",
+  "modified_gmt": "2020-11-16T19:21:02",
+  "slug": "121806-747-1-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/44000-nantes-appartement-cours-des-50-otages-747-1/attachment/121806-747-1-1-jpg/",
+  "title": {
+    "rendered": "Appartement Cours des 50 Otages &#8211; Réf. 747-1"
+  },
+  "author": 33,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/121806/747-1/121806-747-1-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"749\" height=\"768\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/121806/747-1/121806-747-1-1.jpg\" class=\"attachment-medium size-medium\" alt=\"44000 NANTES - Appartement Cours des 50 Otages - Réf. 747-1\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/121806/747-1/121806-747-1-1.jpg 749w, https://preprod.espaces-atypiques.com/wp-content/uploads/121806/747-1/121806-747-1-1-468x480.jpg 468w\" sizes=\"(max-width: 749px) 100vw, 749px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "44000 NANTES - Appartement Cours des 50 Otages - Réf. 747-1",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 749,
+    "height": 768,
+    "file": "121806/747-1/121806-747-1-1.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "121806-747-1-1-468x480.jpg",
+        "width": 468,
+        "height": 480,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121806/747-1/121806-747-1-1-468x480.jpg"
+      },
+      "full": {
+        "file": "121806-747-1-1.jpg",
+        "width": 749,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121806/747-1/121806-747-1-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 189456,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121806/747-1/121806-747-1-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/189457"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/33"
+      }
+    ]
+  }
+}

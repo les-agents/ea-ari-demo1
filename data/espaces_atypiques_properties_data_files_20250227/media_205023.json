@@ -1,0 +1,115 @@
+{
+  "id": 205023,
+  "date": "2020-12-17T11:23:07",
+  "date_gmt": "2020-12-17T10:23:07",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier.jpg"
+  },
+  "modified": "2020-12-17T11:24:01",
+  "modified_gmt": "2020-12-17T10:24:01",
+  "slug": "_dsc9493xm-copier",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/38640-claix-appartement-de-charme-chateau-de-la-balme-529eag/attachment/_dsc9493xm-copier/",
+  "title": {
+    "rendered": "_DSC9493XM (Copier)"
+  },
+  "author": 21,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier-1680x1118.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1278,
+    "file": "2020/11/DSC9493XM-Copier.jpg",
+    "sizes": {
+      "medium": {
+        "file": "DSC9493XM-Copier-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier-960x639.jpg"
+      },
+      "large": {
+        "file": "DSC9493XM-Copier-1680x1118.jpg",
+        "width": 1680,
+        "height": 1118,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier-1680x1118.jpg"
+      },
+      "thumbnail": {
+        "file": "DSC9493XM-Copier-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "DSC9493XM-Copier-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier-1536x1022.jpg"
+      },
+      "full": {
+        "file": "DSC9493XM-Copier.jpg",
+        "width": 1920,
+        "height": 1278,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "9",
+      "credit": "",
+      "camera": "NIKON D4S",
+      "caption": "",
+      "created_timestamp": "1607357222",
+      "copyright": "Michel BATTAGLIA",
+      "focal_length": "27",
+      "iso": "250",
+      "shutter_speed": "0.01",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 200339,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/DSC9493XM-Copier.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/205023"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/21"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": 199542,
+  "date": "2020-12-07T10:25:45",
+  "date_gmt": "2020-12-07T09:25:45",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2.jpg"
+  },
+  "modified": "2020-12-07T10:26:19",
+  "modified_gmt": "2020-12-07T09:26:19",
+  "slug": "visuel-protege-groupe-2-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/tres-bel-hotel-particulier-angers-hyper-centre-arg622/attachment/visuel-protege-groupe-2-2/",
+  "title": {
+    "rendered": "Visuel Protégé GROUPE-2"
+  },
+  "author": 35,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"540\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2-960x540.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2-960x540.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2-1680x945.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2-480x270.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1080,
+    "file": "2020/05/Visuel-Protégé-GROUPE-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Visuel-Protégé-GROUPE-2-960x540.jpg",
+        "width": 960,
+        "height": 540,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2-960x540.jpg"
+      },
+      "large": {
+        "file": "Visuel-Protégé-GROUPE-2-1680x945.jpg",
+        "width": 1680,
+        "height": 945,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2-1680x945.jpg"
+      },
+      "thumbnail": {
+        "file": "Visuel-Protégé-GROUPE-2-480x270.jpg",
+        "width": 480,
+        "height": 270,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2-480x270.jpg"
+      },
+      "full": {
+        "file": "Visuel-Protégé-GROUPE-2.jpg",
+        "width": 1920,
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1606991782",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 199027,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Visuel-Protégé-GROUPE-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/199542"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/35"
+      }
+    ]
+  }
+}

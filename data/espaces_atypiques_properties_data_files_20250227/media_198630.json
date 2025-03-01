@@ -1,0 +1,115 @@
+{
+  "id": 198630,
+  "date": "2020-12-04T13:22:07",
+  "date_gmt": "2020-12-04T12:22:07",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4.jpg"
+  },
+  "modified": "2020-12-04T13:22:07",
+  "modified_gmt": "2020-12-04T12:22:07",
+  "slug": "espaces-atypiques-achat-vente-maison-loft-angers-4",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/49100-angers-appartement-duplex-hors-du-temps-415/attachment/espaces-atypiques-achat-vente-maison-loft-angers-4/",
+  "title": {
+    "rendered": "Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4"
+  },
+  "author": 35,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-1680x1122.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-1536x1026.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1282,
+    "file": "2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-960x641.jpg"
+      },
+      "large": {
+        "file": "Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-1680x1122.jpg",
+        "width": 1680,
+        "height": 1122,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-1680x1122.jpg"
+      },
+      "thumbnail": {
+        "file": "Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-1536x1026.jpg",
+        "width": 1536,
+        "height": 1026,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4-1536x1026.jpg"
+      },
+      "full": {
+        "file": "Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4.jpg",
+        "width": 1920,
+        "height": 1282,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "John Photography",
+      "camera": "NIKON D750",
+      "caption": "",
+      "created_timestamp": "1568792373",
+      "copyright": "@2019 Copyright l All Rights Reserved",
+      "focal_length": "18",
+      "iso": "800",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 176157,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/Espaces-Atypiques-Achat-Vente-Maison-Loft-Angers-4.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/198630"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/35"
+      }
+    ]
+  }
+}

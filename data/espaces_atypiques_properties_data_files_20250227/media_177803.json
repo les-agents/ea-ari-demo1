@@ -1,0 +1,115 @@
+{
+  "id": 177803,
+  "date": "2020-10-21T18:04:05",
+  "date_gmt": "2020-10-21T16:04:05",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14.jpg"
+  },
+  "modified": "2020-10-21T18:08:40",
+  "modified_gmt": "2020-10-21T16:08:40",
+  "slug": "2310_-9",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83990-saint-tropez-appartement-mythique-avec-lune-des-plus-belles-vues-de-saint-tropez-706/attachment/2310_-9/",
+  "title": {
+    "rendered": "2310_"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14-1680x1117.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1277,
+    "file": "2018/05/2310__14.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2310__14-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14-960x639.jpg"
+      },
+      "large": {
+        "file": "2310__14-1680x1117.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14-1680x1117.jpg"
+      },
+      "thumbnail": {
+        "file": "2310__14-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "2310__14-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14-1536x1022.jpg"
+      },
+      "full": {
+        "file": "2310__14.jpg",
+        "width": 1920,
+        "height": 1277,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "16",
+      "credit": "MelgraniOlivier",
+      "camera": "PENTAX K-3",
+      "caption": "",
+      "created_timestamp": "1526047922",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.016666666666667",
+      "title": "2310_",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 177275,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/2310__14.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/177803"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

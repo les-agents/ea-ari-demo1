@@ -1,0 +1,115 @@
+{
+  "id": 161793,
+  "date": "2020-09-23T14:50:39",
+  "date_gmt": "2020-09-23T12:50:39",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3.jpg"
+  },
+  "modified": "2020-09-23T15:00:49",
+  "modified_gmt": "2020-09-23T13:00:49",
+  "slug": "maison-contemporaine-proche-mer-meschers-royan3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/contemporaine-entre-mer-et-foret/attachment/maison-contemporaine-proche-mer-meschers-royan3/",
+  "title": {
+    "rendered": "Maison-contemporaine-proche-mer-meschers-royan3"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"Maison-contemporaine-proche-mer-meschers-royan\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>Maison-contemporaine-proche-mer-meschers-royan</p>\n"
+  },
+  "alt_text": "Maison-contemporaine-proche-mer-meschers-royan",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/09/Maison-contemporaine-proche-mer-meschers-royan3.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Maison-contemporaine-proche-mer-meschers-royan3-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3-960x640.jpg"
+      },
+      "large": {
+        "file": "Maison-contemporaine-proche-mer-meschers-royan3-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "Maison-contemporaine-proche-mer-meschers-royan3-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "Maison-contemporaine-proche-mer-meschers-royan3-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3-1536x1024.jpg"
+      },
+      "full": {
+        "file": "Maison-contemporaine-proche-mer-meschers-royan3.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Florent Fauqueux",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "Credit Photo: Florent Fauqueux",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 161788,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Maison-contemporaine-proche-mer-meschers-royan3.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/161793"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

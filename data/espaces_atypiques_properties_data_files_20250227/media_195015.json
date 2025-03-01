@@ -1,0 +1,115 @@
+{
+  "id": 195015,
+  "date": "2020-11-28T14:07:44",
+  "date_gmt": "2020-11-28T13:07:44",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final.jpg"
+  },
+  "modified": "2020-11-28T14:08:46",
+  "modified_gmt": "2020-11-28T13:08:46",
+  "slug": "bdl-b21_final",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/67370-willgottheim-duplex-en-dernier-etage-avec-terrasse-0462eas-t4/attachment/bdl-b21_final/",
+  "title": {
+    "rendered": "BDL-B21_final"
+  },
+  "author": 56,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"67370 WILLGOTTHEIM - Duplex en dernier étage avec terrasse - Réf. 0462EAS-T4\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "67370 WILLGOTTHEIM - Duplex en dernier étage avec terrasse - Réf. 0462EAS-T4",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/11/BDL-B21_final.jpg",
+    "sizes": {
+      "medium": {
+        "file": "BDL-B21_final-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final-960x640.jpg"
+      },
+      "large": {
+        "file": "BDL-B21_final-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "BDL-B21_final-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "BDL-B21_final-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final-1536x1024.jpg"
+      },
+      "full": {
+        "file": "BDL-B21_final.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 192140,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/BDL-B21_final.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/195015"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/56"
+      }
+    ]
+  }
+}

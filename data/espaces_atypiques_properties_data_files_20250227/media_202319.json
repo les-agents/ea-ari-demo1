@@ -1,0 +1,122 @@
+{
+  "id": 202319,
+  "date": "2020-12-11T15:04:09",
+  "date_gmt": "2020-12-11T14:04:09",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS.jpg"
+  },
+  "modified": "2020-12-11T15:04:09",
+  "modified_gmt": "2020-12-11T14:04:09",
+  "slug": "mallick-hubstairs",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83000-toulon-appartement-grand-format-avec-balcon-filant-proche-mer-0385ev/attachment/mallick-hubstairs/",
+  "title": {
+    "rendered": "MALLICK HUBSTAIRS"
+  },
+  "author": 57,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"621\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-960x621.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-960x621.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-1680x1087.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-480x311.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-1536x994.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-2048x1326.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 3317,
+    "height": 2147,
+    "file": "2020/10/MALLICK-HUBSTAIRS.jpg",
+    "sizes": {
+      "medium": {
+        "file": "MALLICK-HUBSTAIRS-960x621.jpg",
+        "width": 960,
+        "height": 621,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-960x621.jpg"
+      },
+      "large": {
+        "file": "MALLICK-HUBSTAIRS-1680x1087.jpg",
+        "width": 1680,
+        "height": 1087,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-1680x1087.jpg"
+      },
+      "thumbnail": {
+        "file": "MALLICK-HUBSTAIRS-480x311.jpg",
+        "width": 480,
+        "height": 311,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-480x311.jpg"
+      },
+      "1536x1536": {
+        "file": "MALLICK-HUBSTAIRS-1536x994.jpg",
+        "width": 1536,
+        "height": 994,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-1536x994.jpg"
+      },
+      "2048x2048": {
+        "file": "MALLICK-HUBSTAIRS-2048x1326.jpg",
+        "width": 2048,
+        "height": 1326,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS-2048x1326.jpg"
+      },
+      "full": {
+        "file": "MALLICK-HUBSTAIRS.jpg",
+        "width": 3317,
+        "height": 2147,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 193156,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/MALLICK-HUBSTAIRS.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/202319"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/57"
+      }
+    ]
+  }
+}

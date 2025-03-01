@@ -1,0 +1,79 @@
+{
+  "id": 143410,
+  "date": "2020-08-21T13:38:35",
+  "date_gmt": "2020-08-21T11:38:35",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/06/26.jpg"
+  },
+  "modified": "2020-08-21T13:39:20",
+  "modified_gmt": "2020-08-21T11:39:20",
+  "slug": "26",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34570-murviel-les-montpellier-maison-de-famille-et-son-espace-independant-0086-12/attachment/26/",
+  "title": {
+    "rendered": "26"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/26.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/26.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 853,
+    "file": "2019/06/26.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "22",
+      "credit": "",
+      "camera": "NIKON D5",
+      "caption": "",
+      "created_timestamp": "1561112816",
+      "copyright": "",
+      "focal_length": "14",
+      "iso": "1000",
+      "shutter_speed": "0.008",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 141515,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/26.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/143410"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

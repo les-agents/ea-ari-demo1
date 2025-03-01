@@ -1,0 +1,115 @@
+{
+  "id": 197442,
+  "date": "2020-12-03T07:18:47",
+  "date_gmt": "2020-12-03T06:18:47",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01.jpg"
+  },
+  "modified": "2020-12-03T07:22:38",
+  "modified_gmt": "2020-12-03T06:22:38",
+  "slug": "m2536ep-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/93500-pantin-duplex-en-dernier-avec-terrasse-2536ep/attachment/m2536ep-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01/",
+  "title": {
+    "rendered": "M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"93500 PANTIN - Duplex en dernier avec terrasse - Réf. 2536EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "93500 PANTIN - Duplex en dernier avec terrasse - Réf. 2536EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-960x640.jpg"
+      },
+      "large": {
+        "file": "M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01-1536x1024.jpg"
+      },
+      "full": {
+        "file": "M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "16",
+      "credit": "",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1603972762",
+      "copyright": "",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "0.25",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 197441,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2536EP-espaces-atypiques-duplex-dernier-etage-terrasse-93400-pantin-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/197442"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

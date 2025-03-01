@@ -1,0 +1,94 @@
+{
+  "id": 209970,
+  "date": "2021-01-06T21:30:11",
+  "date_gmt": "2021-01-06T20:30:11",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/2195EL_appartement_jardin_garage_lyon_001.jpg"
+  },
+  "modified": "2021-01-06T21:30:57",
+  "modified_gmt": "2021-01-06T20:30:57",
+  "slug": "2195el_appartement_jardin_garage_lyon_001",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/69007-lyon-duplex-avec-jardin-2195el/attachment/2195el_appartement_jardin_garage_lyon_001/",
+  "title": {
+    "rendered": "2195EL_appartement_jardin_garage_lyon_001"
+  },
+  "author": 19,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2195EL_appartement_jardin_garage_lyon_001.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2195EL_appartement_jardin_garage_lyon_001-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2195EL_appartement_jardin_garage_lyon_001-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2195EL_appartement_jardin_garage_lyon_001.jpg 1918w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1918,
+    "height": 1280,
+    "file": "2020/12/2195EL_appartement_jardin_garage_lyon_001.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2195EL_appartement_jardin_garage_lyon_001-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2195EL_appartement_jardin_garage_lyon_001-960x641.jpg"
+      },
+      "full": {
+        "file": "2195EL_appartement_jardin_garage_lyon_001.jpg",
+        "width": 1918,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2195EL_appartement_jardin_garage_lyon_001.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 196066,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2195EL_appartement_jardin_garage_lyon_001.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/209970"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/19"
+      }
+    ]
+  }
+}

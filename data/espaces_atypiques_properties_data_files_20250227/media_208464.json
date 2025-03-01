@@ -1,0 +1,101 @@
+{
+  "id": 208464,
+  "date": "2020-12-28T20:20:52",
+  "date_gmt": "2020-12-28T19:20:52",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1.jpg"
+  },
+  "modified": "2020-12-28T20:20:54",
+  "modified_gmt": "2020-12-28T19:20:54",
+  "slug": "121806-781-1-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/44100-nantes-neuf-dernier-etage-dans-une-residence-intimiste-au-centre-de-nantes-781-1/attachment/121806-781-1-1-jpg/",
+  "title": {
+    "rendered": "Neuf : Dernier étage dans une résidence intimiste au Centre de Nantes &#8211; Réf. 781-1"
+  },
+  "author": 33,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"716\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1-960x716.jpg\" class=\"attachment-medium size-medium\" alt=\"44100 NANTES - Neuf : Dernier étage dans une résidence intimiste au Centre de Nantes - Réf. 781-1\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1-960x716.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1-480x358.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "44100 NANTES - Neuf : Dernier étage dans une résidence intimiste au Centre de Nantes - Réf. 781-1",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 764,
+    "file": "121806/781-1/121806-781-1-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "121806-781-1-1-960x716.jpg",
+        "width": 960,
+        "height": 716,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1-960x716.jpg"
+      },
+      "thumbnail": {
+        "file": "121806-781-1-1-480x358.jpg",
+        "width": 480,
+        "height": 358,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1-480x358.jpg"
+      },
+      "full": {
+        "file": "121806-781-1-1.jpg",
+        "width": 1024,
+        "height": 764,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 208463,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/121806/781-1/121806-781-1-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/208464"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/33"
+      }
+    ]
+  }
+}

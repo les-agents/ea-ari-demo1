@@ -1,0 +1,94 @@
+{
+  "id": 115626,
+  "date": "2020-07-29T17:46:07",
+  "date_gmt": "2020-07-29T15:46:07",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO002/280518-EAVO002-1.jpg"
+  },
+  "modified": "2020-07-29T17:46:14",
+  "modified_gmt": "2020-07-29T15:46:14",
+  "slug": "280518-eavo002-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/95270-viarmes-cocon-de-douceur-ancien-corps-de-ferme-eavo002/attachment/280518-eavo002-1-jpg/",
+  "title": {
+    "rendered": "Cocon de Douceur &#8211; Ancien corps de Ferme &#8211; Réf. EAVO002"
+  },
+  "author": 8,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO002/280518-EAVO002-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"428\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO002/280518-EAVO002-1.jpg\" class=\"attachment-medium size-medium\" alt=\"95270 VIARMES - Cocon de Douceur - Ancien corps de Ferme - Réf. EAVO002\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO002/280518-EAVO002-1.jpg 640w, https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO002/280518-EAVO002-1-480x321.jpg 480w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "95270 VIARMES - Cocon de Douceur - Ancien corps de Ferme - Réf. EAVO002",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 640,
+    "height": 428,
+    "file": "280518/EAVO002/280518-EAVO002-1.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "280518-EAVO002-1-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO002/280518-EAVO002-1-480x321.jpg"
+      },
+      "full": {
+        "file": "280518-EAVO002-1.jpg",
+        "width": 640,
+        "height": 428,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO002/280518-EAVO002-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 115625,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO002/280518-EAVO002-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/115626"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/8"
+      }
+    ]
+  }
+}

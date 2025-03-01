@@ -1,0 +1,94 @@
+{
+  "id": 181565,
+  "date": "2020-10-28T11:32:48",
+  "date_gmt": "2020-10-28T10:32:48",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1.jpg"
+  },
+  "modified": "2020-10-28T11:33:24",
+  "modified_gmt": "2020-10-28T10:33:24",
+  "slug": "achat-vente-appartement-duplex-neuf-nantes-espaces-atypiques-nantes-la-baule-1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/44200-nantes-dernier-etage-au-quartier-de-la-creation-730-1/attachment/achat-vente-appartement-duplex-neuf-nantes-espaces-atypiques-nantes-la-baule-1/",
+  "title": {
+    "rendered": "Achat Vente &#8211; Appartement Duplex Neuf Nantes &#8211; Espaces Atypiques Nantes &#8211; La Baule-1"
+  },
+  "author": 33,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"621\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1-960x621.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1-960x621.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1241,
+    "file": "2020/10/Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1-960x621.jpg",
+        "width": 960,
+        "height": 621,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1-960x621.jpg"
+      },
+      "full": {
+        "file": "Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1.jpg",
+        "width": 1920,
+        "height": 1241,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 180587,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Achat-Vente-Appartement-Duplex-Neuf-Nantes-Espaces-Atypiques-Nantes-La-Baule-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/181565"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/33"
+      }
+    ]
+  }
+}

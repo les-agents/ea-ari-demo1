@@ -1,0 +1,108 @@
+{
+  "id": 151966,
+  "date": "2020-09-07T20:32:18",
+  "date_gmt": "2020-09-07T18:32:18",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24.jpg"
+  },
+  "modified": "2020-09-07T20:51:51",
+  "modified_gmt": "2020-09-07T18:51:51",
+  "slug": "villa-californienne-exception-royan24",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/17200-royan-villa-californienne-dinspiration-annees-50-ealr487/attachment/villa-californienne-exception-royan24/",
+  "title": {
+    "rendered": "villa-californienne-exception-royan24"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"villa-californienne-exception-royan\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>villa-californienne-exception-royan</p>\n"
+  },
+  "alt_text": "villa-californienne-exception-royan",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/09/villa-californienne-exception-royan24.jpg",
+    "sizes": {
+      "medium": {
+        "file": "villa-californienne-exception-royan24-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24-960x640.jpg"
+      },
+      "large": {
+        "file": "villa-californienne-exception-royan24-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "villa-californienne-exception-royan24-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24-480x320.jpg"
+      },
+      "full": {
+        "file": "villa-californienne-exception-royan24.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Florent Fauqueux",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "Credit Photo: Florent Fauqueux",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 151729,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/villa-californienne-exception-royan24.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/151966"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": 187019,
+  "date": "2020-11-10T09:59:08",
+  "date_gmt": "2020-11-10T08:59:08",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/01/01-1.jpg"
+  },
+  "modified": "2020-11-10T10:06:19",
+  "modified_gmt": "2020-11-10T09:06:19",
+  "slug": "01-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/45210-ferrieres-en-gatinais-propriete-familiale-de-charme-avec-piscine-chauffee-0058eao/attachment/01-2/",
+  "title": {
+    "rendered": "01"
+  },
+  "author": 46,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/01-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/01-1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/01-1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/01-1-1680x1121.jpg 1680w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 3000,
+    "height": 2002,
+    "file": "2020/01/01-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "01-1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/01-1-960x641.jpg"
+      },
+      "large": {
+        "file": "01-1-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/01-1-1680x1121.jpg"
+      },
+      "full": {
+        "file": "01-1.jpg",
+        "width": 3000,
+        "height": 2002,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/01-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "NIKON D800E",
+      "caption": "",
+      "created_timestamp": "1579871182",
+      "copyright": "",
+      "focal_length": "21",
+      "iso": "100",
+      "shutter_speed": "0.008",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 186992,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/01-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/187019"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/46"
+      }
+    ]
+  }
+}

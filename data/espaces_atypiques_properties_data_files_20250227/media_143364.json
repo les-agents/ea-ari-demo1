@@ -1,0 +1,79 @@
+{
+  "id": 143364,
+  "date": "2020-08-21T13:22:41",
+  "date_gmt": "2020-08-21T11:22:41",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/02/immo-0279EM-Balaruc-DEBOTTE-001.jpg"
+  },
+  "modified": "2020-08-21T13:24:01",
+  "modified_gmt": "2020-08-21T11:24:01",
+  "slug": "immo-0279em-balaruc-debotte-001",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34540-balaruc-le-vieux-triplex-contemporain-a-deux-pas-de-letang-de-thau-0279/attachment/immo-0279em-balaruc-debotte-001/",
+  "title": {
+    "rendered": "immo 0279EM-Balaruc-DEBOTTE-001"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/immo-0279EM-Balaruc-DEBOTTE-001.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/immo-0279EM-Balaruc-DEBOTTE-001.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1349,
+    "height": 900,
+    "file": "2020/02/immo-0279EM-Balaruc-DEBOTTE-001.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Gilles Auteroche",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "(C) 2015",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 141521,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/immo-0279EM-Balaruc-DEBOTTE-001.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/143364"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

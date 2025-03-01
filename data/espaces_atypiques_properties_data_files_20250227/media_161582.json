@@ -1,0 +1,115 @@
+{
+  "id": 161582,
+  "date": "2020-09-23T11:16:02",
+  "date_gmt": "2020-09-23T09:16:02",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier.jpg"
+  },
+  "modified": "2020-09-23T11:16:02",
+  "modified_gmt": "2020-09-23T09:16:02",
+  "slug": "a6407061-hdr-modifier",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/centre-historique-de-honfleur-immeuble-de-rapport-avec-vue-vieux-bassin-3218/attachment/a6407061-hdr-modifier/",
+  "title": {
+    "rendered": "A6407061-HDR-Modifier"
+  },
+  "author": 42,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/09/A6407061-HDR-Modifier.jpg",
+    "sizes": {
+      "medium": {
+        "file": "A6407061-HDR-Modifier-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier-960x640.jpg"
+      },
+      "large": {
+        "file": "A6407061-HDR-Modifier-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "A6407061-HDR-Modifier-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "A6407061-HDR-Modifier-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier-1536x1024.jpg"
+      },
+      "full": {
+        "file": "A6407061-HDR-Modifier.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "7.1",
+      "credit": "",
+      "camera": "ILCE-6400",
+      "caption": "",
+      "created_timestamp": "1599735187",
+      "copyright": "",
+      "focal_length": "18",
+      "iso": "100",
+      "shutter_speed": "0.0025",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 159548,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/A6407061-HDR-Modifier.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/161582"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/42"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": 120724,
+  "date": "2020-07-30T09:38:33",
+  "date_gmt": "2020-07-30T07:38:33",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1.jpg"
+  },
+  "modified": "2020-07-30T09:38:39",
+  "modified_gmt": "2020-07-30T07:38:39",
+  "slug": "160925-sm319-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/91150-etampes-loft-a-amenager-en-centre-ville-sm319/attachment/160925-sm319-1-jpg/",
+  "title": {
+    "rendered": "loft à aménager en centre-ville &#8211; Réf. SM319"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"91150 ETAMPES - loft à aménager en centre-ville - Réf. SM319\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "91150 ETAMPES - loft à aménager en centre-ville - Réf. SM319",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 682,
+    "file": "160925/SM319/160925-SM319-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "160925-SM319-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1-960x639.jpg"
+      },
+      "thumbnail": {
+        "file": "160925-SM319-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1-480x320.jpg"
+      },
+      "full": {
+        "file": "160925-SM319-1.jpg",
+        "width": 1024,
+        "height": 682,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 120723,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM319/160925-SM319-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/120724"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

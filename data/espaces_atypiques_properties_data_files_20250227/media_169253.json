@@ -1,0 +1,101 @@
+{
+  "id": 169253,
+  "date": "2020-10-06T16:38:10",
+  "date_gmt": "2020-10-06T14:38:10",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1.jpeg"
+  },
+  "modified": "2020-10-06T16:38:10",
+  "modified_gmt": "2020-10-06T14:38:10",
+  "slug": "maison_chartrons_tropezienne_garage_6-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33300-bordeaux-maison-tropezienne-aux-chartrons-537/attachment/maison_chartrons_tropezienne_garage_6-3/",
+  "title": {
+    "rendered": "maison_chartrons_tropezienne_garage_6"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"638\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1-960x638.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1-960x638.jpeg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1-480x319.jpeg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1.jpeg 1216w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1216,
+    "height": 808,
+    "file": "2020/09/maison_chartrons_tropezienne_garage_6-1.jpeg",
+    "sizes": {
+      "medium": {
+        "file": "maison_chartrons_tropezienne_garage_6-1-960x638.jpeg",
+        "width": 960,
+        "height": 638,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1-960x638.jpeg"
+      },
+      "thumbnail": {
+        "file": "maison_chartrons_tropezienne_garage_6-1-480x319.jpeg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1-480x319.jpeg"
+      },
+      "full": {
+        "file": "maison_chartrons_tropezienne_garage_6-1.jpeg",
+        "width": 1216,
+        "height": 808,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1.jpeg"
+      }
+    },
+    "image_meta": {
+      "aperture": "4",
+      "credit": "",
+      "camera": "NIKON D3200",
+      "caption": "",
+      "created_timestamp": "1543416045",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "1.3",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 149627,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison_chartrons_tropezienne_garage_6-1.jpeg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/169253"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

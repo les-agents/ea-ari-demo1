@@ -1,0 +1,101 @@
+{
+  "id": 198862,
+  "date": "2020-12-04T19:05:53",
+  "date_gmt": "2020-12-04T18:05:53",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1.jpg"
+  },
+  "modified": "2020-12-04T19:06:03",
+  "modified_gmt": "2020-12-04T18:06:03",
+  "slug": "280518-413-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/95640-breancon-le-savant-melange-413/attachment/280518-413-1-jpg/",
+  "title": {
+    "rendered": "LE SAVANT MELANGE &#8211; Réf. 413"
+  },
+  "author": 8,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"642\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1-960x642.jpg\" class=\"attachment-medium size-medium\" alt=\"95640 BREANCON - LE SAVANT MELANGE - Réf. 413\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1-960x642.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "95640 BREANCON - LE SAVANT MELANGE - Réf. 413",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 685,
+    "file": "280518/413/280518-413-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "280518-413-1-960x642.jpg",
+        "width": 960,
+        "height": 642,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1-960x642.jpg"
+      },
+      "thumbnail": {
+        "file": "280518-413-1-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1-480x321.jpg"
+      },
+      "full": {
+        "file": "280518-413-1.jpg",
+        "width": 1024,
+        "height": 685,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 198861,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/413/280518-413-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/198862"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/8"
+      }
+    ]
+  }
+}

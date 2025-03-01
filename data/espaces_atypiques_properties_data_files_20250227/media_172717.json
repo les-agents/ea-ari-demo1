@@ -1,0 +1,94 @@
+{
+  "id": 172717,
+  "date": "2020-10-13T10:22:57",
+  "date_gmt": "2020-10-13T08:22:57",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/497-01.jpg"
+  },
+  "modified": "2020-10-13T10:25:30",
+  "modified_gmt": "2020-10-13T08:25:30",
+  "slug": "497-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/59200-tourcoing-loft-tertiaire-dans-une-ancienne-filature-497/attachment/497-01/",
+  "title": {
+    "rendered": "497 &#8211; 01"
+  },
+  "author": 10,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/497-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/497-01-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/497-01-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/497-01.jpg 1918w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1918,
+    "height": 1280,
+    "file": "2020/10/497-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "497-01-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/497-01-960x641.jpg"
+      },
+      "full": {
+        "file": "497-01.jpg",
+        "width": 1918,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/497-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "6.3",
+      "credit": "",
+      "camera": "ILCE-7R",
+      "caption": "",
+      "created_timestamp": "1602085215",
+      "copyright": "",
+      "focal_length": "19",
+      "iso": "400",
+      "shutter_speed": "0.003125",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 172228,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/497-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/172717"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/10"
+      }
+    ]
+  }
+}

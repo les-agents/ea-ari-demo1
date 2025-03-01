@@ -1,0 +1,108 @@
+{
+  "id": 145013,
+  "date": "2020-08-24T18:30:43",
+  "date_gmt": "2020-08-24T16:30:43",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1.jpg"
+  },
+  "modified": "2020-12-09T11:16:48",
+  "modified_gmt": "2020-12-09T10:16:48",
+  "slug": "151467-55-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83190-ollioules-villa-darchitecte-maurice-sauzet-55/attachment/151467-55-1-jpg/",
+  "title": {
+    "rendered": "VILLA D&rsquo;ARCHITECTE MAURICE SAUZET &#8211; Réf. 55"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"83190 OLLIOULES - VILLA D&#039;ARCHITECTE MAURICE SAUZET - Réf. 55\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1.jpg 1678w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83190 OLLIOULES - VILLA D'ARCHITECTE MAURICE SAUZET - Réf. 55",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1678,
+    "height": 1120,
+    "file": "151467/55/151467-55-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "151467-55-1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "151467-55-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "151467-55-1-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1-1536x1025.jpg"
+      },
+      "full": {
+        "file": "151467-55-1.jpg",
+        "width": 1678,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 145012,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/55/151467-55-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/145013"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

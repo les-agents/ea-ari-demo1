@@ -1,0 +1,94 @@
+{
+  "id": 193395,
+  "date": "2020-11-25T12:21:11",
+  "date_gmt": "2020-11-25T11:21:11",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/cosmo-80.jpg"
+  },
+  "modified": "2020-11-25T12:21:11",
+  "modified_gmt": "2020-11-25T11:21:11",
+  "slug": "cosmo-80",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/44200-nantes-appartement-t4-neuf-quartier-de-la-creation-730-2/attachment/cosmo-80/",
+  "title": {
+    "rendered": "cosmo 80"
+  },
+  "author": 33,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/cosmo-80.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"765\" height=\"519\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/cosmo-80.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/cosmo-80.jpg 765w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/cosmo-80-480x326.jpg 480w\" sizes=\"(max-width: 765px) 100vw, 765px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 765,
+    "height": 519,
+    "file": "2020/10/cosmo-80.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "cosmo-80-480x326.jpg",
+        "width": 480,
+        "height": 326,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/cosmo-80-480x326.jpg"
+      },
+      "full": {
+        "file": "cosmo-80.jpg",
+        "width": 765,
+        "height": 519,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/cosmo-80.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 191031,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/cosmo-80.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/193395"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/33"
+      }
+    ]
+  }
+}

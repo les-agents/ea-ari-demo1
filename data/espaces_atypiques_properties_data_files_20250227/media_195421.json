@@ -1,0 +1,108 @@
+{
+  "id": 195421,
+  "date": "2020-11-30T08:53:42",
+  "date_gmt": "2020-11-30T07:53:42",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481.jpg"
+  },
+  "modified": "2020-11-30T08:53:42",
+  "modified_gmt": "2020-11-30T07:53:42",
+  "slug": "1_espaces-atypiques_stfargeau_vuemaison_sm481",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/77310-saint-fargeau-ponthierry-elegante-villa-et-son-parc-sm481/attachment/1_espaces-atypiques_stfargeau_vuemaison_sm481/",
+  "title": {
+    "rendered": "1_espaces atypiques_stfargeau_vuemaison_SM481"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481.jpg 1680w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1121,
+    "file": "2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481.jpg",
+    "sizes": {
+      "medium": {
+        "file": "1_espaces-atypiques_stfargeau_vuemaison_SM481-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "1_espaces-atypiques_stfargeau_vuemaison_SM481-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "1_espaces-atypiques_stfargeau_vuemaison_SM481-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481-1536x1025.jpg"
+      },
+      "full": {
+        "file": "1_espaces-atypiques_stfargeau_vuemaison_SM481.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "NIKON D800E",
+      "caption": "",
+      "created_timestamp": "1533205029",
+      "copyright": "",
+      "focal_length": "18",
+      "iso": "100",
+      "shutter_speed": "0.008",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 195328,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/08/1_espaces-atypiques_stfargeau_vuemaison_SM481.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/195421"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

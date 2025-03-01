@@ -1,0 +1,101 @@
+{
+  "id": 70306,
+  "date": "2020-07-22T12:49:43",
+  "date_gmt": "2020-07-22T10:49:43",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1.jpg"
+  },
+  "modified": "2020-07-22T12:49:48",
+  "modified_gmt": "2020-07-22T10:49:48",
+  "slug": "104734-827eabx-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/chateau-avec-dependances-piscine-et-court-de-tennis-827eabx/attachment/104734-827eabx-1-jpg/",
+  "title": {
+    "rendered": "Château avec dépendances"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"- Château avec dépendances\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "- Château avec dépendances",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 853,
+    "file": "104734/827EABX/104734-827EABX-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "104734-827EABX-1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "104734-827EABX-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1-480x320.jpg"
+      },
+      "full": {
+        "file": "104734-827EABX-1.jpg",
+        "width": 1280,
+        "height": 853,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 18239,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/827EABX/104734-827EABX-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/70306"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

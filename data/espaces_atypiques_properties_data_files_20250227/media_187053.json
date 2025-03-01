@@ -1,0 +1,115 @@
+{
+  "id": 187053,
+  "date": "2020-11-10T10:27:32",
+  "date_gmt": "2020-11-10T09:27:32",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/96047.jpg"
+  },
+  "modified": "2020-11-10T10:28:17",
+  "modified_gmt": "2020-11-10T09:28:17",
+  "slug": "96047",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34280-la-grande-motte-rez-de-jardin-en-bord-de-mer-0500/attachment/96047/",
+  "title": {
+    "rendered": "96047"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"540\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047-960x540.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047-960x540.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047-1680x945.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047-480x270.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047-1536x864.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047.jpg 2000w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 2000,
+    "height": 1125,
+    "file": "2020/11/96047.jpg",
+    "sizes": {
+      "medium": {
+        "file": "96047-960x540.jpg",
+        "width": 960,
+        "height": 540,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047-960x540.jpg"
+      },
+      "large": {
+        "file": "96047-1680x945.jpg",
+        "width": 1680,
+        "height": 945,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047-1680x945.jpg"
+      },
+      "thumbnail": {
+        "file": "96047-480x270.jpg",
+        "width": 480,
+        "height": 270,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047-480x270.jpg"
+      },
+      "1536x1536": {
+        "file": "96047-1536x864.jpg",
+        "width": 1536,
+        "height": 864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047-1536x864.jpg"
+      },
+      "full": {
+        "file": "96047.jpg",
+        "width": 2000,
+        "height": 1125,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 184063,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/96047.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/187053"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

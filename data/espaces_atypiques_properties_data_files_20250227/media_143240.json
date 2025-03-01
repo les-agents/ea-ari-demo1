@@ -1,0 +1,115 @@
+{
+  "id": 143240,
+  "date": "2020-08-21T06:33:58",
+  "date_gmt": "2020-08-21T04:33:58",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5.jpg"
+  },
+  "modified": "2020-08-21T06:33:58",
+  "modified_gmt": "2020-08-21T04:33:58",
+  "slug": "villa-contemporaine-de-250m2-montpellier-5",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34000-montpellier-plain-pied-au-design-epure-et-contemporain-0391/attachment/villa-contemporaine-de-250m2-montpellier-5/",
+  "title": {
+    "rendered": "Villa contemporaine de 250m2 &#8211; Montpellier-5"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/06/Villa-contemporaine-de-250m2-Montpellier-5.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Villa-contemporaine-de-250m2-Montpellier-5-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5-960x640.jpg"
+      },
+      "large": {
+        "file": "Villa-contemporaine-de-250m2-Montpellier-5-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "Villa-contemporaine-de-250m2-Montpellier-5-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "Villa-contemporaine-de-250m2-Montpellier-5-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5-1536x1024.jpg"
+      },
+      "full": {
+        "file": "Villa-contemporaine-de-250m2-Montpellier-5.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "NIKON Z 7",
+      "caption": "",
+      "created_timestamp": "1593096052",
+      "copyright": "",
+      "focal_length": "14",
+      "iso": "100",
+      "shutter_speed": "0.002",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 141508,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Villa-contemporaine-de-250m2-Montpellier-5.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/143240"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

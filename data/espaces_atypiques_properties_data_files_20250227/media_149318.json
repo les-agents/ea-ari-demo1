@@ -1,0 +1,115 @@
+{
+  "id": 149318,
+  "date": "2020-09-02T10:44:28",
+  "date_gmt": "2020-09-02T08:44:28",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A.jpg"
+  },
+  "modified": "2020-09-02T10:47:37",
+  "modified_gmt": "2020-09-02T08:47:37",
+  "slug": "maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-a",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/56260-larmor-plage-maison-atypique-face-mer-165/attachment/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-a/",
+  "title": {
+    "rendered": "maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A"
+  },
+  "author": 38,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-1680x1122.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-1536x1026.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1282,
+    "file": "2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A.jpg",
+    "sizes": {
+      "medium": {
+        "file": "maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-960x641.jpg"
+      },
+      "large": {
+        "file": "maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-1680x1122.jpg",
+        "width": 1680,
+        "height": 1122,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-1680x1122.jpg"
+      },
+      "thumbnail": {
+        "file": "maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-1536x1026.jpg",
+        "width": 1536,
+        "height": 1026,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A-1536x1026.jpg"
+      },
+      "full": {
+        "file": "maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A.jpg",
+        "width": 1920,
+        "height": 1282,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Jean-Yves GAUTIER",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "J-Y GAUTIER Photographe",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 148790,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-atypique-face-mer-165m2-larmor-plage-081-eam-photo-A.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/149318"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/38"
+      }
+    ]
+  }
+}

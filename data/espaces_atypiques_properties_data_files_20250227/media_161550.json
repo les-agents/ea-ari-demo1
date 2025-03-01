@@ -1,0 +1,94 @@
+{
+  "id": 161550,
+  "date": "2020-09-23T10:25:27",
+  "date_gmt": "2020-09-23T08:25:27",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A.jpg"
+  },
+  "modified": "2020-09-23T10:28:35",
+  "modified_gmt": "2020-09-23T08:28:35",
+  "slug": "propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-a",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/56260-larmor-plage-propriete-dexception-avec-piscine-en-bord-de-mer-168/attachment/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-a/",
+  "title": {
+    "rendered": "propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A"
+  },
+  "author": 38,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1282,
+    "file": "2020/09/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A.jpg",
+    "sizes": {
+      "medium": {
+        "file": "propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A-960x641.jpg"
+      },
+      "full": {
+        "file": "propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A.jpg",
+        "width": 1920,
+        "height": 1282,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Jean-Yves GAUTIER",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "J-Y GAUTIER Photographe",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 161276,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/propriete-exception-piscine-bord-mer-218m2-larmor-plage-084eam-photo-A.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/161550"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/38"
+      }
+    ]
+  }
+}

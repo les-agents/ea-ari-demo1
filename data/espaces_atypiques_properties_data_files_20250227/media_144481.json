@@ -1,0 +1,94 @@
+{
+  "id": 144481,
+  "date": "2020-08-24T11:33:30",
+  "date_gmt": "2020-08-24T09:33:30",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/02/maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A.jpg"
+  },
+  "modified": "2020-08-24T11:38:23",
+  "modified_gmt": "2020-08-24T09:38:23",
+  "slug": "maison-coeur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-a",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/56400-auray-maison-coeur-de-ville-a-rafraichir-108/attachment/maison-coeur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-a/",
+  "title": {
+    "rendered": "maison cœur de ville a rafraichir-260 m2-auray centre-057er-photo-A"
+  },
+  "author": 38,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1282,
+    "file": "2020/02/maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A.jpg",
+    "sizes": {
+      "medium": {
+        "file": "maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A-960x641.jpg"
+      },
+      "full": {
+        "file": "maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A.jpg",
+        "width": 1920,
+        "height": 1282,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Jean-Yves GAUTIER",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "J-Y GAUTIER Photographe",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 7952,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/maison-cœur-de-ville-a-rafraichir-260-m2-auray-centre-057er-photo-A.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/144481"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/38"
+      }
+    ]
+  }
+}

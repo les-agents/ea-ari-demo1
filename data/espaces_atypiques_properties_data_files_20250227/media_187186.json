@@ -1,0 +1,115 @@
+{
+  "id": 187186,
+  "date": "2020-11-10T13:01:12",
+  "date_gmt": "2020-11-10T12:01:12",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7.jpg"
+  },
+  "modified": "2020-11-10T13:12:32",
+  "modified_gmt": "2020-11-10T12:12:32",
+  "slug": "maisondeville-19eme-parquetbois-saintes-7",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/17100-saintes-hotel-particulier-et-sa-maison-damis-au-coeur-de-saintes-ealr528/attachment/maisondeville-19eme-parquetbois-saintes-7/",
+  "title": {
+    "rendered": "maisondeville-19ème-parquetbois-Saintes (7)"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"642\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7-960x642.jpg\" class=\"attachment-medium size-medium\" alt=\"maisondeville-19ème-parquetbois-Saintes\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7-960x642.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7-1680x1124.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7-1536x1027.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>maisondeville-19ème-parquetbois-Saintes</p>\n"
+  },
+  "alt_text": "maisondeville-19ème-parquetbois-Saintes",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1284,
+    "file": "2020/11/maisondeville-19ème-parquetbois-Saintes-7.jpg",
+    "sizes": {
+      "medium": {
+        "file": "maisondeville-19ème-parquetbois-Saintes-7-960x642.jpg",
+        "width": 960,
+        "height": 642,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7-960x642.jpg"
+      },
+      "large": {
+        "file": "maisondeville-19ème-parquetbois-Saintes-7-1680x1124.jpg",
+        "width": 1680,
+        "height": 1124,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7-1680x1124.jpg"
+      },
+      "thumbnail": {
+        "file": "maisondeville-19ème-parquetbois-Saintes-7-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "maisondeville-19ème-parquetbois-Saintes-7-1536x1027.jpg",
+        "width": 1536,
+        "height": 1027,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7-1536x1027.jpg"
+      },
+      "full": {
+        "file": "maisondeville-19ème-parquetbois-Saintes-7.jpg",
+        "width": 1920,
+        "height": 1284,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Florent Fauqueux",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "Credit Photo: Florent Fauqueux",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 186959,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/maisondeville-19ème-parquetbois-Saintes-7.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/187186"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

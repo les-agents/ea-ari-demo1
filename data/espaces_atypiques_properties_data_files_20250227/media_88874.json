@@ -1,0 +1,115 @@
+{
+  "id": 88874,
+  "date": "2020-07-24T09:39:55",
+  "date_gmt": "2020-07-24T07:39:55",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1.jpg"
+  },
+  "modified": "2021-04-22T04:46:39",
+  "modified_gmt": "2021-04-22T02:46:39",
+  "slug": "289693-0280ev-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83270-saint-cyr-sur-mer-villa-vue-mer-exceptionnelle-au-golf-de-fregate-0280ev/attachment/289693-0280ev-1-jpg/",
+  "title": {
+    "rendered": "Villa vue mer exceptionnelle au Golf de Frégate &#8211; Réf. 0280EV"
+  },
+  "author": 57,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"83270 SAINT CYR SUR MER - Villa vue mer exceptionnelle au Golf de Frégate - Réf. 0280EV\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1.jpg 1900w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83270 SAINT CYR SUR MER - Villa vue mer exceptionnelle au Golf de Frégate - Réf. 0280EV",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1900,
+    "height": 1267,
+    "file": "289693/0280EV/289693-0280EV-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "289693-0280EV-1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1-960x640.jpg"
+      },
+      "large": {
+        "file": "289693-0280EV-1-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "289693-0280EV-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "289693-0280EV-1-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1-1536x1024.jpg"
+      },
+      "full": {
+        "file": "289693-0280EV-1.jpg",
+        "width": 1900,
+        "height": 1267,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 88873,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0280EV/289693-0280EV-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/88874"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/57"
+      }
+    ]
+  }
+}

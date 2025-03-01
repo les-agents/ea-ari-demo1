@@ -1,0 +1,101 @@
+{
+  "id": 71892,
+  "date": "2020-07-22T13:06:35",
+  "date_gmt": "2020-07-22T11:06:35",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1.jpg"
+  },
+  "modified": "2020-07-22T13:06:38",
+  "modified_gmt": "2020-07-22T11:06:38",
+  "slug": "289702-764eaar-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33950-lege-cap-ferret-maison-contemporaine-avec-piscine-764eaar/attachment/289702-764eaar-1-jpg/",
+  "title": {
+    "rendered": "Maison contemporaine avec Piscine &#8211; Réf. 764EAAR"
+  },
+  "author": 26,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"33950 LEGE CAP FERRET - Maison contemporaine avec Piscine - Réf. 764EAAR\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "33950 LEGE CAP FERRET - Maison contemporaine avec Piscine - Réf. 764EAAR",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 852,
+    "file": "289702/764EAAR/289702-764EAAR-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "289702-764EAAR-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1-960x639.jpg"
+      },
+      "thumbnail": {
+        "file": "289702-764EAAR-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1-480x320.jpg"
+      },
+      "full": {
+        "file": "289702-764EAAR-1.jpg",
+        "width": 1280,
+        "height": 852,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 20122,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289702/764EAAR/289702-764EAAR-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/71892"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/26"
+      }
+    ]
+  }
+}

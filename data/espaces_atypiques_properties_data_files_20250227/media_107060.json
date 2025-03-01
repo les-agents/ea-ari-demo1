@@ -1,0 +1,101 @@
+{
+  "id": 107060,
+  "date": "2020-07-28T08:50:42",
+  "date_gmt": "2020-07-28T06:50:42",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1.jpg"
+  },
+  "modified": "2020-09-08T02:09:28",
+  "modified_gmt": "2020-09-08T00:09:28",
+  "slug": "154206-179eb-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/58290-moulins-engilbert-maison-de-village-de-1525-renovee-179eb/attachment/154206-179eb-1-jpg/",
+  "title": {
+    "rendered": "Maison de village de 1525 rénovée &#8211; Réf. 179EB"
+  },
+  "author": 12,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"720\" height=\"960\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1-720x960.jpg\" class=\"attachment-medium size-medium\" alt=\"58290 MOULINS ENGILBERT - Maison de village de 1525 rénovée - Réf. 179EB\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1-720x960.jpg 720w, https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1-360x480.jpg 360w, https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1.jpg 1080w\" sizes=\"(max-width: 720px) 100vw, 720px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "58290 MOULINS ENGILBERT - Maison de village de 1525 rénovée - Réf. 179EB",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1080,
+    "height": 1440,
+    "file": "154206/179EB/154206-179EB-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "154206-179EB-1-720x960.jpg",
+        "width": 720,
+        "height": 960,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1-720x960.jpg"
+      },
+      "thumbnail": {
+        "file": "154206-179EB-1-360x480.jpg",
+        "width": 360,
+        "height": 480,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1-360x480.jpg"
+      },
+      "full": {
+        "file": "154206-179EB-1.jpg",
+        "width": 1080,
+        "height": 1440,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 107059,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154206/179EB/154206-179EB-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/107060"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/12"
+      }
+    ]
+  }
+}

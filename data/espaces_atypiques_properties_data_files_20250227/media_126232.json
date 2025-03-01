@@ -1,0 +1,115 @@
+{
+  "id": 126232,
+  "date": "2020-07-31T15:30:43",
+  "date_gmt": "2020-07-31T13:30:43",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4.jpg"
+  },
+  "modified": "2020-07-31T15:30:52",
+  "modified_gmt": "2020-07-31T13:30:52",
+  "slug": "288454-3032-4-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/14000-caen-grand-appartement-de-standing-a-caen-3032/attachment/288454-3032-4-jpg/",
+  "title": {
+    "rendered": "Grand appartement  de standing à Caen &#8211; Réf. 3032"
+  },
+  "author": 42,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"14000 CAEN - Grand appartement  de standing à Caen - Réf. 3032\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4-1680x1119.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4-1536x1023.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "14000 CAEN - Grand appartement  de standing à Caen - Réf. 3032",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1279,
+    "file": "288454/3032/288454-3032-4.jpg",
+    "sizes": {
+      "medium": {
+        "file": "288454-3032-4-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4-960x640.jpg"
+      },
+      "large": {
+        "file": "288454-3032-4-1680x1119.jpg",
+        "width": 1680,
+        "height": 1119,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4-1680x1119.jpg"
+      },
+      "thumbnail": {
+        "file": "288454-3032-4-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "288454-3032-4-1536x1023.jpg",
+        "width": 1536,
+        "height": 1023,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4-1536x1023.jpg"
+      },
+      "full": {
+        "file": "288454-3032-4.jpg",
+        "width": 1920,
+        "height": 1279,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 126219,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/288454/3032/288454-3032-4.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/126232"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/42"
+      }
+    ]
+  }
+}

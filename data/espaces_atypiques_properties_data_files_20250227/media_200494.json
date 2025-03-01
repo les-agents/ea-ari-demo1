@@ -1,0 +1,115 @@
+{
+  "id": 200494,
+  "date": "2020-12-09T10:16:47",
+  "date_gmt": "2020-12-09T09:16:47",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1.jpg"
+  },
+  "modified": "2020-12-09T10:17:20",
+  "modified_gmt": "2020-12-09T09:17:20",
+  "slug": "visuel3d_1-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33000-bordeaux-attique-mansarde-avec-vue-sur-les-toits-au-coeur-du-triangle-dor-913eabx/attachment/visuel3d_1-3/",
+  "title": {
+    "rendered": "visuel3D_1"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1-1680x1119.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1-1536x1023.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1279,
+    "file": "2020/12/visuel3D_1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "visuel3D_1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1-960x640.jpg"
+      },
+      "large": {
+        "file": "visuel3D_1-1680x1119.jpg",
+        "width": 1680,
+        "height": 1119,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1-1680x1119.jpg"
+      },
+      "thumbnail": {
+        "file": "visuel3D_1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "visuel3D_1-1536x1023.jpg",
+        "width": 1536,
+        "height": 1023,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1-1536x1023.jpg"
+      },
+      "full": {
+        "file": "visuel3D_1.jpg",
+        "width": 1920,
+        "height": 1279,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1607426714",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 196012,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/visuel3D_1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/200494"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

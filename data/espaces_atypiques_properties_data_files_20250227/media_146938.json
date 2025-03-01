@@ -1,0 +1,101 @@
+{
+  "id": 146938,
+  "date": "2020-08-28T19:45:39",
+  "date_gmt": "2020-08-28T17:45:39",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3.jpg"
+  },
+  "modified": "2020-08-28T19:45:45",
+  "modified_gmt": "2020-08-28T17:45:45",
+  "slug": "104734-785eabx-3-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33100-bordeaux-authentique-maison-darchitecte-des-annees-70-785eabx/attachment/104734-785eabx-3-jpg/",
+  "title": {
+    "rendered": "Authentique maison d&rsquo;architecte des années 70 &#8211; Réf. 785EABX"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"33100 BORDEAUX - Authentique maison d&#039;architecte des années 70 - Réf. 785EABX\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3.jpg 1200w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "33100 BORDEAUX - Authentique maison d'architecte des années 70 - Réf. 785EABX",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1200,
+    "height": 801,
+    "file": "104734/785EABX/104734-785EABX-3.jpg",
+    "sizes": {
+      "medium": {
+        "file": "104734-785EABX-3-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "104734-785EABX-3-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3-480x320.jpg"
+      },
+      "full": {
+        "file": "104734-785EABX-3.jpg",
+        "width": 1200,
+        "height": 801,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 146933,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/785EABX/104734-785EABX-3.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/146938"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

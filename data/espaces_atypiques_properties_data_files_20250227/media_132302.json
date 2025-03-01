@@ -1,0 +1,94 @@
+{
+  "id": 132302,
+  "date": "2020-08-05T04:40:41",
+  "date_gmt": "2020-08-05T02:40:41",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/289693/407/289693-407-1.jpg"
+  },
+  "modified": "2020-08-08T16:04:13",
+  "modified_gmt": "2020-08-08T14:04:13",
+  "slug": "289693-407-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83000-toulon-mas-provencal-revisite-en-contemporain-407/attachment/289693-407-1-jpg/",
+  "title": {
+    "rendered": "Mas provençal revisité en contemporain &#8211; Réf. 407"
+  },
+  "author": 57,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/289693/407/289693-407-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289693/407/289693-407-1.jpg\" class=\"attachment-medium size-medium\" alt=\"83000 TOULON - Mas provençal revisité en contemporain - Réf. 407\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289693/407/289693-407-1.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/407/289693-407-1-480x320.jpg 480w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83000 TOULON - Mas provençal revisité en contemporain - Réf. 407",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 960,
+    "height": 640,
+    "file": "289693/407/289693-407-1.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "289693-407-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/407/289693-407-1-480x320.jpg"
+      },
+      "full": {
+        "file": "289693-407-1.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/407/289693-407-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 132301,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/407/289693-407-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/132302"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/57"
+      }
+    ]
+  }
+}

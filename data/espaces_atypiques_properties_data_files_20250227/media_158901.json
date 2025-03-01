@@ -1,0 +1,115 @@
+{
+  "id": 158901,
+  "date": "2020-09-18T14:33:06",
+  "date_gmt": "2020-09-18T12:33:06",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1.jpg"
+  },
+  "modified": "2020-09-18T14:33:19",
+  "modified_gmt": "2020-09-18T12:33:19",
+  "slug": "55044-2426ep-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/93170-bagnolet-appartement-contemporain-2426ep/attachment/55044-2426ep-1-jpg/",
+  "title": {
+    "rendered": "Appartement contemporain &#8211; Réf. 2426EP"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"643\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1-960x643.jpg\" class=\"attachment-medium size-medium\" alt=\"93170 BAGNOLET - Appartement contemporain - Réf. 2426EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1-960x643.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1-1680x1125.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1-1536x1028.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1.jpg 1912w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "93170 BAGNOLET - Appartement contemporain - Réf. 2426EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1912,
+    "height": 1280,
+    "file": "55044/2426EP/55044-2426EP-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "55044-2426EP-1-960x643.jpg",
+        "width": 960,
+        "height": 643,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1-960x643.jpg"
+      },
+      "large": {
+        "file": "55044-2426EP-1-1680x1125.jpg",
+        "width": 1680,
+        "height": 1125,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1-1680x1125.jpg"
+      },
+      "thumbnail": {
+        "file": "55044-2426EP-1-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "55044-2426EP-1-1536x1028.jpg",
+        "width": 1536,
+        "height": 1028,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1-1536x1028.jpg"
+      },
+      "full": {
+        "file": "55044-2426EP-1.jpg",
+        "width": 1912,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 158900,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2426EP/55044-2426EP-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/158901"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

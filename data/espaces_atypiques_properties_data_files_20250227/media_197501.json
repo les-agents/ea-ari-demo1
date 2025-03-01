@@ -1,0 +1,115 @@
+{
+  "id": 197501,
+  "date": "2020-12-03T08:06:19",
+  "date_gmt": "2020-12-03T07:06:19",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14.jpg"
+  },
+  "modified": "2020-12-03T08:09:39",
+  "modified_gmt": "2020-12-03T07:09:39",
+  "slug": "m2557ep-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/93800-epinay-sur-seine-maison-avec-vue-panoramique-sur-seine-et-paris-2557ep/attachment/m2557ep-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14/",
+  "title": {
+    "rendered": "M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"93800 EPINAY SUR SEINE - Maison avec vue panoramique sur seine et Paris - Réf. 2557EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "93800 EPINAY SUR SEINE - Maison avec vue panoramique sur seine et Paris - Réf. 2557EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-960x640.jpg"
+      },
+      "large": {
+        "file": "M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14-1536x1024.jpg"
+      },
+      "full": {
+        "file": "M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "16",
+      "credit": "",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1603986239",
+      "copyright": "",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "0.3",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 197474,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2557EP-espaces-atypiques-maison-vue-seine-paris-93800-epinay-sur-seine-14.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/197501"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

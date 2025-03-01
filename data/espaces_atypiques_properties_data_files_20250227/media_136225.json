@@ -1,0 +1,115 @@
+{
+  "id": 136225,
+  "date": "2020-08-10T16:15:27",
+  "date_gmt": "2020-08-10T14:15:27",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5.jpg"
+  },
+  "modified": "2020-08-11T19:35:24",
+  "modified_gmt": "2020-08-11T17:35:24",
+  "slug": "160925-sm427-5-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/77300-fontainebleau-magnifique-loft-renove-en-centre-ville-avec-terrasse-sm427/attachment/160925-sm427-5-jpg/",
+  "title": {
+    "rendered": "Magnifique loft rénové en centre-ville avec terrasse &#8211; Réf. SM427"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"77300 FONTAINEBLEAU - Magnifique loft rénové en centre-ville avec terrasse - Réf. SM427\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5-1680x1122.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5-1536x1026.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "77300 FONTAINEBLEAU - Magnifique loft rénové en centre-ville avec terrasse - Réf. SM427",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1282,
+    "file": "160925/SM427/160925-SM427-5.jpg",
+    "sizes": {
+      "medium": {
+        "file": "160925-SM427-5-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5-960x641.jpg"
+      },
+      "large": {
+        "file": "160925-SM427-5-1680x1122.jpg",
+        "width": 1680,
+        "height": 1122,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5-1680x1122.jpg"
+      },
+      "thumbnail": {
+        "file": "160925-SM427-5-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "160925-SM427-5-1536x1026.jpg",
+        "width": 1536,
+        "height": 1026,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5-1536x1026.jpg"
+      },
+      "full": {
+        "file": "160925-SM427-5.jpg",
+        "width": 1920,
+        "height": 1282,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 136216,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/160925/SM427/160925-SM427-5.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/136225"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

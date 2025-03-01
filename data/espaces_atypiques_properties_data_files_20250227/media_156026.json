@@ -1,0 +1,115 @@
+{
+  "id": 156026,
+  "date": "2020-09-13T21:31:19",
+  "date_gmt": "2020-09-13T19:31:19",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2.jpg"
+  },
+  "modified": "2020-09-13T21:31:28",
+  "modified_gmt": "2020-09-13T19:31:28",
+  "slug": "279029-1097eaf-2-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/29600-morlaix-cubique-contemporaine-familiale-1097eaf/attachment/279029-1097eaf-2-jpg/",
+  "title": {
+    "rendered": "Cubique contemporaine familiale &#8211; Réf. 1097EAF"
+  },
+  "author": 40,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"637\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2-960x637.jpg\" class=\"attachment-medium size-medium\" alt=\"29600 MORLAIX - Cubique contemporaine familiale - Réf. 1097EAF\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2-960x637.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2-1680x1115.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2-1536x1019.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "29600 MORLAIX - Cubique contemporaine familiale - Réf. 1097EAF",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1274,
+    "file": "279029/1097EAF/279029-1097EAF-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "279029-1097EAF-2-960x637.jpg",
+        "width": 960,
+        "height": 637,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2-960x637.jpg"
+      },
+      "large": {
+        "file": "279029-1097EAF-2-1680x1115.jpg",
+        "width": 1680,
+        "height": 1115,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2-1680x1115.jpg"
+      },
+      "thumbnail": {
+        "file": "279029-1097EAF-2-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "279029-1097EAF-2-1536x1019.jpg",
+        "width": 1536,
+        "height": 1019,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2-1536x1019.jpg"
+      },
+      "full": {
+        "file": "279029-1097EAF-2.jpg",
+        "width": 1920,
+        "height": 1274,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 156023,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/279029/1097EAF/279029-1097EAF-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/156026"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/40"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 202316,
+  "date": "2020-12-11T14:52:06",
+  "date_gmt": "2020-12-11T13:52:06",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02.jpg"
+  },
+  "modified": "2020-12-11T14:52:06",
+  "modified_gmt": "2020-12-11T13:52:06",
+  "slug": "2131el_appartement_toit_terrasse_saint_priest_02",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/69800-saint-priest-toit-terrasse-avec-vue-2131el/attachment/2131el_appartement_toit_terrasse_saint_priest_02/",
+  "title": {
+    "rendered": "2131EL_appartement_toit_terrasse_saint_priest_02"
+  },
+  "author": 19,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-2048x1365.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 9486,
+    "height": 6324,
+    "file": "2020/10/2131EL_appartement_toit_terrasse_saint_priest_02.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2131EL_appartement_toit_terrasse_saint_priest_02-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-960x640.jpg"
+      },
+      "large": {
+        "file": "2131EL_appartement_toit_terrasse_saint_priest_02-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "2131EL_appartement_toit_terrasse_saint_priest_02-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "2131EL_appartement_toit_terrasse_saint_priest_02-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-1536x1024.jpg"
+      },
+      "2048x2048": {
+        "file": "2131EL_appartement_toit_terrasse_saint_priest_02-2048x1365.jpg",
+        "width": 2048,
+        "height": 1365,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02-2048x1365.jpg"
+      },
+      "full": {
+        "file": "2131EL_appartement_toit_terrasse_saint_priest_02.jpg",
+        "width": 9486,
+        "height": 6324,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "NIKON D850",
+      "caption": "",
+      "created_timestamp": "1600702118",
+      "copyright": "",
+      "focal_length": "21",
+      "iso": "64",
+      "shutter_speed": "0.066666666666667",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 178156,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/2131EL_appartement_toit_terrasse_saint_priest_02.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/202316"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/19"
+      }
+    ]
+  }
+}

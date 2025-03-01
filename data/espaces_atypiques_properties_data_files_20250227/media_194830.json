@@ -1,0 +1,115 @@
+{
+  "id": 194830,
+  "date": "2020-11-27T23:25:44",
+  "date_gmt": "2020-11-27T22:25:44",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5.jpg"
+  },
+  "modified": "2020-11-28T19:47:05",
+  "modified_gmt": "2020-11-28T18:47:05",
+  "slug": "isle-spacieuse-maison-avec-cour-5",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/84800-l-isle-sur-la-sorgue-spacieuse-maison-de-caractere-aux-multiples-possibilites-389eaa/attachment/isle-spacieuse-maison-avec-cour-5/",
+  "title": {
+    "rendered": "isle-spacieuse-maison-avec-cour-5"
+  },
+  "author": 16,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5-1680x1117.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1277,
+    "file": "2020/01/isle-spacieuse-maison-avec-cour-5.jpg",
+    "sizes": {
+      "medium": {
+        "file": "isle-spacieuse-maison-avec-cour-5-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5-960x639.jpg"
+      },
+      "large": {
+        "file": "isle-spacieuse-maison-avec-cour-5-1680x1117.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5-1680x1117.jpg"
+      },
+      "thumbnail": {
+        "file": "isle-spacieuse-maison-avec-cour-5-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "isle-spacieuse-maison-avec-cour-5-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5-1536x1022.jpg"
+      },
+      "full": {
+        "file": "isle-spacieuse-maison-avec-cour-5.jpg",
+        "width": 1920,
+        "height": 1277,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "NIKON Z 6",
+      "caption": "",
+      "created_timestamp": "1605795121",
+      "copyright": "",
+      "focal_length": "18",
+      "iso": "100",
+      "shutter_speed": "0.033333333333333",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 125507,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/isle-spacieuse-maison-avec-cour-5.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/194830"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/16"
+      }
+    ]
+  }
+}

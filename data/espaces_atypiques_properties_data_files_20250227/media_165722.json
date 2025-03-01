@@ -1,0 +1,115 @@
+{
+  "id": 165722,
+  "date": "2020-09-29T19:13:59",
+  "date_gmt": "2020-09-29T17:13:59",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/DI01.jpg"
+  },
+  "modified": "2020-09-29T19:33:25",
+  "modified_gmt": "2020-09-29T17:33:25",
+  "slug": "di01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/59710-merignies-maison-aux-allures-de-ferme-484/attachment/di01/",
+  "title": {
+    "rendered": "DI01"
+  },
+  "author": 10,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"maison aux allures de ferme\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01.jpg 1918w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "maison aux allures de ferme",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1918,
+    "height": 1280,
+    "file": "2020/09/DI01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "DI01-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01-960x641.jpg"
+      },
+      "large": {
+        "file": "DI01-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "DI01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "DI01-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01-1536x1025.jpg"
+      },
+      "full": {
+        "file": "DI01.jpg",
+        "width": 1918,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "6.3",
+      "credit": "",
+      "camera": "ILCE-7R",
+      "caption": "",
+      "created_timestamp": "1598879169",
+      "copyright": "",
+      "focal_length": "16",
+      "iso": "400",
+      "shutter_speed": "0.016666666666667",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 151103,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/DI01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/165722"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/10"
+      }
+    ]
+  }
+}

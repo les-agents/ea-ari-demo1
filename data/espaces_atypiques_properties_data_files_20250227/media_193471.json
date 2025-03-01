@@ -1,0 +1,122 @@
+{
+  "id": 193471,
+  "date": "2020-11-25T15:30:09",
+  "date_gmt": "2020-11-25T14:30:09",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02.jpg"
+  },
+  "modified": "2020-11-25T15:30:09",
+  "modified_gmt": "2020-11-25T14:30:09",
+  "slug": "1792el_lyon1_canut_magneval_02",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/69001-lyon-canut-renove-au-coeur-des-pentes-de-la-croix-rousse-1792el/attachment/1792el_lyon1_canut_magneval_02/",
+  "title": {
+    "rendered": "1792EL_lyon1_canut_magnéval_02"
+  },
+  "author": 19,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-2048x1367.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 9481,
+    "height": 6328,
+    "file": "2020/03/1792EL_lyon1_canut_magnéval_02.jpg",
+    "sizes": {
+      "medium": {
+        "file": "1792EL_lyon1_canut_magnéval_02-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-960x641.jpg"
+      },
+      "large": {
+        "file": "1792EL_lyon1_canut_magnéval_02-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "1792EL_lyon1_canut_magnéval_02-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "1792EL_lyon1_canut_magnéval_02-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-1536x1025.jpg"
+      },
+      "2048x2048": {
+        "file": "1792EL_lyon1_canut_magnéval_02-2048x1367.jpg",
+        "width": 2048,
+        "height": 1367,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02-2048x1367.jpg"
+      },
+      "full": {
+        "file": "1792EL_lyon1_canut_magnéval_02.jpg",
+        "width": 9481,
+        "height": 6328,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "NIKON D810",
+      "caption": "",
+      "created_timestamp": "1494403494",
+      "copyright": "",
+      "focal_length": "14",
+      "iso": "64",
+      "shutter_speed": "0.0125",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 193145,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/1792EL_lyon1_canut_magnéval_02.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/193471"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/19"
+      }
+    ]
+  }
+}

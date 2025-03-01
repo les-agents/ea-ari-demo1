@@ -1,0 +1,108 @@
+{
+  "id": 163209,
+  "date": "2020-09-24T21:45:46",
+  "date_gmt": "2020-09-24T19:45:46",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01.jpg"
+  },
+  "modified": "2020-09-24T21:57:52",
+  "modified_gmt": "2020-09-24T19:57:52",
+  "slug": "m2463ep-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/dernier-etage-montorgeuil-paris-2e-2463ep/attachment/m2463ep-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01/",
+  "title": {
+    "rendered": "M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"75002 PARIS - Dernier étage à Montorgueil- Réf. 2463EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "75002 PARIS - Dernier étage à Montorgueil- Réf. 2463EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-960x640.jpg"
+      },
+      "large": {
+        "file": "M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01-480x320.jpg"
+      },
+      "full": {
+        "file": "M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "6.7",
+      "credit": "",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1599737964",
+      "copyright": "",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "0.16666666666667",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 163180,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2463EP-espaces-atypiques-dernier-etage-montorgueil-paris-2e-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/163209"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

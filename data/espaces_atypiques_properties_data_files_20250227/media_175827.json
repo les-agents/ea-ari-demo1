@@ -1,0 +1,115 @@
+{
+  "id": 175827,
+  "date": "2020-10-19T11:45:54",
+  "date_gmt": "2020-10-19T09:45:54",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3.jpg"
+  },
+  "modified": "2020-10-19T11:46:05",
+  "modified_gmt": "2020-10-19T09:46:05",
+  "slug": "104730-1324em-3-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/13005-marseille-appartement-renove-en-contemporain-1324em/attachment/104730-1324em-3-jpg/",
+  "title": {
+    "rendered": "Appartement rénové en contemporain &#8211; Réf. 1324EM"
+  },
+  "author": 7,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"13005 MARSEILLE - Appartement rénové en contemporain - Réf. 1324EM\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3-1680x1117.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "13005 MARSEILLE - Appartement rénové en contemporain - Réf. 1324EM",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1277,
+    "file": "104730/1324EM/104730-1324EM-3.jpg",
+    "sizes": {
+      "medium": {
+        "file": "104730-1324EM-3-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3-960x639.jpg"
+      },
+      "large": {
+        "file": "104730-1324EM-3-1680x1117.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3-1680x1117.jpg"
+      },
+      "thumbnail": {
+        "file": "104730-1324EM-3-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "104730-1324EM-3-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3-1536x1022.jpg"
+      },
+      "full": {
+        "file": "104730-1324EM-3.jpg",
+        "width": 1920,
+        "height": 1277,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 175822,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1324EM/104730-1324EM-3.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/175827"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/7"
+      }
+    ]
+  }
+}

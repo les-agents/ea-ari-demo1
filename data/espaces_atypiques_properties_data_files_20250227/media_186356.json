@@ -1,0 +1,94 @@
+{
+  "id": 186356,
+  "date": "2020-11-09T16:10:18",
+  "date_gmt": "2020-11-09T15:10:18",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/villa-architecte-minimaliste-Royan-Parc-23.jpg"
+  },
+  "modified": "2020-11-09T16:37:01",
+  "modified_gmt": "2020-11-09T15:37:01",
+  "slug": "villa-architecte-minimaliste-royan-parc-23",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/villa-darchitecte-minimaliste/attachment/villa-architecte-minimaliste-royan-parc-23/",
+  "title": {
+    "rendered": "villa-architecte- minimaliste-Royan-Parc (23)"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/villa-architecte-minimaliste-Royan-Parc-23.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"704\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/villa-architecte-minimaliste-Royan-Parc-23-960x704.jpg\" class=\"attachment-medium size-medium\" alt=\"villa-architecte- minimaliste-Royan-Parc\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/villa-architecte-minimaliste-Royan-Parc-23-960x704.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/villa-architecte-minimaliste-Royan-Parc-23.jpg 1745w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>villa-architecte- minimaliste-Royan-Parc</p>\n"
+  },
+  "alt_text": "villa-architecte- minimaliste-Royan-Parc",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1745,
+    "height": 1280,
+    "file": "2020/11/villa-architecte-minimaliste-Royan-Parc-23.jpg",
+    "sizes": {
+      "medium": {
+        "file": "villa-architecte-minimaliste-Royan-Parc-23-960x704.jpg",
+        "width": 960,
+        "height": 704,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/villa-architecte-minimaliste-Royan-Parc-23-960x704.jpg"
+      },
+      "full": {
+        "file": "villa-architecte-minimaliste-Royan-Parc-23.jpg",
+        "width": 1745,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/villa-architecte-minimaliste-Royan-Parc-23.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "Laurence Combe",
+      "camera": "Canon EOS 5D Mark III",
+      "caption": "",
+      "created_timestamp": "1603385434",
+      "copyright": "© Laurence Combe - 2020",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "0.04",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 186319,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/villa-architecte-minimaliste-Royan-Parc-23.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/186356"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

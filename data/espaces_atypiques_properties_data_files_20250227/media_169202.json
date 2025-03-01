@@ -1,0 +1,122 @@
+{
+  "id": 169202,
+  "date": "2020-10-06T15:59:08",
+  "date_gmt": "2020-10-06T13:59:08",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628.jpg"
+  },
+  "modified": "2020-10-06T16:03:04",
+  "modified_gmt": "2020-10-06T14:03:04",
+  "slug": "dsc_0628",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33000-bordeaux-plateau-brut-dans-une-ancienne-chartreuse-390eabx/attachment/dsc_0628/",
+  "title": {
+    "rendered": "DSC_0628"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"638\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-960x638.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-960x638.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-1680x1117.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-1536x1021.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-2048x1362.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 6016,
+    "height": 4000,
+    "file": "2017/11/DSC_0628.jpg",
+    "sizes": {
+      "medium": {
+        "file": "DSC_0628-960x638.jpg",
+        "width": 960,
+        "height": 638,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-960x638.jpg"
+      },
+      "large": {
+        "file": "DSC_0628-1680x1117.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-1680x1117.jpg"
+      },
+      "thumbnail": {
+        "file": "DSC_0628-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "DSC_0628-1536x1021.jpg",
+        "width": 1536,
+        "height": 1021,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-1536x1021.jpg"
+      },
+      "2048x2048": {
+        "file": "DSC_0628-2048x1362.jpg",
+        "width": 2048,
+        "height": 1362,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628-2048x1362.jpg"
+      },
+      "full": {
+        "file": "DSC_0628.jpg",
+        "width": 6016,
+        "height": 4000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "4",
+      "credit": "",
+      "camera": "NIKON D3200",
+      "caption": "",
+      "created_timestamp": "1547139980",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.016666666666667",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 20523,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2017/11/DSC_0628.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/169202"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

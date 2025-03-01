@@ -1,0 +1,94 @@
+{
+  "id": 169153,
+  "date": "2020-10-06T14:24:34",
+  "date_gmt": "2020-10-06T12:24:34",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/01-PL-3097.jpg"
+  },
+  "modified": "2020-10-06T14:26:02",
+  "modified_gmt": "2020-10-06T12:26:02",
+  "slug": "01-pl-3097",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/duplex-contemporain-chic-les-pieds-dans-leau/attachment/01-pl-3097/",
+  "title": {
+    "rendered": "01-PL-3097"
+  },
+  "author": 42,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/01-PL-3097.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/01-PL-3097-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/01-PL-3097-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/01-PL-3097.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/10/01-PL-3097.jpg",
+    "sizes": {
+      "medium": {
+        "file": "01-PL-3097-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/01-PL-3097-960x640.jpg"
+      },
+      "full": {
+        "file": "01-PL-3097.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/01-PL-3097.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "6.3",
+      "credit": "",
+      "camera": "ILCE-6300",
+      "caption": "",
+      "created_timestamp": "1543320783",
+      "copyright": "",
+      "focal_length": "12",
+      "iso": "100",
+      "shutter_speed": "0.066666666666667",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 169152,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/01-PL-3097.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/169153"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/42"
+      }
+    ]
+  }
+}

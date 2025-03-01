@@ -1,0 +1,101 @@
+{
+  "id": 133107,
+  "date": "2020-08-05T19:27:15",
+  "date_gmt": "2020-08-05T17:27:15",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12.jpg"
+  },
+  "modified": "2020-08-05T19:27:19",
+  "modified_gmt": "2020-08-05T17:27:19",
+  "slug": "169287-ealr462-12-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/17120-mortagne-sur-gironde-restauration-contemporaine-entre-vignes-et-estuaire-ealr462/attachment/169287-ealr462-12-jpg/",
+  "title": {
+    "rendered": "Restauration contemporaine entre vignes et estuaire &#8211; Réf. EALR462"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"17120 MORTAGNE SUR GIRONDE - Restauration contemporaine entre vignes et estuaire - Réf. EALR462\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "17120 MORTAGNE SUR GIRONDE - Restauration contemporaine entre vignes et estuaire - Réf. EALR462",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 682,
+    "file": "169287/EALR462/169287-EALR462-12.jpg",
+    "sizes": {
+      "medium": {
+        "file": "169287-EALR462-12-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12-960x639.jpg"
+      },
+      "thumbnail": {
+        "file": "169287-EALR462-12-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12-480x320.jpg"
+      },
+      "full": {
+        "file": "169287-EALR462-12.jpg",
+        "width": 1024,
+        "height": 682,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 133084,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR462/169287-EALR462-12.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/133107"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

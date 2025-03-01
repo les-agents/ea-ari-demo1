@@ -1,0 +1,104 @@
+{
+  "id": 239894,
+  "date": "2023-02-06T15:10:40",
+  "date_gmt": "2023-02-06T14:10:40",
+  "guid": {
+    "rendered": "http://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a.jpg"
+  },
+  "modified": "2023-02-06T15:10:40",
+  "modified_gmt": "2023-02-06T14:10:40",
+  "slug": "46078316a",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/92500-rueil-malmaison-maison-ossature-bois-bbc-et-ses-dependances-0349ey/attachment/46078316a/",
+  "title": {
+    "rendered": "46078316a"
+  },
+  "author": 1,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"644\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a-960x644.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a-960x644.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a-480x322.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 859,
+    "file": "2020/12/46078316a.jpg",
+    "filesize": 192908,
+    "sizes": {
+      "medium": {
+        "file": "46078316a-960x644.jpg",
+        "width": 960,
+        "height": 644,
+        "filesize": 99571,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a-960x644.jpg"
+      },
+      "thumbnail": {
+        "file": "46078316a-480x322.jpg",
+        "width": 480,
+        "height": 322,
+        "filesize": 30827,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a-480x322.jpg"
+      },
+      "full": {
+        "file": "46078316a.jpg",
+        "width": 1280,
+        "height": 859,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 202941,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/46078316a.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/239894"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": 184994,
+  "date": "2020-11-05T15:30:42",
+  "date_gmt": "2020-11-05T14:30:42",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/138081/0494-A/138081-0494-A-1.jpg"
+  },
+  "modified": "2020-11-05T15:30:44",
+  "modified_gmt": "2020-11-05T14:30:44",
+  "slug": "138081-0494-a-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34090-montpellier-dernier-etage-en-duplex-triple-exposition-0494-a/attachment/138081-0494-a-1-jpg/",
+  "title": {
+    "rendered": "Dernier étage en duplex triple exposition &#8211; Réf. 0494-A"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0494-A/138081-0494-A-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"814\" height=\"459\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0494-A/138081-0494-A-1.jpg\" class=\"attachment-medium size-medium\" alt=\"34090 MONTPELLIER - Dernier étage en duplex triple exposition - Réf. 0494-A\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0494-A/138081-0494-A-1.jpg 814w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0494-A/138081-0494-A-1-480x271.jpg 480w\" sizes=\"(max-width: 814px) 100vw, 814px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "34090 MONTPELLIER - Dernier étage en duplex triple exposition - Réf. 0494-A",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 814,
+    "height": 459,
+    "file": "138081/0494-A/138081-0494-A-1.jpg",
+    "sizes": {
+      "thumbnail": {
+        "file": "138081-0494-A-1-480x271.jpg",
+        "width": 480,
+        "height": 271,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0494-A/138081-0494-A-1-480x271.jpg"
+      },
+      "full": {
+        "file": "138081-0494-A-1.jpg",
+        "width": 814,
+        "height": 459,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0494-A/138081-0494-A-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 184993,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0494-A/138081-0494-A-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/184994"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

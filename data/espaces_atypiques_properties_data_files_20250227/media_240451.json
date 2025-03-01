@@ -1,0 +1,112 @@
+{
+  "id": 240451,
+  "date": "2023-09-26T16:30:14",
+  "date_gmt": "2023-09-26T14:30:14",
+  "guid": {
+    "rendered": "http://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10.jpg"
+  },
+  "modified": "2023-09-26T16:30:24",
+  "modified_gmt": "2023-09-26T14:30:24",
+  "slug": "104734-1565eabx-10-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33100-bordeaux-maison-type-arcachonnaise-renovee-avec-jardin-et-terrasses-1565eabx/attachment/104734-1565eabx-10-jpg/",
+  "title": {
+    "rendered": "Maison type Arcachonnaise rénovée avec jardin et terrasses &#8211; Réf. 1565EABX"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"33100 BORDEAUX - Maison type Arcachonnaise rénovée avec jardin et terrasses - Réf. 1565EABX\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10.jpg 1618w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "33100 BORDEAUX - Maison type Arcachonnaise rénovée avec jardin et terrasses - Réf. 1565EABX",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1618,
+    "height": 1080,
+    "file": "104734/1565EABX/104734-1565EABX-10.jpg",
+    "filesize": 257588,
+    "sizes": {
+      "medium": {
+        "file": "104734-1565EABX-10-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "filesize": 90375,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "104734-1565EABX-10-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "filesize": 27602,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "104734-1565EABX-10-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "filesize": 197043,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10-1536x1025.jpg"
+      },
+      "full": {
+        "file": "104734-1565EABX-10.jpg",
+        "width": 1618,
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 240414,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/1565EABX/104734-1565EABX-10.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/240451"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

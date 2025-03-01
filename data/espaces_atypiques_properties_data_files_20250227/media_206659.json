@@ -1,0 +1,79 @@
+{
+  "id": 206659,
+  "date": "2020-12-21T12:39:55",
+  "date_gmt": "2020-12-21T11:39:55",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/2630EP-espaces-atypiques-duplex-en-dernier-étage-saint-sulpice-paris-6e-01.jpg"
+  },
+  "modified": "2020-12-21T12:40:57",
+  "modified_gmt": "2020-12-21T11:40:57",
+  "slug": "2630ep-espaces-atypiques-duplex-en-dernier-etage-saint-sulpice-paris-6e-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/75006-paris-duplex-en-dernier-etage-a-saint-sulpice-2630ep/attachment/2630ep-espaces-atypiques-duplex-en-dernier-etage-saint-sulpice-paris-6e-01/",
+  "title": {
+    "rendered": "2630EP-espaces-atypiques-duplex-en-dernier-étage-saint-sulpice-paris-6e-01"
+  },
+  "author": 4142,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2630EP-espaces-atypiques-duplex-en-dernier-étage-saint-sulpice-paris-6e-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2630EP-espaces-atypiques-duplex-en-dernier-étage-saint-sulpice-paris-6e-01.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/12/2630EP-espaces-atypiques-duplex-en-dernier-étage-saint-sulpice-paris-6e-01.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "13",
+      "credit": "",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1608046048",
+      "copyright": "",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "8",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 205669,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2630EP-espaces-atypiques-duplex-en-dernier-étage-saint-sulpice-paris-6e-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/206659"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/4142"
+      }
+    ]
+  }
+}

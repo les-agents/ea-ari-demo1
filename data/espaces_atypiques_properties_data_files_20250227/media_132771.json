@@ -1,0 +1,79 @@
+{
+  "id": 132771,
+  "date": "2020-08-05T17:13:24",
+  "date_gmt": "2020-08-05T15:13:24",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/10/136-Route-de-Vaux-14xm-Copier-2.jpg"
+  },
+  "modified": "2020-08-05T17:13:24",
+  "modified_gmt": "2020-08-05T15:13:24",
+  "slug": "136-route-de-vaux-14xm-copier-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/38300-bourgoin-jallieu-maison-loft-dans-un-ancien-corps-de-ferme-439eag/attachment/136-route-de-vaux-14xm-copier-2/",
+  "title": {
+    "rendered": "136-Route-de-Vaux-14xm (Copier) (2)"
+  },
+  "author": 21,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/136-Route-de-Vaux-14xm-Copier-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"412\" height=\"275\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/136-Route-de-Vaux-14xm-Copier-2.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 412,
+    "height": 275,
+    "file": "2019/10/136-Route-de-Vaux-14xm-Copier-2.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 132418,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/136-Route-de-Vaux-14xm-Copier-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/132771"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/21"
+      }
+    ]
+  }
+}

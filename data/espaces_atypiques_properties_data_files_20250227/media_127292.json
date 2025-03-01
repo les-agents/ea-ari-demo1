@@ -1,0 +1,122 @@
+{
+  "id": 127292,
+  "date": "2020-07-31T21:00:23",
+  "date_gmt": "2020-07-31T19:00:23",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400.jpg"
+  },
+  "modified": "2020-07-31T21:01:32",
+  "modified_gmt": "2020-07-31T19:01:32",
+  "slug": "1_espaces-atypiques_noisy_vuechateau1_sm400",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/91490-milly-la-foret-appartement-avec-jardin-privatif-dans-un-chateau-sm400/attachment/1_espaces-atypiques_noisy_vuechateau1_sm400/",
+  "title": {
+    "rendered": "1_espaces atypiques_noisy_vuechateau1_SM400"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-2048x1367.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 3000,
+    "height": 2002,
+    "file": "2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400.jpg",
+    "sizes": {
+      "medium": {
+        "file": "1_espaces-atypiques_noisy_vuechateau1_SM400-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-960x641.jpg"
+      },
+      "large": {
+        "file": "1_espaces-atypiques_noisy_vuechateau1_SM400-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "1_espaces-atypiques_noisy_vuechateau1_SM400-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "1_espaces-atypiques_noisy_vuechateau1_SM400-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-1536x1025.jpg"
+      },
+      "2048x2048": {
+        "file": "1_espaces-atypiques_noisy_vuechateau1_SM400-2048x1367.jpg",
+        "width": 2048,
+        "height": 1367,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400-2048x1367.jpg"
+      },
+      "full": {
+        "file": "1_espaces-atypiques_noisy_vuechateau1_SM400.jpg",
+        "width": 3000,
+        "height": 2002,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 113648,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_noisy_vuechateau1_SM400.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/127292"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

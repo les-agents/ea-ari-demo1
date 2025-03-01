@@ -1,0 +1,115 @@
+{
+  "id": 171815,
+  "date": "2020-10-11T17:00:49",
+  "date_gmt": "2020-10-11T15:00:49",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2.jpg"
+  },
+  "modified": "2020-12-15T13:42:28",
+  "modified_gmt": "2020-12-15T12:42:28",
+  "slug": "0394ev_lagardefreinet_",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/la-garde-freinet-propriete-de-prestige-vue-dexception-678/attachment/0394ev_lagardefreinet_/",
+  "title": {
+    "rendered": "0394EV_LaGardeFreinet_"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/10/0394EV_LaGardeFreinet__2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "0394EV_LaGardeFreinet__2-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2-960x640.jpg"
+      },
+      "large": {
+        "file": "0394EV_LaGardeFreinet__2-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "0394EV_LaGardeFreinet__2-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "0394EV_LaGardeFreinet__2-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2-1536x1024.jpg"
+      },
+      "full": {
+        "file": "0394EV_LaGardeFreinet__2.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "10",
+      "credit": "",
+      "camera": "X-T3",
+      "caption": "",
+      "created_timestamp": "1594377204",
+      "copyright": "",
+      "focal_length": "11",
+      "iso": "800",
+      "shutter_speed": "0.0020833333333333",
+      "title": "0394EV_LaGardeFreinet_",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 89645,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/0394EV_LaGardeFreinet__2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/171815"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

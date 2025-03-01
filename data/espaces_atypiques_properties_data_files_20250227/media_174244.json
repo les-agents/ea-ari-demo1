@@ -1,0 +1,79 @@
+{
+  "id": 174244,
+  "date": "2020-10-15T10:53:15",
+  "date_gmt": "2020-10-15T08:53:15",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/Achat-Vente-Maison-Familiale-Nantes-Saint-Anne-Espaces-Atypiques-Nantes-La-Baule-1.jpeg"
+  },
+  "modified": "2020-10-15T10:53:54",
+  "modified_gmt": "2020-10-15T08:53:54",
+  "slug": "ea_4uatre_site",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/44100-nantes-maison-familiale-a-construire-713/attachment/ea_4uatre_site/",
+  "title": {
+    "rendered": "EA_4UATRE_SITE"
+  },
+  "author": 33,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Achat-Vente-Maison-Familiale-Nantes-Saint-Anne-Espaces-Atypiques-Nantes-La-Baule-1.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Achat-Vente-Maison-Familiale-Nantes-Saint-Anne-Espaces-Atypiques-Nantes-La-Baule-1.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1619,
+    "height": 1079,
+    "file": "2020/09/Achat-Vente-Maison-Familiale-Nantes-Saint-Anne-Espaces-Atypiques-Nantes-La-Baule-1.jpeg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1584643291",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "EA_4UATRE_SITE",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 166963,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/Achat-Vente-Maison-Familiale-Nantes-Saint-Anne-Espaces-Atypiques-Nantes-La-Baule-1.jpeg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/174244"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/33"
+      }
+    ]
+  }
+}

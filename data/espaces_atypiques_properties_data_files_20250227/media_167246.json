@@ -1,0 +1,115 @@
+{
+  "id": 167246,
+  "date": "2020-10-02T10:09:53",
+  "date_gmt": "2020-10-02T08:09:53",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1.jpg"
+  },
+  "modified": "2020-10-02T10:10:09",
+  "modified_gmt": "2020-10-02T08:10:09",
+  "slug": "55044-2474ep-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/75012-paris-appartement-repense-par-architecte-2474ep/attachment/55044-2474ep-1-jpg/",
+  "title": {
+    "rendered": "Appartement repensé par architecte &#8211; Réf. 2474EP"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"644\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1-960x644.jpg\" class=\"attachment-medium size-medium\" alt=\"75012 PARIS - Appartement repensé par architecte - Réf. 2474EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1-960x644.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1-1680x1127.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1-480x322.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1-1536x1030.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1.jpg 1908w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "75012 PARIS - Appartement repensé par architecte - Réf. 2474EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1908,
+    "height": 1280,
+    "file": "55044/2474EP/55044-2474EP-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "55044-2474EP-1-960x644.jpg",
+        "width": 960,
+        "height": 644,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1-960x644.jpg"
+      },
+      "large": {
+        "file": "55044-2474EP-1-1680x1127.jpg",
+        "width": 1680,
+        "height": 1127,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1-1680x1127.jpg"
+      },
+      "thumbnail": {
+        "file": "55044-2474EP-1-480x322.jpg",
+        "width": 480,
+        "height": 322,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1-480x322.jpg"
+      },
+      "1536x1536": {
+        "file": "55044-2474EP-1-1536x1030.jpg",
+        "width": 1536,
+        "height": 1030,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1-1536x1030.jpg"
+      },
+      "full": {
+        "file": "55044-2474EP-1.jpg",
+        "width": 1908,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 167245,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2474EP/55044-2474EP-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/167246"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

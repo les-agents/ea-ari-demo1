@@ -1,0 +1,115 @@
+{
+  "id": 95451,
+  "date": "2020-07-24T17:32:32",
+  "date_gmt": "2020-07-24T15:32:32",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2.jpg"
+  },
+  "modified": "2020-07-24T17:32:46",
+  "modified_gmt": "2020-07-24T15:32:46",
+  "slug": "169287-ealr395-2-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/17300-rochefort-villa-darchitecte-sur-lestuaire-ealr395/attachment/169287-ealr395-2-jpg/",
+  "title": {
+    "rendered": "Villa d&rsquo;architecte sur l&rsquo;estuaire &#8211; Réf. EALR395"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"17300 ROCHEFORT - Villa d&#039;architecte sur l&#039;estuaire - Réf. EALR395\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "17300 ROCHEFORT - Villa d'architecte sur l'estuaire - Réf. EALR395",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "169287/EALR395/169287-EALR395-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "169287-EALR395-2-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2-960x640.jpg"
+      },
+      "large": {
+        "file": "169287-EALR395-2-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "169287-EALR395-2-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "169287-EALR395-2-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2-1536x1024.jpg"
+      },
+      "full": {
+        "file": "169287-EALR395-2.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 95448,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR395/169287-EALR395-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/95451"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

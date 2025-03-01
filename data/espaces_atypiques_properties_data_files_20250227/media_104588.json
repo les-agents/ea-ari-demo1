@@ -1,0 +1,108 @@
+{
+  "id": 104588,
+  "date": "2020-07-27T11:52:29",
+  "date_gmt": "2020-07-27T09:52:29",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1.jpg"
+  },
+  "modified": "2020-07-29T09:00:26",
+  "modified_gmt": "2020-07-29T07:00:26",
+  "slug": "149294-2205ep-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/75014-paris-duplex-familial-avec-terrasse-2205ep/attachment/149294-2205ep-1-jpg/",
+  "title": {
+    "rendered": "Duplex familial avec terrasse &#8211; Réf. 2205EP"
+  },
+  "author": 53,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"643\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1-960x643.jpg\" class=\"attachment-medium size-medium\" alt=\"75014 PARIS - Duplex familial avec terrasse - Réf. 2205EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1-960x643.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1-1536x1028.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1.jpg 1673w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "75014 PARIS - Duplex familial avec terrasse - Réf. 2205EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1673,
+    "height": 1120,
+    "file": "149294/2205EP/149294-2205EP-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "149294-2205EP-1-960x643.jpg",
+        "width": 960,
+        "height": 643,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1-960x643.jpg"
+      },
+      "thumbnail": {
+        "file": "149294-2205EP-1-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "149294-2205EP-1-1536x1028.jpg",
+        "width": 1536,
+        "height": 1028,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1-1536x1028.jpg"
+      },
+      "full": {
+        "file": "149294-2205EP-1.jpg",
+        "width": 1673,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 104587,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2205EP/149294-2205EP-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/104588"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/53"
+      }
+    ]
+  }
+}

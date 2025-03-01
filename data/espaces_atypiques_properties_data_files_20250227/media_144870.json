@@ -1,0 +1,108 @@
+{
+  "id": 144870,
+  "date": "2020-08-24T18:17:00",
+  "date_gmt": "2020-08-24T16:17:00",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1.jpg"
+  },
+  "modified": "2021-01-10T11:16:57",
+  "modified_gmt": "2021-01-10T10:16:57",
+  "slug": "151467-154-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83700-saint-raphael-villa-moderniste-sur-le-golf-154/attachment/151467-154-1-jpg/",
+  "title": {
+    "rendered": "villa moderniste sur le golf &#8211; Réf. 154"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"638\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1-960x638.jpg\" class=\"attachment-medium size-medium\" alt=\"83700 SAINT RAPHAEL - villa moderniste sur le golf - Réf. 154\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1-960x638.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1-1536x1021.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1.jpg 1680w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83700 SAINT RAPHAEL - villa moderniste sur le golf - Réf. 154",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1117,
+    "file": "151467/154/151467-154-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "151467-154-1-960x638.jpg",
+        "width": 960,
+        "height": 638,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1-960x638.jpg"
+      },
+      "thumbnail": {
+        "file": "151467-154-1-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "151467-154-1-1536x1021.jpg",
+        "width": 1536,
+        "height": 1021,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1-1536x1021.jpg"
+      },
+      "full": {
+        "file": "151467-154-1.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 144869,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/154/151467-154-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/144870"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

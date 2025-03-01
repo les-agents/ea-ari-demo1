@@ -1,0 +1,115 @@
+{
+  "id": 197018,
+  "date": "2020-12-02T11:15:13",
+  "date_gmt": "2020-12-02T10:15:13",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01.jpg"
+  },
+  "modified": "2020-12-02T11:19:37",
+  "modified_gmt": "2020-12-02T10:19:37",
+  "slug": "m2548ep-espaces-atypiques-dernier-etage-vintage-aubervilliers-93300-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/93300-aubervilliers-dernier-etage-vintage-en-duplex-2548ep/attachment/m2548ep-espaces-atypiques-dernier-etage-vintage-aubervilliers-93300-01/",
+  "title": {
+    "rendered": "M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"93300 AUBERVILLIERS - Dernier étage vintage en duplex - Réf. 2548EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01.jpg 1980w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "93300 AUBERVILLIERS - Dernier étage vintage en duplex - Réf. 2548EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1980,
+    "height": 1320,
+    "file": "2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-960x640.jpg"
+      },
+      "large": {
+        "file": "M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01-1536x1024.jpg"
+      },
+      "full": {
+        "file": "M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01.jpg",
+        "width": 1980,
+        "height": 1320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "13",
+      "credit": "",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1603726606",
+      "copyright": "",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "4",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 197017,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/M2548EP-espaces-atypiques-dernier-étage-vintage-aubervilliers-93300-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/197018"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 207462,
+  "date": "2020-12-22T22:16:38",
+  "date_gmt": "2020-12-22T21:16:38",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c.jpg"
+  },
+  "modified": "2020-12-22T22:17:48",
+  "modified_gmt": "2020-12-22T21:17:48",
+  "slug": "35101600c",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/64160-buros-terrain-arbore-15-min-de-pau-buros-2527-m%c2%b2-64401eab/attachment/35101600c/",
+  "title": {
+    "rendered": "35101600c"
+  },
+  "author": 27,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"606\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c-960x606.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c-960x606.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c-1680x1061.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c-480x303.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c-1536x970.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1212,
+    "file": "2019/12/35101600c.jpg",
+    "sizes": {
+      "medium": {
+        "file": "35101600c-960x606.jpg",
+        "width": 960,
+        "height": 606,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c-960x606.jpg"
+      },
+      "large": {
+        "file": "35101600c-1680x1061.jpg",
+        "width": 1680,
+        "height": 1061,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c-1680x1061.jpg"
+      },
+      "thumbnail": {
+        "file": "35101600c-480x303.jpg",
+        "width": 480,
+        "height": 303,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c-480x303.jpg"
+      },
+      "1536x1536": {
+        "file": "35101600c-1536x970.jpg",
+        "width": 1536,
+        "height": 970,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c-1536x970.jpg"
+      },
+      "full": {
+        "file": "35101600c.jpg",
+        "width": 1920,
+        "height": 1212,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 183779,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/35101600c.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/207462"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/27"
+      }
+    ]
+  }
+}

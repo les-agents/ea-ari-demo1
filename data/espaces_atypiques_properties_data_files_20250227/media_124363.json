@@ -1,0 +1,115 @@
+{
+  "id": 124363,
+  "date": "2020-07-30T18:41:15",
+  "date_gmt": "2020-07-30T16:41:15",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1.jpg"
+  },
+  "modified": "2020-07-30T18:41:34",
+  "modified_gmt": "2020-07-30T16:41:34",
+  "slug": "114293-2672-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/78270-cravent-ancien-corps-de-ferme-a-la-decoration-ludique-2672/attachment/114293-2672-1-jpg/",
+  "title": {
+    "rendered": "Ancien corps de ferme à la décoration ludique &#8211; Réf. 2672"
+  },
+  "author": 4,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"636\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1-960x636.jpg\" class=\"attachment-medium size-medium\" alt=\"78270 CRAVENT - Ancien corps de ferme à la décoration ludique - Réf. 2672\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1-960x636.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1-1680x1113.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1-480x318.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1-1536x1018.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "78270 CRAVENT - Ancien corps de ferme à la décoration ludique - Réf. 2672",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1272,
+    "file": "114293/2672/114293-2672-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "114293-2672-1-960x636.jpg",
+        "width": 960,
+        "height": 636,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1-960x636.jpg"
+      },
+      "large": {
+        "file": "114293-2672-1-1680x1113.jpg",
+        "width": 1680,
+        "height": 1113,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1-1680x1113.jpg"
+      },
+      "thumbnail": {
+        "file": "114293-2672-1-480x318.jpg",
+        "width": 480,
+        "height": 318,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1-480x318.jpg"
+      },
+      "1536x1536": {
+        "file": "114293-2672-1-1536x1018.jpg",
+        "width": 1536,
+        "height": 1018,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1-1536x1018.jpg"
+      },
+      "full": {
+        "file": "114293-2672-1.jpg",
+        "width": 1920,
+        "height": 1272,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 124362,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/114293/2672/114293-2672-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/124363"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/4"
+      }
+    ]
+  }
+}

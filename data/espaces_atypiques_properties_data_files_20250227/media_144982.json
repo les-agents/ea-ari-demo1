@@ -1,0 +1,79 @@
+{
+  "id": 144982,
+  "date": "2020-08-24T18:30:22",
+  "date_gmt": "2020-08-24T16:30:22",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/151467/234/151467-234-1.jpg"
+  },
+  "modified": "2020-12-09T11:16:35",
+  "modified_gmt": "2020-12-09T10:16:35",
+  "slug": "151467-234-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83430-saint-mandrier-sur-mer-ancienne-maison-de-pecheur-rehabilitee-vue-mer-sur-la-rade-de-toulon-234/attachment/151467-234-1-jpg/",
+  "title": {
+    "rendered": "Ancienne maison de pécheur réhabilitée"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/151467/234/151467-234-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"399\" height=\"266\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/234/151467-234-1.jpg\" class=\"attachment-medium size-medium\" alt=\"83430 SAINT MANDRIER SUR MER - Ancienne maison de pécheur réhabilitée\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83430 SAINT MANDRIER SUR MER - Ancienne maison de pécheur réhabilitée",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 399,
+    "height": 266,
+    "file": "151467/234/151467-234-1.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 144981,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/234/151467-234-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/144982"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

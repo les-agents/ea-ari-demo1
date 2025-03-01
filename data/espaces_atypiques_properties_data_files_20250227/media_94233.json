@@ -1,0 +1,115 @@
+{
+  "id": 94233,
+  "date": "2020-07-24T17:19:37",
+  "date_gmt": "2020-07-24T15:19:37",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4.jpg"
+  },
+  "modified": "2020-07-26T23:02:18",
+  "modified_gmt": "2020-07-26T21:02:18",
+  "slug": "169287-ealr421-4-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/17000-la-rochelle-duplex-et-ses-terrasses-a-la-vue-panoramique-ealr421/attachment/169287-ealr421-4-jpg/",
+  "title": {
+    "rendered": "Duplex et ses terrasses à la vue panoramique &#8211; Réf. EALR421"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"17000 LA ROCHELLE - Duplex et ses terrasses à la vue panoramique - Réf. EALR421\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "17000 LA ROCHELLE - Duplex et ses terrasses à la vue panoramique - Réf. EALR421",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "169287/EALR421/169287-EALR421-4.jpg",
+    "sizes": {
+      "medium": {
+        "file": "169287-EALR421-4-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4-960x640.jpg"
+      },
+      "large": {
+        "file": "169287-EALR421-4-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "169287-EALR421-4-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "169287-EALR421-4-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4-1536x1024.jpg"
+      },
+      "full": {
+        "file": "169287-EALR421-4.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 94226,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR421/169287-EALR421-4.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/94233"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

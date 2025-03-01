@@ -1,0 +1,93 @@
+{
+  "id": 183864,
+  "date": "2020-11-04T11:14:55",
+  "date_gmt": "2020-11-04T10:14:55",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/202ET_appartement_contemporain_toulouse_01.jpg"
+  },
+  "modified": "2020-11-04T11:16:17",
+  "modified_gmt": "2020-11-04T10:16:17",
+  "slug": "202et_appartement_contemporain_toulouse_01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/appartement-contemporain-proche-du-jardin-japonais/attachment/202et_appartement_contemporain_toulouse_01/",
+  "title": {
+    "rendered": "202ET_appartement_contemporain_toulouse_01"
+  },
+  "author": 31,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/202ET_appartement_contemporain_toulouse_01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/202ET_appartement_contemporain_toulouse_01.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>architecture, atypique, entreprise, exception, france, haute-garonne, immobilier, luxe, occitanie, photographie, prestige, reportage, toulouse</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1918,
+    "height": 1280,
+    "file": "2020/11/202ET_appartement_contemporain_toulouse_01.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "11",
+      "credit": "Sagel Loann",
+      "camera": "NIKON D810",
+      "caption": "architecture, atypique, entreprise, exception, france, haute-garonne, immobilier, luxe, occitanie, photographie, prestige, reportage, toulouse",
+      "created_timestamp": "1540819178",
+      "copyright": "",
+      "focal_length": "16",
+      "iso": "800",
+      "shutter_speed": "0.16666666666667",
+      "title": "",
+      "orientation": "1",
+      "keywords": [
+        "Entreprise",
+        "Photographie",
+        "architecture",
+        "atypique",
+        "exception",
+        "france",
+        "haute-garonne",
+        "immobilier",
+        "luxe",
+        "occitanie",
+        "prestige",
+        "reportage",
+        "toulouse"
+      ]
+    }
+  },
+  "post": 183863,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/202ET_appartement_contemporain_toulouse_01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/183864"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/31"
+      }
+    ]
+  }
+}

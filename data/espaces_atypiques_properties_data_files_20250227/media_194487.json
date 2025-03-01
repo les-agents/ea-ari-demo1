@@ -1,0 +1,101 @@
+{
+  "id": 194487,
+  "date": "2020-11-27T12:08:06",
+  "date_gmt": "2020-11-27T11:08:06",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure.jpg"
+  },
+  "modified": "2020-11-27T12:08:06",
+  "modified_gmt": "2020-11-27T11:08:06",
+  "slug": "villa-contemporaine-167-m2-mus-0543em-photo-11-vue-exterieure",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/30121-mus-villa-contemporaine-de-caractere-dans-son-ecrin-vegetal-0211-22/attachment/villa-contemporaine-167-m2-mus-0543em-photo-11-vue-exterieure/",
+  "title": {
+    "rendered": "Villa contemporaine, 167 m2, Mus &#8211; 0543EM &#8211; Photo 11 Vue extérieure"
+  },
+  "author": 30,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 853,
+    "file": "2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure-480x320.jpg"
+      },
+      "full": {
+        "file": "Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure.jpg",
+        "width": 1280,
+        "height": 853,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "22",
+      "credit": "",
+      "camera": "NIKON D5",
+      "caption": "",
+      "created_timestamp": "1573646918",
+      "copyright": "",
+      "focal_length": "21",
+      "iso": "100",
+      "shutter_speed": "0.01",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 11373,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporaine-167-m2-Mus-0543EM-Photo-11-Vue-extérieure.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/194487"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/30"
+      }
+    ]
+  }
+}

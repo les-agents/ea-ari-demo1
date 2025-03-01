@@ -1,0 +1,115 @@
+{
+  "id": 132498,
+  "date": "2020-08-05T10:06:07",
+  "date_gmt": "2020-08-05T08:06:07",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1.jpg"
+  },
+  "modified": "2020-12-03T13:49:53",
+  "modified_gmt": "2020-12-03T12:49:53",
+  "slug": "259140-0042eao-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/45160-olivet-maison-contemporaine-familiale-au-calme-0042eao/attachment/259140-0042eao-1-jpg/",
+  "title": {
+    "rendered": "Maison contemporaine familiale au calme &#8211; Réf. 0042EAO"
+  },
+  "author": 46,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"654\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1-960x654.jpg\" class=\"attachment-medium size-medium\" alt=\"45160 OLIVET - Maison contemporaine familiale au calme - Réf. 0042EAO\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1-960x654.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1-1680x1145.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1-480x327.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1-1536x1046.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "45160 OLIVET - Maison contemporaine familiale au calme - Réf. 0042EAO",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1308,
+    "file": "259140/0042EAO/259140-0042EAO-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "259140-0042EAO-1-960x654.jpg",
+        "width": 960,
+        "height": 654,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1-960x654.jpg"
+      },
+      "large": {
+        "file": "259140-0042EAO-1-1680x1145.jpg",
+        "width": 1680,
+        "height": 1145,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1-1680x1145.jpg"
+      },
+      "thumbnail": {
+        "file": "259140-0042EAO-1-480x327.jpg",
+        "width": 480,
+        "height": 327,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1-480x327.jpg"
+      },
+      "1536x1536": {
+        "file": "259140-0042EAO-1-1536x1046.jpg",
+        "width": 1536,
+        "height": 1046,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1-1536x1046.jpg"
+      },
+      "full": {
+        "file": "259140-0042EAO-1.jpg",
+        "width": 1920,
+        "height": 1308,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 132497,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/259140/0042EAO/259140-0042EAO-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/132498"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/46"
+      }
+    ]
+  }
+}

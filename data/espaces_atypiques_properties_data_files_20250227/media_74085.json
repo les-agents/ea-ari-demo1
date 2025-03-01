@@ -1,0 +1,108 @@
+{
+  "id": 74085,
+  "date": "2020-07-22T13:44:40",
+  "date_gmt": "2020-07-22T11:44:40",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1.jpg"
+  },
+  "modified": "2020-07-22T13:44:47",
+  "modified_gmt": "2020-07-22T11:44:47",
+  "slug": "280518-eavo032-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/95300-ennery-la-conviviale-maison-de-caractere-a-lesprit-boheme-chic-eavo032/attachment/280518-eavo032-1-jpg/",
+  "title": {
+    "rendered": "LA CONVIVIALE &#8211; Maison de caractère à l&rsquo;esprit bohème chic &#8211; Réf. EAVO032"
+  },
+  "author": 8,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"95300 ENNERY - LA CONVIVIALE - Maison de caractère à l&#039;esprit bohème chic - Réf. EAVO032\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1-1536x1023.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1.jpg 1680w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "95300 ENNERY - LA CONVIVIALE - Maison de caractère à l'esprit bohème chic - Réf. EAVO032",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1119,
+    "file": "280518/EAVO032/280518-EAVO032-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "280518-EAVO032-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1-960x639.jpg"
+      },
+      "thumbnail": {
+        "file": "280518-EAVO032-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "280518-EAVO032-1-1536x1023.jpg",
+        "width": 1536,
+        "height": 1023,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1-1536x1023.jpg"
+      },
+      "full": {
+        "file": "280518-EAVO032-1.jpg",
+        "width": 1680,
+        "height": 1119,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 43963,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO032/280518-EAVO032-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/74085"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/8"
+      }
+    ]
+  }
+}

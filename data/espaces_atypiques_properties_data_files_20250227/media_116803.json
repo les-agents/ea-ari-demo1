@@ -1,0 +1,101 @@
+{
+  "id": 116803,
+  "date": "2020-07-29T20:46:49",
+  "date_gmt": "2020-07-29T18:46:49",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1.jpg"
+  },
+  "modified": "2020-07-29T20:46:49",
+  "modified_gmt": "2020-07-29T18:46:49",
+  "slug": "2_espaces-atypiques_perthes_vueentree_sm159-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/77930-perthes-propriete-renovee-et-intimiste-sm159/attachment/2_espaces-atypiques_perthes_vueentree_sm159-2/",
+  "title": {
+    "rendered": "2_espaces atypiques_perthes_vueentrée_SM159"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"663\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1-960x663.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1-960x663.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1-480x331.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 707,
+    "file": "2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2_espaces-atypiques_perthes_vueentrée_SM159-1-960x663.jpg",
+        "width": 960,
+        "height": 663,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1-960x663.jpg"
+      },
+      "thumbnail": {
+        "file": "2_espaces-atypiques_perthes_vueentrée_SM159-1-480x331.jpg",
+        "width": 480,
+        "height": 331,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1-480x331.jpg"
+      },
+      "full": {
+        "file": "2_espaces-atypiques_perthes_vueentrée_SM159-1.jpg",
+        "width": 1024,
+        "height": 707,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 113826,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/12/2_espaces-atypiques_perthes_vueentrée_SM159-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/116803"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

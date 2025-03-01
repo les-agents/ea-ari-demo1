@@ -1,0 +1,101 @@
+{
+  "id": 183744,
+  "date": "2020-11-04T08:20:36",
+  "date_gmt": "2020-11-04T07:20:36",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1.jpg"
+  },
+  "modified": "2020-11-04T08:20:38",
+  "modified_gmt": "2020-11-04T07:20:38",
+  "slug": "283405-3215ceald-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/64100-bayonne-appartement-3-pieces-en-etage-eleve-bayonne-390-000-3215ceald-2/attachment/283405-3215ceald-1-jpg/",
+  "title": {
+    "rendered": "Appartement 3 pièces en étage élevé &#8211; Bayonne &#8211; 390 000 &#8211; Réf. 3215cEALD"
+  },
+  "author": 27,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"809\" height=\"960\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1-809x960.jpg\" class=\"attachment-medium size-medium\" alt=\"64100 BAYONNE - Appartement 3 pièces en étage élevé - Bayonne - 390 000 - Réf. 3215cEALD\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1-809x960.jpg 809w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1-404x480.jpg 404w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1.jpg 1000w\" sizes=\"(max-width: 809px) 100vw, 809px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "64100 BAYONNE - Appartement 3 pièces en étage élevé - Bayonne - 390 000 - Réf. 3215cEALD",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1000,
+    "height": 1187,
+    "file": "283405/3215cEALD/283405-3215cEALD-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "283405-3215cEALD-1-809x960.jpg",
+        "width": 809,
+        "height": 960,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1-809x960.jpg"
+      },
+      "thumbnail": {
+        "file": "283405-3215cEALD-1-404x480.jpg",
+        "width": 404,
+        "height": 480,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1-404x480.jpg"
+      },
+      "full": {
+        "file": "283405-3215cEALD-1.jpg",
+        "width": 1000,
+        "height": 1187,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 183743,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/3215cEALD/283405-3215cEALD-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/183744"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/27"
+      }
+    ]
+  }
+}

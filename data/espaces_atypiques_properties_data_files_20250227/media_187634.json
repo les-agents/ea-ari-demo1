@@ -1,0 +1,108 @@
+{
+  "id": 187634,
+  "date": "2020-11-11T10:01:30",
+  "date_gmt": "2020-11-11T09:01:30",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27.jpg"
+  },
+  "modified": "2020-11-11T10:02:42",
+  "modified_gmt": "2020-11-11T09:02:42",
+  "slug": "180702_lorgues_danna_-10",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83510-lorgues-villa-contemporaine-de-prestige-248-2/attachment/180702_lorgues_danna_-10/",
+  "title": {
+    "rendered": "180702_Lorgues_Danna_"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"638\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27-960x638.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27-960x638.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27-1536x1021.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27.jpg 1680w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1117,
+    "file": "2018/07/180702_Lorgues_Danna_27.jpg",
+    "sizes": {
+      "medium": {
+        "file": "180702_Lorgues_Danna_27-960x638.jpg",
+        "width": 960,
+        "height": 638,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27-960x638.jpg"
+      },
+      "thumbnail": {
+        "file": "180702_Lorgues_Danna_27-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "180702_Lorgues_Danna_27-1536x1021.jpg",
+        "width": 1536,
+        "height": 1021,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27-1536x1021.jpg"
+      },
+      "full": {
+        "file": "180702_Lorgues_Danna_27.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "19",
+      "credit": "MelgraniOlivier",
+      "camera": "PENTAX K-3",
+      "caption": "",
+      "created_timestamp": "1530538612",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.016666666666667",
+      "title": "180702_Lorgues_Danna_",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 187526,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/07/180702_Lorgues_Danna_27.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/187634"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

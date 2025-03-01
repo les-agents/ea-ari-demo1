@@ -1,0 +1,101 @@
+{
+  "id": 106599,
+  "date": "2020-07-27T19:42:35",
+  "date_gmt": "2020-07-27T17:42:35",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302.jpg"
+  },
+  "modified": "2020-07-27T19:42:35",
+  "modified_gmt": "2020-07-27T17:42:35",
+  "slug": "1_espaces-atypiques_chaumes_maison_sm302",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/77390-chaumes-en-brie-villa-avec-piscine-interieure-sm302/attachment/1_espaces-atypiques_chaumes_maison_sm302/",
+  "title": {
+    "rendered": "1_espaces atypiques_chaumes_maison_SM302"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302.jpg 1278w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1278,
+    "height": 852,
+    "file": "2019/10/1_espaces-atypiques_chaumes_maison_SM302.jpg",
+    "sizes": {
+      "medium": {
+        "file": "1_espaces-atypiques_chaumes_maison_SM302-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "1_espaces-atypiques_chaumes_maison_SM302-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302-480x320.jpg"
+      },
+      "full": {
+        "file": "1_espaces-atypiques_chaumes_maison_SM302.jpg",
+        "width": 1278,
+        "height": 852,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "NIKON D850",
+      "caption": "",
+      "created_timestamp": "1571932244",
+      "copyright": "",
+      "focal_length": "26",
+      "iso": "400",
+      "shutter_speed": "0.004",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 101050,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1_espaces-atypiques_chaumes_maison_SM302.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/106599"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

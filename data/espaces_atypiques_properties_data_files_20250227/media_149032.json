@@ -1,0 +1,101 @@
+{
+  "id": 149032,
+  "date": "2020-09-01T22:24:34",
+  "date_gmt": "2020-09-01T20:24:34",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2015/11/4LS.jpg"
+  },
+  "modified": "2020-09-01T22:24:34",
+  "modified_gmt": "2020-09-01T20:24:34",
+  "slug": "4ls",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/44000-nantes-loft-avec-patio-en-plein-coeur-de-nantes-2015-014/attachment/4ls/",
+  "title": {
+    "rendered": "4LS"
+  },
+  "author": 33,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2015/11/4LS.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2015/11/4LS-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2015/11/4LS-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2015/11/4LS-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2015/11/4LS.jpg 1181w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1181,
+    "height": 787,
+    "file": "2015/11/4LS.jpg",
+    "sizes": {
+      "medium": {
+        "file": "4LS-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2015/11/4LS-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "4LS-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2015/11/4LS-480x320.jpg"
+      },
+      "full": {
+        "file": "4LS.jpg",
+        "width": 1181,
+        "height": 787,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2015/11/4LS.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "Canon EOS 5D Mark II",
+      "caption": "",
+      "created_timestamp": "1437401705",
+      "copyright": "",
+      "focal_length": "16",
+      "iso": "1600",
+      "shutter_speed": "0.02",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 148887,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2015/11/4LS.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/149032"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/33"
+      }
+    ]
+  }
+}

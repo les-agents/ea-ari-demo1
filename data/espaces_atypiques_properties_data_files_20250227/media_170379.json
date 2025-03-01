@@ -1,0 +1,108 @@
+{
+  "id": 170379,
+  "date": "2020-10-08T15:55:21",
+  "date_gmt": "2020-10-08T13:55:21",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421.jpg"
+  },
+  "modified": "2020-10-08T15:58:18",
+  "modified_gmt": "2020-10-08T13:58:18",
+  "slug": "ea_22_11_19_pontoise-7421",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/95300-pontoise-tresor-historique-maison-familiale-du-xviiieme-420/attachment/ea_22_11_19_pontoise-7421/",
+  "title": {
+    "rendered": "EA_22_11_19_PONTOISE-7421"
+  },
+  "author": 8,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421.jpg 1680w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1121,
+    "file": "2019/11/EA_22_11_19_PONTOISE-7421.jpg",
+    "sizes": {
+      "medium": {
+        "file": "EA_22_11_19_PONTOISE-7421-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "EA_22_11_19_PONTOISE-7421-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "EA_22_11_19_PONTOISE-7421-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421-1536x1025.jpg"
+      },
+      "full": {
+        "file": "EA_22_11_19_PONTOISE-7421.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "Céline Leduc",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 168302,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/EA_22_11_19_PONTOISE-7421.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/170379"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/8"
+      }
+    ]
+  }
+}

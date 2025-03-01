@@ -1,0 +1,101 @@
+{
+  "id": 80006,
+  "date": "2020-07-22T15:24:33",
+  "date_gmt": "2020-07-22T13:24:33",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1.jpg"
+  },
+  "modified": "2020-07-29T11:34:10",
+  "modified_gmt": "2020-07-29T09:34:10",
+  "slug": "154205-398eam-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/06150-cannes-appartement-bourgeois-revisite-avec-terrasse-398eam/attachment/154205-398eam-1-jpg/",
+  "title": {
+    "rendered": "Appartement bourgeois revisité avec terrasse &#8211; Réf. 398EAM"
+  },
+  "author": 17,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"06150 CANNES - Appartement bourgeois revisité avec terrasse - Réf. 398EAM\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "06150 CANNES - Appartement bourgeois revisité avec terrasse - Réf. 398EAM",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 853,
+    "file": "154205/398EAM/154205-398EAM-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "154205-398EAM-1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "154205-398EAM-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1-480x320.jpg"
+      },
+      "full": {
+        "file": "154205-398EAM-1.jpg",
+        "width": 1280,
+        "height": 853,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 17490,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/398EAM/154205-398EAM-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/80006"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/17"
+      }
+    ]
+  }
+}

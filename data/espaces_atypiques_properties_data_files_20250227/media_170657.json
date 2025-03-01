@@ -1,0 +1,108 @@
+{
+  "id": 170657,
+  "date": "2020-10-08T19:33:47",
+  "date_gmt": "2020-10-08T17:33:47",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8.jpg"
+  },
+  "modified": "2020-10-08T19:33:57",
+  "modified_gmt": "2020-10-08T17:33:57",
+  "slug": "111031-661ea-8-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/74500-evian-les-bains-villa-moderniste-avec-piscine-en-centre-ville-661ea/attachment/111031-661ea-8-jpg/",
+  "title": {
+    "rendered": "Villa moderniste avec piscine en centre-ville &#8211; Réf. 661EA"
+  },
+  "author": 22,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"74500 EVIAN LES BAINS - Villa moderniste avec piscine en centre-ville - Réf. 661EA\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8.jpg 1679w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "74500 EVIAN LES BAINS - Villa moderniste avec piscine en centre-ville - Réf. 661EA",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1679,
+    "height": 1120,
+    "file": "111031/661EA/111031-661EA-8.jpg",
+    "sizes": {
+      "medium": {
+        "file": "111031-661EA-8-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "111031-661EA-8-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "111031-661EA-8-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8-1536x1025.jpg"
+      },
+      "full": {
+        "file": "111031-661EA-8.jpg",
+        "width": 1679,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 170642,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111031/661EA/111031-661EA-8.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/170657"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/22"
+      }
+    ]
+  }
+}

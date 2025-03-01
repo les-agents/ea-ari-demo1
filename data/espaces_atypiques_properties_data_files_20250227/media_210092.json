@@ -1,0 +1,122 @@
+{
+  "id": 210092,
+  "date": "2021-01-07T10:07:20",
+  "date_gmt": "2021-01-07T09:07:20",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4.jpg"
+  },
+  "modified": "2021-01-07T10:07:20",
+  "modified_gmt": "2021-01-07T09:07:20",
+  "slug": "sablet-maison-village-avec-terrasse-et-parking-4",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/84110-sablet-elegant-triplex-avec-terrasse-511eaa/attachment/sablet-maison-village-avec-terrasse-et-parking-4/",
+  "title": {
+    "rendered": "sablet-maison-village-avec-terrasse-et-parking-4"
+  },
+  "author": 16,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-1680x1118.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-2048x1363.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 6028,
+    "height": 4011,
+    "file": "2020/12/sablet-maison-village-avec-terrasse-et-parking-4.jpg",
+    "sizes": {
+      "medium": {
+        "file": "sablet-maison-village-avec-terrasse-et-parking-4-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-960x639.jpg"
+      },
+      "large": {
+        "file": "sablet-maison-village-avec-terrasse-et-parking-4-1680x1118.jpg",
+        "width": 1680,
+        "height": 1118,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-1680x1118.jpg"
+      },
+      "thumbnail": {
+        "file": "sablet-maison-village-avec-terrasse-et-parking-4-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "sablet-maison-village-avec-terrasse-et-parking-4-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-1536x1022.jpg"
+      },
+      "2048x2048": {
+        "file": "sablet-maison-village-avec-terrasse-et-parking-4-2048x1363.jpg",
+        "width": 2048,
+        "height": 1363,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4-2048x1363.jpg"
+      },
+      "full": {
+        "file": "sablet-maison-village-avec-terrasse-et-parking-4.jpg",
+        "width": 6028,
+        "height": 4011,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 210042,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/sablet-maison-village-avec-terrasse-et-parking-4.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/210092"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/16"
+      }
+    ]
+  }
+}

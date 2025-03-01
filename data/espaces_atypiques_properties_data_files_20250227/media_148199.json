@@ -1,0 +1,115 @@
+{
+  "id": 148199,
+  "date": "2020-08-31T21:01:42",
+  "date_gmt": "2020-08-31T19:01:42",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1.jpg"
+  },
+  "modified": "2020-09-03T09:38:31",
+  "modified_gmt": "2020-09-03T07:38:31",
+  "slug": "149294-2359ep-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/94160-saint-mande-triplex-avec-jardin-a-proximite-du-bois-de-vincennes-2359ep/attachment/149294-2359ep-1-jpg/",
+  "title": {
+    "rendered": "Triplex avec jardin à proximité du bois de Vincennes &#8211; Réf. 2359EP"
+  },
+  "author": 53,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"94160 SAINT MANDE - Triplex avec jardin à proximité du bois de Vincennes - Réf. 2359EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "94160 SAINT MANDE - Triplex avec jardin à proximité du bois de Vincennes - Réf. 2359EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1281,
+    "file": "149294/2359EP/149294-2359EP-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "149294-2359EP-1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1-960x641.jpg"
+      },
+      "large": {
+        "file": "149294-2359EP-1-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "149294-2359EP-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "149294-2359EP-1-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1-1536x1025.jpg"
+      },
+      "full": {
+        "file": "149294-2359EP-1.jpg",
+        "width": 1920,
+        "height": 1281,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 148198,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/149294/2359EP/149294-2359EP-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/148199"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/53"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 82894,
+  "date": "2020-07-22T16:58:48",
+  "date_gmt": "2020-07-22T14:58:48",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1.jpg"
+  },
+  "modified": "2020-08-14T09:40:47",
+  "modified_gmt": "2020-08-14T07:40:47",
+  "slug": "270305-3185-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/35460-maen-roch-un-petit-air-de-massachussets-210-m2-4-chambres-3185/attachment/270305-3185-1-jpg/",
+  "title": {
+    "rendered": "Un petit air de Massachussets &#8211; 210 m2 &#8211; 4 chambres &#8211; Réf. 3185"
+  },
+  "author": 39,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"35460 MAEN ROCH - Un petit air de Massachussets - 210 m2 - 4 chambres - Réf. 3185\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1-1680x1118.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "35460 MAEN ROCH - Un petit air de Massachussets - 210 m2 - 4 chambres - Réf. 3185",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1278,
+    "file": "270305/3185/270305-3185-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "270305-3185-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1-960x639.jpg"
+      },
+      "large": {
+        "file": "270305-3185-1-1680x1118.jpg",
+        "width": 1680,
+        "height": 1118,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1-1680x1118.jpg"
+      },
+      "thumbnail": {
+        "file": "270305-3185-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "270305-3185-1-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1-1536x1022.jpg"
+      },
+      "full": {
+        "file": "270305-3185-1.jpg",
+        "width": 1920,
+        "height": 1278,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 82893,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3185/270305-3185-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/82894"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/39"
+      }
+    ]
+  }
+}

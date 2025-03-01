@@ -1,0 +1,115 @@
+{
+  "id": 133747,
+  "date": "2020-08-06T04:35:48",
+  "date_gmt": "2020-08-06T02:35:48",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2.jpg"
+  },
+  "modified": "2021-01-10T11:16:19",
+  "modified_gmt": "2021-01-10T10:16:19",
+  "slug": "151467-641-2-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83310-grimaud-villa-contemporaine-a-300-m-du-village-de-grimaud-641-2/attachment/151467-641-2-jpg/",
+  "title": {
+    "rendered": "VILLA CONTEMPORAINE À 300 M DU VILLAGE DE GRIMAUD &#8211; Réf. 641"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"83310 GRIMAUD - VILLA CONTEMPORAINE À 300 M DU VILLAGE DE GRIMAUD - Réf. 641\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83310 GRIMAUD - VILLA CONTEMPORAINE À 300 M DU VILLAGE DE GRIMAUD - Réf. 641",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "151467/641/151467-641-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "151467-641-2-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2-960x640.jpg"
+      },
+      "large": {
+        "file": "151467-641-2-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "151467-641-2-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "151467-641-2-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2-1536x1024.jpg"
+      },
+      "full": {
+        "file": "151467-641-2.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 133744,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/641/151467-641-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/133747"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

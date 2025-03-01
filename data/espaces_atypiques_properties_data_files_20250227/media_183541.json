@@ -1,0 +1,94 @@
+{
+  "id": 183541,
+  "date": "2020-11-02T23:31:47",
+  "date_gmt": "2020-11-02T22:31:47",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/Villa-familiale-embruns-marins-oleron7.jpg"
+  },
+  "modified": "2020-11-02T23:42:10",
+  "modified_gmt": "2020-11-02T22:42:10",
+  "slug": "villa-familiale-embruns-marins-oleron7",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/villa-familiale-aux-embruns-marins/attachment/villa-familiale-embruns-marins-oleron7/",
+  "title": {
+    "rendered": "Villa-familiale-embruns-marins-oleron7"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Villa-familiale-embruns-marins-oleron7.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"613\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Villa-familiale-embruns-marins-oleron7-960x613.jpg\" class=\"attachment-medium size-medium\" alt=\"Villa-familiale-embruns-marins-oleron\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Villa-familiale-embruns-marins-oleron7-960x613.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Villa-familiale-embruns-marins-oleron7.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "Villa-familiale-embruns-marins-oleron",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1226,
+    "file": "2020/11/Villa-familiale-embruns-marins-oleron7.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Villa-familiale-embruns-marins-oleron7-960x613.jpg",
+        "width": 960,
+        "height": 613,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Villa-familiale-embruns-marins-oleron7-960x613.jpg"
+      },
+      "full": {
+        "file": "Villa-familiale-embruns-marins-oleron7.jpg",
+        "width": 1920,
+        "height": 1226,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Villa-familiale-embruns-marins-oleron7.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "Laurence Combe",
+      "camera": "Canon EOS 5D Mark III",
+      "caption": "",
+      "created_timestamp": "1603711599",
+      "copyright": "© Laurence Combe - 2020",
+      "focal_length": "18",
+      "iso": "100",
+      "shutter_speed": "0.002",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 183528,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Villa-familiale-embruns-marins-oleron7.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/183541"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

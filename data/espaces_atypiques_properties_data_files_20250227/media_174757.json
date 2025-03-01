@@ -1,0 +1,79 @@
+{
+  "id": 174757,
+  "date": "2020-10-16T09:18:19",
+  "date_gmt": "2020-10-16T07:18:19",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/Propriete-face-a-la-mer-à-réhabiliter2.jpg"
+  },
+  "modified": "2020-10-16T09:20:02",
+  "modified_gmt": "2020-10-16T07:20:02",
+  "slug": "dcim100mediadji_0436-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/29630-plougasnou-propriete-face-a-la-mer-a-rehabiliter-1099eaf/attachment/dcim100mediadji_0436-jpg/",
+  "title": {
+    "rendered": "Propriété face à la mer à réhabiliter &#8211; Réf. 1099EAF"
+  },
+  "author": 40,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Propriete-face-a-la-mer-à-réhabiliter2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"720\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Propriete-face-a-la-mer-à-réhabiliter2.jpg\" class=\"attachment-medium size-medium\" alt=\"29630 PLOUGASNOU - Propriété face à la mer à réhabiliter - Réf. 1099EAF\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "29630 PLOUGASNOU - Propriété face à la mer à réhabiliter - Réf. 1099EAF",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1440,
+    "file": "2020/10/Propriete-face-a-la-mer-à-réhabiliter2.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "2.8",
+      "credit": "",
+      "camera": "FC7203",
+      "caption": "DCIM100MEDIADJI_0436.JPG",
+      "created_timestamp": "1602783608",
+      "copyright": "",
+      "focal_length": "4.5",
+      "iso": "100",
+      "shutter_speed": "0.003125",
+      "title": "DCIM100MEDIADJI_0436.JPG",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 173357,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Propriete-face-a-la-mer-à-réhabiliter2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/174757"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/40"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": 156735,
+  "date": "2020-09-15T11:35:41",
+  "date_gmt": "2020-09-15T09:35:41",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3.jpg"
+  },
+  "modified": "2020-09-15T11:35:41",
+  "modified_gmt": "2020-09-15T09:35:41",
+  "slug": "vente-maison-appartement-duplex-terrasse-vue-loire-espaces-atypiques-nantes-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/44200-nantes-superbe-maison-duplex-vue-loire-dans-le-quartier-de-la-creation-422/attachment/vente-maison-appartement-duplex-terrasse-vue-loire-espaces-atypiques-nantes-3/",
+  "title": {
+    "rendered": "Vente Maison Appartement Duplex Terrasse Vue Loire Espaces Atypiques Nantes-3"
+  },
+  "author": 33,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3.jpg 1680w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1120,
+    "file": "2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3-1536x1024.jpg"
+      },
+      "full": {
+        "file": "Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "10",
+      "credit": "",
+      "camera": "ILCE-7",
+      "caption": "",
+      "created_timestamp": "1561719357",
+      "copyright": "",
+      "focal_length": "16",
+      "iso": "100",
+      "shutter_speed": "0.016666666666667",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 148884,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/Vente-Maison-Appartement-Duplex-Terrasse-Vue-Loire-Espaces-Atypiques-Nantes-3.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/156735"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/33"
+      }
+    ]
+  }
+}

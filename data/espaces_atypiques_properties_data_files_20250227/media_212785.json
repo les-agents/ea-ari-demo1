@@ -1,0 +1,115 @@
+{
+  "id": 212785,
+  "date": "2021-01-13T07:06:00",
+  "date_gmt": "2021-01-13T06:06:00",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1.jpg"
+  },
+  "modified": "2021-01-13T07:07:27",
+  "modified_gmt": "2021-01-13T06:07:27",
+  "slug": "564eam-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-renove_1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/06300-nice-appartement-bourgeois-et-contemporain-sur-la-place-garibaldi-564eam/attachment/564eam-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-renove_1/",
+  "title": {
+    "rendered": "564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1"
+  },
+  "author": 17,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-1680x1122.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-1536x1026.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1.jpg 1917w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1917,
+    "height": 1280,
+    "file": "2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-960x641.jpg"
+      },
+      "large": {
+        "file": "564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-1680x1122.jpg",
+        "width": 1680,
+        "height": 1122,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-1680x1122.jpg"
+      },
+      "thumbnail": {
+        "file": "564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-1536x1026.jpg",
+        "width": 1536,
+        "height": 1026,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1-1536x1026.jpg"
+      },
+      "full": {
+        "file": "564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1.jpg",
+        "width": 1917,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "7.1",
+      "credit": "",
+      "camera": "NIKON D610",
+      "caption": "",
+      "created_timestamp": "1609761918",
+      "copyright": "",
+      "focal_length": "15",
+      "iso": "1250",
+      "shutter_speed": "0.003125",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 212726,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/564EAM-espaces-atypiques-nice-cannes-appartement-bourgeois-garibaldi-rénové_1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/212785"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/17"
+      }
+    ]
+  }
+}

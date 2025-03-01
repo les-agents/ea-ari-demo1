@@ -1,0 +1,108 @@
+{
+  "id": 185208,
+  "date": "2020-11-05T21:19:09",
+  "date_gmt": "2020-11-05T20:19:09",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6.jpg"
+  },
+  "modified": "2020-11-05T21:37:32",
+  "modified_gmt": "2020-11-05T20:37:32",
+  "slug": "maison-famille-sur-le-port-oleron6",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/maison-de-famille-sur-le-port/attachment/maison-famille-sur-le-port-oleron6/",
+  "title": {
+    "rendered": "Maison-famille-sur-le-port-oleron6"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"758\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6-960x758.jpg\" class=\"attachment-medium size-medium\" alt=\"Maison-famille-sur-le-port-oleron\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6-960x758.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6-480x379.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6-1536x1213.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6.jpg 1621w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>Maison-famille-sur-le-port-oleron</p>\n"
+  },
+  "alt_text": "Maison-famille-sur-le-port-oleron",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1621,
+    "height": 1280,
+    "file": "2020/11/Maison-famille-sur-le-port-oleron6.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Maison-famille-sur-le-port-oleron6-960x758.jpg",
+        "width": 960,
+        "height": 758,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6-960x758.jpg"
+      },
+      "thumbnail": {
+        "file": "Maison-famille-sur-le-port-oleron6-480x379.jpg",
+        "width": 480,
+        "height": 379,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6-480x379.jpg"
+      },
+      "1536x1536": {
+        "file": "Maison-famille-sur-le-port-oleron6-1536x1213.jpg",
+        "width": 1536,
+        "height": 1213,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6-1536x1213.jpg"
+      },
+      "full": {
+        "file": "Maison-famille-sur-le-port-oleron6.jpg",
+        "width": 1621,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "Laurence Combe",
+      "camera": "Canon EOS 5D Mark III",
+      "caption": "",
+      "created_timestamp": "1604056215",
+      "copyright": "© Laurence Combe - 2020",
+      "focal_length": "30",
+      "iso": "100",
+      "shutter_speed": "0.0003125",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 185193,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-famille-sur-le-port-oleron6.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/185208"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

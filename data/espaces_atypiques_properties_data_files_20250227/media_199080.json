@@ -1,0 +1,108 @@
+{
+  "id": 199080,
+  "date": "2020-12-04T21:36:07",
+  "date_gmt": "2020-12-04T20:36:07",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01.jpg"
+  },
+  "modified": "2020-12-04T21:40:42",
+  "modified_gmt": "2020-12-04T20:40:42",
+  "slug": "2240el_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/maison-darchitecte-avec-piscine-et-vue/attachment/2240el_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01/",
+  "title": {
+    "rendered": "2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01"
+  },
+  "author": 20,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-960x640.jpg"
+      },
+      "large": {
+        "file": "2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01-480x320.jpg"
+      },
+      "full": {
+        "file": "2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "NIKON D850",
+      "caption": "",
+      "created_timestamp": "1606995400",
+      "copyright": "",
+      "focal_length": "14",
+      "iso": "64",
+      "shutter_speed": "0.02",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 198994,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2240EL_maison_architecte_piscine_vue_salles_arbuissonnas_beaujolais_01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/199080"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/20"
+      }
+    ]
+  }
+}

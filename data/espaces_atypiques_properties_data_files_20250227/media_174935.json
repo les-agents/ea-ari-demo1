@@ -1,0 +1,122 @@
+{
+  "id": 174935,
+  "date": "2020-10-16T12:07:08",
+  "date_gmt": "2020-10-16T10:07:08",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie.jpg"
+  },
+  "modified": "2020-10-16T12:07:32",
+  "modified_gmt": "2020-10-16T10:07:32",
+  "slug": "m2296ep-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/75011-paris-dernier-etage-avec-vue-2296ep/attachment/m2296ep-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie/",
+  "title": {
+    "rendered": "M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05 &#8211; copie"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-2048x1365.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 3456,
+    "height": 2304,
+    "file": "2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-960x640.jpg"
+      },
+      "large": {
+        "file": "M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-1536x1024.jpg"
+      },
+      "2048x2048": {
+        "file": "M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-2048x1365.jpg",
+        "width": 2048,
+        "height": 1365,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie-2048x1365.jpg"
+      },
+      "full": {
+        "file": "M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie.jpg",
+        "width": 3456,
+        "height": 2304,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "Canon EOS 100D",
+      "caption": "",
+      "created_timestamp": "1579624882",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "400",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 36343,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2296EP-espaces-atypiques-dernier-etage-vue-paris-11e-05-copie.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/174935"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 203328,
+  "date": "2020-12-14T12:18:12",
+  "date_gmt": "2020-12-14T11:18:12",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035.jpg"
+  },
+  "modified": "2020-12-14T12:18:12",
+  "modified_gmt": "2020-12-14T11:18:12",
+  "slug": "nolleval-192035",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/76780-nolleval-maison-darchitecte-en-ossature-bois-_-courbes-et-singularite-3075/attachment/nolleval-192035/",
+  "title": {
+    "rendered": "Nolleval 192035"
+  },
+  "author": 43,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/04/Nolleval-192035.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Nolleval-192035-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035-960x640.jpg"
+      },
+      "large": {
+        "file": "Nolleval-192035-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "Nolleval-192035-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "Nolleval-192035-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035-1536x1024.jpg"
+      },
+      "full": {
+        "file": "Nolleval-192035.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "9",
+      "credit": "JULIENTRAGIN",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1587992620",
+      "copyright": "JULIENTRAGIN",
+      "focal_length": "12",
+      "iso": "250",
+      "shutter_speed": "0.0005",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 203197,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/04/Nolleval-192035.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/203328"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/43"
+      }
+    ]
+  }
+}

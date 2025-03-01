@@ -1,0 +1,115 @@
+{
+  "id": 88901,
+  "date": "2020-07-24T09:40:48",
+  "date_gmt": "2020-07-24T07:40:48",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1.jpg"
+  },
+  "modified": "2020-07-24T18:19:33",
+  "modified_gmt": "2020-07-24T16:19:33",
+  "slug": "289693-629-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83000-toulon-appartement-contemporain-vue-mer-avec-rooftop-et-piscine-629/attachment/289693-629-1-jpg/",
+  "title": {
+    "rendered": "Appartement contemporain vue mer avec rooftop et piscine &#8211; Réf. 629"
+  },
+  "author": 57,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"540\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1-960x540.jpg\" class=\"attachment-medium size-medium\" alt=\"83000 TOULON - Appartement contemporain vue mer avec rooftop et piscine - Réf. 629\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1-960x540.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1-1680x945.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1-480x270.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1-1536x864.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83000 TOULON - Appartement contemporain vue mer avec rooftop et piscine - Réf. 629",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1080,
+    "file": "289693/629/289693-629-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "289693-629-1-960x540.jpg",
+        "width": 960,
+        "height": 540,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1-960x540.jpg"
+      },
+      "large": {
+        "file": "289693-629-1-1680x945.jpg",
+        "width": 1680,
+        "height": 945,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1-1680x945.jpg"
+      },
+      "thumbnail": {
+        "file": "289693-629-1-480x270.jpg",
+        "width": 480,
+        "height": 270,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1-480x270.jpg"
+      },
+      "1536x1536": {
+        "file": "289693-629-1-1536x864.jpg",
+        "width": 1536,
+        "height": 864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1-1536x864.jpg"
+      },
+      "full": {
+        "file": "289693-629-1.jpg",
+        "width": 1920,
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 88900,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/629/289693-629-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/88901"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/57"
+      }
+    ]
+  }
+}

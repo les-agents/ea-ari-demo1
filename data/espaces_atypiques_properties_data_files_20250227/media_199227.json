@@ -1,0 +1,115 @@
+{
+  "id": 199227,
+  "date": "2020-12-05T15:30:54",
+  "date_gmt": "2020-12-05T14:30:54",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14.jpg"
+  },
+  "modified": "2020-12-05T15:31:05",
+  "modified_gmt": "2020-12-05T14:31:05",
+  "slug": "138081-0551-14-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/11100-narbonne-maison-de-caractere-en-centre-ville-0551/attachment/138081-0551-14-jpg/",
+  "title": {
+    "rendered": "Maison de caractère en centre ville &#8211; Réf. 0551"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"720\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14-960x720.jpg\" class=\"attachment-medium size-medium\" alt=\"11100 NARBONNE - Maison de caractère en centre ville - Réf. 0551\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14-960x720.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14-1680x1260.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14-480x360.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14-1536x1152.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "11100 NARBONNE - Maison de caractère en centre ville - Réf. 0551",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1440,
+    "file": "138081/0551/138081-0551-14.jpg",
+    "sizes": {
+      "medium": {
+        "file": "138081-0551-14-960x720.jpg",
+        "width": 960,
+        "height": 720,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14-960x720.jpg"
+      },
+      "large": {
+        "file": "138081-0551-14-1680x1260.jpg",
+        "width": 1680,
+        "height": 1260,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14-1680x1260.jpg"
+      },
+      "thumbnail": {
+        "file": "138081-0551-14-480x360.jpg",
+        "width": 480,
+        "height": 360,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14-480x360.jpg"
+      },
+      "1536x1536": {
+        "file": "138081-0551-14-1536x1152.jpg",
+        "width": 1536,
+        "height": 1152,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14-1536x1152.jpg"
+      },
+      "full": {
+        "file": "138081-0551-14.jpg",
+        "width": 1920,
+        "height": 1440,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 199200,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0551/138081-0551-14.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/199227"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": 143380,
+  "date": "2020-08-21T13:26:35",
+  "date_gmt": "2020-08-21T11:26:35",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut.jpg"
+  },
+  "modified": "2020-08-21T13:26:35",
+  "modified_gmt": "2020-08-21T11:26:35",
+  "slug": "peniche-hollandaise-montpellier-0229-haut",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34000-montpellier-peniche-hollandaise-a-fort-potentiel-de-rendement-0351-11/attachment/peniche-hollandaise-montpellier-0229-haut/",
+  "title": {
+    "rendered": "Péniche hollandaise-Montpellier-0229-haut"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 853,
+    "file": "2019/12/Péniche-hollandaise-Montpellier-0229-haut.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Péniche-hollandaise-Montpellier-0229-haut-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "Péniche-hollandaise-Montpellier-0229-haut-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut-480x320.jpg"
+      },
+      "full": {
+        "file": "Péniche-hollandaise-Montpellier-0229-haut.jpg",
+        "width": 1280,
+        "height": 853,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "20",
+      "credit": "",
+      "camera": "NIKON Z 7",
+      "caption": "",
+      "created_timestamp": "1575376807",
+      "copyright": "",
+      "focal_length": "15",
+      "iso": "200",
+      "shutter_speed": "0.008",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 141512,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/Péniche-hollandaise-Montpellier-0229-haut.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/143380"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

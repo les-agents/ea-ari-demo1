@@ -1,0 +1,108 @@
+{
+  "id": 90598,
+  "date": "2020-07-24T13:21:36",
+  "date_gmt": "2020-07-24T11:21:36",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1.jpg"
+  },
+  "modified": "2020-07-31T08:44:39",
+  "modified_gmt": "2020-07-31T06:44:39",
+  "slug": "281096-0068eaca-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/22430-erquy-maison-darchitecte-vue-mer-dexception-acces-direct-plage-0068eaca/attachment/281096-0068eaca-1-jpg/",
+  "title": {
+    "rendered": "Maison d&rsquo;architecte vue mer d&rsquo;exception accès direct plage &#8211; Réf. 0068EACA"
+  },
+  "author": 41,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"648\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1-960x648.jpg\" class=\"attachment-medium size-medium\" alt=\"22430 ERQUY - Maison d&#039;architecte vue mer d&#039;exception accès direct plage - Réf. 0068EACA\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1-960x648.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1-480x324.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1-1536x1037.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1.jpg 1659w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "22430 ERQUY - Maison d'architecte vue mer d'exception accès direct plage - Réf. 0068EACA",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1659,
+    "height": 1120,
+    "file": "281096/0068EACA/281096-0068EACA-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "281096-0068EACA-1-960x648.jpg",
+        "width": 960,
+        "height": 648,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1-960x648.jpg"
+      },
+      "thumbnail": {
+        "file": "281096-0068EACA-1-480x324.jpg",
+        "width": 480,
+        "height": 324,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1-480x324.jpg"
+      },
+      "1536x1536": {
+        "file": "281096-0068EACA-1-1536x1037.jpg",
+        "width": 1536,
+        "height": 1037,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1-1536x1037.jpg"
+      },
+      "full": {
+        "file": "281096-0068EACA-1.jpg",
+        "width": 1659,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 90597,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0068EACA/281096-0068EACA-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/90598"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/41"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": 141546,
+  "date": "2020-08-16T09:53:45",
+  "date_gmt": "2020-08-16T07:53:45",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381.jpg"
+  },
+  "modified": "2020-08-16T09:53:45",
+  "modified_gmt": "2020-08-16T07:53:45",
+  "slug": "1_espaces-atypiques_barbizon_pav1_sm381",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/77630-barbizon-demeure-de-charme-au-coeur-du-village-de-barbizon-sm198/attachment/1_espaces-atypiques_barbizon_pav1_sm381/",
+  "title": {
+    "rendered": "1_espaces atypiques_barbizon_pav1_SM381"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381.jpg 1278w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1278,
+    "height": 852,
+    "file": "2020/07/1_espaces-atypiques_barbizon_pav1_SM381.jpg",
+    "sizes": {
+      "medium": {
+        "file": "1_espaces-atypiques_barbizon_pav1_SM381-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "1_espaces-atypiques_barbizon_pav1_SM381-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381-480x320.jpg"
+      },
+      "full": {
+        "file": "1_espaces-atypiques_barbizon_pav1_SM381.jpg",
+        "width": 1278,
+        "height": 852,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1511207809",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 101100,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/1_espaces-atypiques_barbizon_pav1_SM381.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/141546"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

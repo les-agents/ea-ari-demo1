@@ -1,0 +1,115 @@
+{
+  "id": 208615,
+  "date": "2020-12-30T11:22:45",
+  "date_gmt": "2020-12-30T10:22:45",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01.jpg"
+  },
+  "modified": "2020-12-30T11:28:26",
+  "modified_gmt": "2020-12-30T10:28:26",
+  "slug": "2225el_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/appartement-renove-avec-vue-sur-lile-barbe/attachment/2225el_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01/",
+  "title": {
+    "rendered": "2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01"
+  },
+  "author": 19,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-960x640.jpg"
+      },
+      "large": {
+        "file": "2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01-1536x1024.jpg"
+      },
+      "full": {
+        "file": "2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "NIKON D850",
+      "caption": "",
+      "created_timestamp": "1606226281",
+      "copyright": "",
+      "focal_length": "18",
+      "iso": "64",
+      "shutter_speed": "0.008",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 208614,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2225EL_appartement_ancien_renove_architecte_quais_saone_caluire_et_cuire_01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/208615"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/19"
+      }
+    ]
+  }
+}

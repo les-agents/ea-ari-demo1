@@ -1,0 +1,122 @@
+{
+  "id": 123780,
+  "date": "2020-07-30T17:50:58",
+  "date_gmt": "2020-07-30T15:50:58",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1.jpg"
+  },
+  "modified": "2020-07-30T17:51:16",
+  "modified_gmt": "2020-07-30T15:51:16",
+  "slug": "ma140f1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/60150-villers-sur-coudun-la-seduisante-maison-de-charme-pres-de-compiegne-eap226/attachment/ma140f1/",
+  "title": {
+    "rendered": "MA140F~1"
+  },
+  "author": 11,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"642\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-960x642.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-960x642.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-1680x1124.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-1536x1027.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-2048x1370.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 2990,
+    "height": 2000,
+    "file": "2019/12/MA140F1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "MA140F1-960x642.jpg",
+        "width": 960,
+        "height": 642,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-960x642.jpg"
+      },
+      "large": {
+        "file": "MA140F1-1680x1124.jpg",
+        "width": 1680,
+        "height": 1124,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-1680x1124.jpg"
+      },
+      "thumbnail": {
+        "file": "MA140F1-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "MA140F1-1536x1027.jpg",
+        "width": 1536,
+        "height": 1027,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-1536x1027.jpg"
+      },
+      "2048x2048": {
+        "file": "MA140F1-2048x1370.jpg",
+        "width": 2048,
+        "height": 1370,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1-2048x1370.jpg"
+      },
+      "full": {
+        "file": "MA140F1.jpg",
+        "width": 2990,
+        "height": 2000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "MANUEL_RIBEIRO",
+      "camera": "NIKON D850",
+      "caption": "",
+      "created_timestamp": "1556535622",
+      "copyright": "ATELIER_MARTY",
+      "focal_length": "24",
+      "iso": "400",
+      "shutter_speed": "0.004",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 119734,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/MA140F1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/123780"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/11"
+      }
+    ]
+  }
+}

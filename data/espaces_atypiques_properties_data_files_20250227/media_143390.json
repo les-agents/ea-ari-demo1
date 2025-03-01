@@ -1,0 +1,79 @@
+{
+  "id": 143390,
+  "date": "2020-08-21T13:31:38",
+  "date_gmt": "2020-08-21T11:31:38",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/11/Atelier-chai-à-rénover-65m2-Lattes-0206EM-photo1-projection-3D.jpg"
+  },
+  "modified": "2020-08-21T13:32:19",
+  "modified_gmt": "2020-08-21T11:32:19",
+  "slug": "atelier-chai-a-renover-65m2-lattes-0206em-photo1-projection-3d",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34000-lattes-atelier-a-renover-propriete-viticole-6-hectares-0206/attachment/atelier-chai-a-renover-65m2-lattes-0206em-photo1-projection-3d/",
+  "title": {
+    "rendered": "Atelier-chai-à-rénover-65m2-Lattes-0206EM-photo1-projection 3D"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Atelier-chai-à-rénover-65m2-Lattes-0206EM-photo1-projection-3D.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Atelier-chai-à-rénover-65m2-Lattes-0206EM-photo1-projection-3D.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 854,
+    "file": "2019/11/Atelier-chai-à-rénover-65m2-Lattes-0206EM-photo1-projection-3D.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 141514,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Atelier-chai-à-rénover-65m2-Lattes-0206EM-photo1-projection-3D.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/143390"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

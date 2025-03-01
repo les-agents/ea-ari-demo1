@@ -1,0 +1,115 @@
+{
+  "id": 142156,
+  "date": "2020-08-18T18:36:20",
+  "date_gmt": "2020-08-18T16:36:20",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1.jpg"
+  },
+  "modified": "2020-08-18T18:36:21",
+  "modified_gmt": "2020-08-18T16:36:21",
+  "slug": "289823-3207ceald-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/40440-ondres-appartement-ondres-4-pieces-80-m%c2%b2-3207ceald/attachment/289823-3207ceald-1-jpg/",
+  "title": {
+    "rendered": "Appartement Ondres 4 pièces 80 m² &#8211; Réf. 3207cEALD"
+  },
+  "author": 51,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"430\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1-960x430.jpg\" class=\"attachment-medium size-medium\" alt=\"40440 ONDRES - Appartement Ondres 4 pièces 80 m² - Réf. 3207cEALD\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1-960x430.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1-1680x753.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1-480x215.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1-1536x688.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "40440 ONDRES - Appartement Ondres 4 pièces 80 m² - Réf. 3207cEALD",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 860,
+    "file": "289823/3207cEALD/289823-3207cEALD-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "289823-3207cEALD-1-960x430.jpg",
+        "width": 960,
+        "height": 430,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1-960x430.jpg"
+      },
+      "large": {
+        "file": "289823-3207cEALD-1-1680x753.jpg",
+        "width": 1680,
+        "height": 753,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1-1680x753.jpg"
+      },
+      "thumbnail": {
+        "file": "289823-3207cEALD-1-480x215.jpg",
+        "width": 480,
+        "height": 215,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1-480x215.jpg"
+      },
+      "1536x1536": {
+        "file": "289823-3207cEALD-1-1536x688.jpg",
+        "width": 1536,
+        "height": 688,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1-1536x688.jpg"
+      },
+      "full": {
+        "file": "289823-3207cEALD-1.jpg",
+        "width": 1920,
+        "height": 860,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 142155,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289823/3207cEALD/289823-3207cEALD-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/142156"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/51"
+      }
+    ]
+  }
+}

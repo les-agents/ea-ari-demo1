@@ -1,0 +1,108 @@
+{
+  "id": 137203,
+  "date": "2020-08-12T04:35:52",
+  "date_gmt": "2020-08-12T02:35:52",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1.jpg"
+  },
+  "modified": "2020-11-10T10:21:56",
+  "modified_gmt": "2020-11-10T09:21:56",
+  "slug": "151467-53-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83380-les-issambres-propriete-de-luxe-avec-vue-sur-la-baie-de-saint-tropez-53/attachment/151467-53-1-jpg/",
+  "title": {
+    "rendered": "Propriété de luxe avec vue panoramique sur la baie de Saint Tropez &#8211; Réf. 53"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"83380 LES ISSAMBRES - Propriété de luxe avec vue panoramique sur la baie de Saint Tropez - Réf. 53\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1.jpg 1680w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83380 LES ISSAMBRES - Propriété de luxe avec vue panoramique sur la baie de Saint Tropez - Réf. 53",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1118,
+    "file": "151467/53/151467-53-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "151467-53-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1-960x639.jpg"
+      },
+      "thumbnail": {
+        "file": "151467-53-1-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "151467-53-1-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1-1536x1022.jpg"
+      },
+      "full": {
+        "file": "151467-53-1.jpg",
+        "width": 1680,
+        "height": 1118,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 137202,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/53/151467-53-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/137203"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

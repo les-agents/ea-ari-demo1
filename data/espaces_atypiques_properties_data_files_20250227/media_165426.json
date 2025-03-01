@@ -1,0 +1,79 @@
+{
+  "id": 165426,
+  "date": "2020-09-29T14:36:09",
+  "date_gmt": "2020-09-29T12:36:09",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/maison-architecte-piscine-280m2-baden-086eam-photo-A.jpg"
+  },
+  "modified": "2020-09-29T14:46:19",
+  "modified_gmt": "2020-09-29T12:46:19",
+  "slug": "maison-architecte-piscine-280m2-baden-086eam-photo-a",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/56000-vannes-villa-darchitecte-avec-piscine-170/attachment/maison-architecte-piscine-280m2-baden-086eam-photo-a/",
+  "title": {
+    "rendered": "maison-architecte-piscine-280m2-baden-086eam-photo-A"
+  },
+  "author": 38,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-architecte-piscine-280m2-baden-086eam-photo-A.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-architecte-piscine-280m2-baden-086eam-photo-A.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1282,
+    "file": "2020/09/maison-architecte-piscine-280m2-baden-086eam-photo-A.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Jean-Yves GAUTIER",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "J-Y GAUTIER Photographe",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 165319,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/maison-architecte-piscine-280m2-baden-086eam-photo-A.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/165426"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/38"
+      }
+    ]
+  }
+}

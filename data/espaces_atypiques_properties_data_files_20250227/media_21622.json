@@ -1,0 +1,101 @@
+{
+  "id": 21622,
+  "date": "2020-07-16T13:45:20",
+  "date_gmt": "2020-07-16T11:45:20",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1.jpg"
+  },
+  "modified": "2020-07-16T13:45:24",
+  "modified_gmt": "2020-07-16T11:45:24",
+  "slug": "104734-355-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33510-andernos-les-bains-authentique-villa-arcachonnaise-avec-jardin-355/attachment/104734-355-1-jpg/",
+  "title": {
+    "rendered": "Authentique villa Arcachonnaise avec jardin &#8211; Réf. 355"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"658\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1-960x658.jpg\" class=\"attachment-medium size-medium\" alt=\"33510 ANDERNOS LES BAINS - Authentique villa Arcachonnaise avec jardin - Réf. 355\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1-960x658.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1-480x329.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "33510 ANDERNOS LES BAINS - Authentique villa Arcachonnaise avec jardin - Réf. 355",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 702,
+    "file": "104734/355/104734-355-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "104734-355-1-960x658.jpg",
+        "width": 960,
+        "height": 658,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1-960x658.jpg"
+      },
+      "thumbnail": {
+        "file": "104734-355-1-480x329.jpg",
+        "width": 480,
+        "height": 329,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1-480x329.jpg"
+      },
+      "full": {
+        "file": "104734-355-1.jpg",
+        "width": 1024,
+        "height": 702,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 21621,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/355/104734-355-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/21622"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

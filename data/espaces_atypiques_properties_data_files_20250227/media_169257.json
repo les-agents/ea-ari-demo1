@@ -1,0 +1,101 @@
+{
+  "id": 169257,
+  "date": "2020-10-06T16:45:15",
+  "date_gmt": "2020-10-06T14:45:15",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1.jpg"
+  },
+  "modified": "2020-10-06T16:45:15",
+  "modified_gmt": "2020-10-06T14:45:15",
+  "slug": "triplex-moderne-chartrons-1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33000-bordeaux-duplex-moderne-aux-chartrons-815eabx/attachment/triplex-moderne-chartrons-1/",
+  "title": {
+    "rendered": "triplex-moderne-chartrons-1"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1.jpg 1214w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1214,
+    "height": 809,
+    "file": "2020/06/triplex-moderne-chartrons-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "triplex-moderne-chartrons-1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "triplex-moderne-chartrons-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1-480x320.jpg"
+      },
+      "full": {
+        "file": "triplex-moderne-chartrons-1.jpg",
+        "width": 1214,
+        "height": 809,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "14",
+      "credit": "",
+      "camera": "NIKON D3400",
+      "caption": "",
+      "created_timestamp": "1504833324",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "2.5",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 19234,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/triplex-moderne-chartrons-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/169257"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

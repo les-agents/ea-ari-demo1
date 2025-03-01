@@ -1,0 +1,115 @@
+{
+  "id": 210227,
+  "date": "2021-01-07T11:55:25",
+  "date_gmt": "2021-01-07T10:55:25",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1.jpg"
+  },
+  "modified": "2021-01-07T11:55:25",
+  "modified_gmt": "2021-01-07T10:55:25",
+  "slug": "espaces-atypiques-tours-achat-vente-maison-longere-piscine-esvres-17-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/longere-de-caractere-avec-piscine-et-dependance-eat970/attachment/espaces-atypiques-tours-achat-vente-maison-longere-piscine-esvres-17-2/",
+  "title": {
+    "rendered": "espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres- (17)"
+  },
+  "author": 45,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1281,
+    "file": "2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-960x641.jpg"
+      },
+      "large": {
+        "file": "espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1-1536x1025.jpg"
+      },
+      "full": {
+        "file": "espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1.jpg",
+        "width": 1920,
+        "height": 1281,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "FLORIAN FORTIER",
+      "camera": "Canon EOS R5",
+      "caption": "",
+      "created_timestamp": "1586310782",
+      "copyright": "www.florianfortier.com",
+      "focal_length": "15",
+      "iso": "100",
+      "shutter_speed": "0.005",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 208605,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/espaces-atypiques-tours-achat-vente-maison-longère-piscine-esvres-17-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/210227"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/45"
+      }
+    ]
+  }
+}

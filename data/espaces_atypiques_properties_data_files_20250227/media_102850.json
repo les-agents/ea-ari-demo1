@@ -1,0 +1,115 @@
+{
+  "id": 102850,
+  "date": "2020-07-26T22:31:14",
+  "date_gmt": "2020-07-26T20:31:14",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1.jpg"
+  },
+  "modified": "2020-08-27T10:36:47",
+  "modified_gmt": "2020-08-27T08:36:47",
+  "slug": "3030pillaiseadcp2-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/14510-gonneville-sur-mer-magnifique-presbytere-18eme-proche-houlgate-3030/attachment/3030pillaiseadcp2-2/",
+  "title": {
+    "rendered": "3030PILLAISEADCP2"
+  },
+  "author": 42,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/02/3030PILLAISEADCP2-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "3030PILLAISEADCP2-1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1-960x640.jpg"
+      },
+      "large": {
+        "file": "3030PILLAISEADCP2-1-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "3030PILLAISEADCP2-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "3030PILLAISEADCP2-1-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1-1536x1024.jpg"
+      },
+      "full": {
+        "file": "3030PILLAISEADCP2-1.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "7.1",
+      "credit": "",
+      "camera": "ILCE-6400",
+      "caption": "",
+      "created_timestamp": "1592820600",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.00125",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 75423,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/3030PILLAISEADCP2-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/102850"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/42"
+      }
+    ]
+  }
+}

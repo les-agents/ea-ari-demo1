@@ -1,0 +1,101 @@
+{
+  "id": 201025,
+  "date": "2020-12-10T10:30:12",
+  "date_gmt": "2020-12-10T09:30:12",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2.jpeg"
+  },
+  "modified": "2020-12-10T10:30:12",
+  "modified_gmt": "2020-12-10T09:30:12",
+  "slug": "maison-louisianne-piscine-gujan-mestras-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33470-gujan-mestras-villa-louisianne-sur-le-port-de-gujan-mestras-762/attachment/maison-louisianne-piscine-gujan-mestras-2/",
+  "title": {
+    "rendered": "maison-louisianne-piscine-gujan-mestras-2"
+  },
+  "author": 26,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2-960x641.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2-960x641.jpeg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2-480x320.jpeg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2.jpeg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 854,
+    "file": "2020/03/maison-louisianne-piscine-gujan-mestras-2.jpeg",
+    "sizes": {
+      "medium": {
+        "file": "maison-louisianne-piscine-gujan-mestras-2-960x641.jpeg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2-960x641.jpeg"
+      },
+      "thumbnail": {
+        "file": "maison-louisianne-piscine-gujan-mestras-2-480x320.jpeg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2-480x320.jpeg"
+      },
+      "full": {
+        "file": "maison-louisianne-piscine-gujan-mestras-2.jpeg",
+        "width": 1280,
+        "height": 854,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2.jpeg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "Canon EOS 2000D",
+      "caption": "",
+      "created_timestamp": "1583598439",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.005",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 200659,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/maison-louisianne-piscine-gujan-mestras-2.jpeg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/201025"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/26"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": 169071,
+  "date": "2020-10-06T11:38:36",
+  "date_gmt": "2020-10-06T09:38:36",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3.jpg"
+  },
+  "modified": "2020-10-06T11:39:11",
+  "modified_gmt": "2020-10-06T09:39:11",
+  "slug": "avignon-confidence-urbaine-v-i-r-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/84000-avignon-duplex-dexception-dans-une-residence-en-intra-muros-484011/attachment/avignon-confidence-urbaine-v-i-r-3/",
+  "title": {
+    "rendered": "avignon-confidence-urbaine-v-i-r-3"
+  },
+  "author": 16,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"528\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3-960x528.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3-960x528.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3-1680x924.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3-480x264.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1056,
+    "file": "2020/09/avignon-confidence-urbaine-v-i-r-3.jpg",
+    "sizes": {
+      "medium": {
+        "file": "avignon-confidence-urbaine-v-i-r-3-960x528.jpg",
+        "width": 960,
+        "height": 528,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3-960x528.jpg"
+      },
+      "large": {
+        "file": "avignon-confidence-urbaine-v-i-r-3-1680x924.jpg",
+        "width": 1680,
+        "height": 924,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3-1680x924.jpg"
+      },
+      "thumbnail": {
+        "file": "avignon-confidence-urbaine-v-i-r-3-480x264.jpg",
+        "width": 480,
+        "height": 264,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3-480x264.jpg"
+      },
+      "full": {
+        "file": "avignon-confidence-urbaine-v-i-r-3.jpg",
+        "width": 1920,
+        "height": 1056,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1593785892",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 163628,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/avignon-confidence-urbaine-v-i-r-3.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/169071"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/16"
+      }
+    ]
+  }
+}

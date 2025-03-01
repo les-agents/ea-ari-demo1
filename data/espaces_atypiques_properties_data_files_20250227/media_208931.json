@@ -1,0 +1,115 @@
+{
+  "id": 208931,
+  "date": "2021-01-03T15:05:25",
+  "date_gmt": "2021-01-03T14:05:25",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11.jpg"
+  },
+  "modified": "2021-01-03T15:07:12",
+  "modified_gmt": "2021-01-03T14:07:12",
+  "slug": "ancien-moulin-dans-un-cadre-dexception11",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/29400-landivisiau-ancien-moulin-dans-un-cadre-dexception-1109eaf/attachment/ancien-moulin-dans-un-cadre-dexception11/",
+  "title": {
+    "rendered": "Ancien moulin dans un cadre d&rsquo;exception &#8211; Réf. 1109EAF"
+  },
+  "author": 40,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"29400 LANDIVISIAU - Ancien moulin dans uncadre d exception - Réf. 1109EAF\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "29400 LANDIVISIAU - Ancien moulin dans uncadre d exception - Réf. 1109EAF",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/11/ancien-moulin-dans-un-cadre-dexception11.jpg",
+    "sizes": {
+      "medium": {
+        "file": "ancien-moulin-dans-un-cadre-dexception11-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11-960x640.jpg"
+      },
+      "large": {
+        "file": "ancien-moulin-dans-un-cadre-dexception11-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "ancien-moulin-dans-un-cadre-dexception11-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "ancien-moulin-dans-un-cadre-dexception11-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11-1536x1024.jpg"
+      },
+      "full": {
+        "file": "ancien-moulin-dans-un-cadre-dexception11.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "13",
+      "credit": "Stephane Ballois",
+      "camera": "ILCE-7M3",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "Air Fly Productions",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "0.16666666666667",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 192252,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/ancien-moulin-dans-un-cadre-dexception11.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/208931"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/40"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 164637,
+  "date": "2020-09-28T14:13:40",
+  "date_gmt": "2020-09-28T12:13:40",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR.jpg"
+  },
+  "modified": "2020-09-28T14:13:40",
+  "modified_gmt": "2020-09-28T12:13:40",
+  "slug": "a6406253-hdr",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/14000-caen-triplex-ancien-au-centre-de-caen-3193/attachment/a6406253-hdr/",
+  "title": {
+    "rendered": "A6406253-HDR"
+  },
+  "author": 42,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/07/A6406253-HDR.jpg",
+    "sizes": {
+      "medium": {
+        "file": "A6406253-HDR-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR-960x640.jpg"
+      },
+      "large": {
+        "file": "A6406253-HDR-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "A6406253-HDR-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "A6406253-HDR-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR-1536x1024.jpg"
+      },
+      "full": {
+        "file": "A6406253-HDR.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "7.1",
+      "credit": "",
+      "camera": "ILCE-6400",
+      "caption": "",
+      "created_timestamp": "1595579553",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.2",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 116916,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/A6406253-HDR.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/164637"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/42"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": 209699,
+  "date": "2021-01-05T14:36:58",
+  "date_gmt": "2021-01-05T13:36:58",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014.jpg"
+  },
+  "modified": "2021-01-05T14:39:03",
+  "modified_gmt": "2021-01-05T13:39:03",
+  "slug": "immo-2730-st-pons-de-mauchiens-watermark-014",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34120-pezenas-villa-contemporaine-de-prestige-avec-vue-panoramique-0492em/attachment/immo-2730-st-pons-de-mauchiens-watermark-014/",
+  "title": {
+    "rendered": "immo 2730 &#8211; St Pons de Mauchiens-watermark-014"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014.jpg 1349w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1349,
+    "height": 900,
+    "file": "2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014.jpg",
+    "sizes": {
+      "medium": {
+        "file": "immo-2730-St-Pons-de-Mauchiens-watermark-014-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "immo-2730-St-Pons-de-Mauchiens-watermark-014-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014-480x320.jpg"
+      },
+      "full": {
+        "file": "immo-2730-St-Pons-de-Mauchiens-watermark-014.jpg",
+        "width": 1349,
+        "height": 900,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Gilles Auteroche",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "(C) 2015",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 175443,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/immo-2730-St-Pons-de-Mauchiens-watermark-014.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/209699"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

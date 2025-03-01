@@ -1,0 +1,115 @@
+{
+  "id": 85890,
+  "date": "2020-07-23T09:54:52",
+  "date_gmt": "2020-07-23T07:54:52",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2.jpg"
+  },
+  "modified": "2020-07-29T11:42:05",
+  "modified_gmt": "2020-07-29T09:42:05",
+  "slug": "104730-1065em-2-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/13011-marseille-bastide-1900-revisitee-avec-piscine-1065em/attachment/104730-1065em-2-jpg/",
+  "title": {
+    "rendered": "Bastide 1900 revisitée avec piscine &#8211; Réf. 1065EM."
+  },
+  "author": 7,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"645\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2-960x645.jpg\" class=\"attachment-medium size-medium\" alt=\"13011 MARSEILLE - Bastide 1900 revisitée avec piscine - Réf. 1065EM.\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2-960x645.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2-1680x1129.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2-480x323.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2-1536x1032.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2.jpg 1905w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "13011 MARSEILLE - Bastide 1900 revisitée avec piscine - Réf. 1065EM.",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1905,
+    "height": 1280,
+    "file": "104730/1065EM./104730-1065EM.-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "104730-1065EM.-2-960x645.jpg",
+        "width": 960,
+        "height": 645,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2-960x645.jpg"
+      },
+      "large": {
+        "file": "104730-1065EM.-2-1680x1129.jpg",
+        "width": 1680,
+        "height": 1129,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2-1680x1129.jpg"
+      },
+      "thumbnail": {
+        "file": "104730-1065EM.-2-480x323.jpg",
+        "width": 480,
+        "height": 323,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2-480x323.jpg"
+      },
+      "1536x1536": {
+        "file": "104730-1065EM.-2-1536x1032.jpg",
+        "width": 1536,
+        "height": 1032,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2-1536x1032.jpg"
+      },
+      "full": {
+        "file": "104730-1065EM.-2.jpg",
+        "width": 1905,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 85887,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104730/1065EM./104730-1065EM.-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/85890"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/7"
+      }
+    ]
+  }
+}

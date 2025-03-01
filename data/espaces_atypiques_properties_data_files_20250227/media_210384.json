@@ -1,0 +1,108 @@
+{
+  "id": 210384,
+  "date": "2021-01-07T21:53:26",
+  "date_gmt": "2021-01-07T20:53:26",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB.jpg"
+  },
+  "modified": "2021-01-07T21:58:35",
+  "modified_gmt": "2021-01-07T20:58:35",
+  "slug": "20201217_salles_sur_mer-049-web",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/demeure-familiale-et-sa-maison-annexe/attachment/20201217_salles_sur_mer-049-web/",
+  "title": {
+    "rendered": "20201217_Salles_sur_Mer-049-WEB"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"maison-famille-chatelaillon\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "maison-famille-chatelaillon",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2021/01/20201217_Salles_sur_Mer-049-WEB.jpg",
+    "sizes": {
+      "medium": {
+        "file": "20201217_Salles_sur_Mer-049-WEB-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB-960x640.jpg"
+      },
+      "large": {
+        "file": "20201217_Salles_sur_Mer-049-WEB-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "20201217_Salles_sur_Mer-049-WEB-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB-480x320.jpg"
+      },
+      "full": {
+        "file": "20201217_Salles_sur_Mer-049-WEB.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Florent Fauqueux Photographe",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "Credit photo: Florent Fauqueux",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 210337,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/20201217_Salles_sur_Mer-049-WEB.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/210384"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

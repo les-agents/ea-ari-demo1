@@ -1,0 +1,79 @@
+{
+  "id": 139810,
+  "date": "2020-08-12T13:44:56",
+  "date_gmt": "2020-08-12T11:44:56",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/01/2088EP-espaces-atypiques-Appartement-avec-terrasse-et-vue-panoramique-alfortville-01.jpg"
+  },
+  "modified": "2020-08-12T13:46:29",
+  "modified_gmt": "2020-08-12T11:46:29",
+  "slug": "2088ep-espaces-atypiques-appartement-avec-terrasse-et-vue-panoramique-alfortville-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/94140-alfortville-appartement-avec-terrasse-et-vue-panoramique-2088ep/attachment/2088ep-espaces-atypiques-appartement-avec-terrasse-et-vue-panoramique-alfortville-01/",
+  "title": {
+    "rendered": "2088EP-espaces-atypiques-Appartement-avec-terrasse-et-vue-panoramique-alfortville-01"
+  },
+  "author": 53,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/2088EP-espaces-atypiques-Appartement-avec-terrasse-et-vue-panoramique-alfortville-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/2088EP-espaces-atypiques-Appartement-avec-terrasse-et-vue-panoramique-alfortville-01.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1120,
+    "file": "2020/01/2088EP-espaces-atypiques-Appartement-avec-terrasse-et-vue-panoramique-alfortville-01.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 137287,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/2088EP-espaces-atypiques-Appartement-avec-terrasse-et-vue-panoramique-alfortville-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/139810"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/53"
+      }
+    ]
+  }
+}

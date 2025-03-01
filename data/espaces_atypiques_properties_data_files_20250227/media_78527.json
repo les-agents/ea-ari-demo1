@@ -1,0 +1,101 @@
+{
+  "id": 78527,
+  "date": "2020-07-22T15:04:04",
+  "date_gmt": "2020-07-22T13:04:04",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2.jpg"
+  },
+  "modified": "2020-07-22T15:04:11",
+  "modified_gmt": "2020-07-22T13:04:11",
+  "slug": "138081-0067-20-2-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/11100-narbonne-villa-darchitecte-suspendue-face-a-la-mer-0067-20/attachment/138081-0067-20-2-jpg/",
+  "title": {
+    "rendered": "Villa d&rsquo;architecte suspendue face à la mer &#8211; Réf. 0067-20"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"645\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2-960x645.jpg\" class=\"attachment-medium size-medium\" alt=\"11100 NARBONNE - Villa d&#039;architecte suspendue face à la mer - Réf. 0067-20\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2-960x645.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2-480x323.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2.jpg 1339w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "11100 NARBONNE - Villa d'architecte suspendue face à la mer - Réf. 0067-20",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1339,
+    "height": 900,
+    "file": "138081/0067-20/138081-0067-20-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "138081-0067-20-2-960x645.jpg",
+        "width": 960,
+        "height": 645,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2-960x645.jpg"
+      },
+      "thumbnail": {
+        "file": "138081-0067-20-2-480x323.jpg",
+        "width": 480,
+        "height": 323,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2-480x323.jpg"
+      },
+      "full": {
+        "file": "138081-0067-20-2.jpg",
+        "width": 1339,
+        "height": 900,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 13723,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0067-20/138081-0067-20-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/78527"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

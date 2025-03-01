@@ -1,0 +1,115 @@
+{
+  "id": 155028,
+  "date": "2020-09-11T20:16:37",
+  "date_gmt": "2020-09-11T18:16:37",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1.jpg"
+  },
+  "modified": "2020-09-11T20:16:43",
+  "modified_gmt": "2020-09-11T18:16:43",
+  "slug": "111024-lgm-3-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/59520-marquette-lez-lille-les-magasins-les-grands-moulins-lgm-3/attachment/111024-lgm-3-1-jpg/",
+  "title": {
+    "rendered": "LES MAGASINS &#8211; LES GRANDS MOULINS &#8211; Réf. LGM-3"
+  },
+  "author": 10,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"662\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1-960x662.jpg\" class=\"attachment-medium size-medium\" alt=\"59520 MARQUETTE LEZ LILLE - LES MAGASINS - LES GRANDS MOULINS - Réf. LGM-3\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1-960x662.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1-1680x1158.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1-480x331.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1-1536x1059.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1.jpg 1857w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "59520 MARQUETTE LEZ LILLE - LES MAGASINS - LES GRANDS MOULINS - Réf. LGM-3",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1857,
+    "height": 1280,
+    "file": "111024/LGM-3/111024-LGM-3-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "111024-LGM-3-1-960x662.jpg",
+        "width": 960,
+        "height": 662,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1-960x662.jpg"
+      },
+      "large": {
+        "file": "111024-LGM-3-1-1680x1158.jpg",
+        "width": 1680,
+        "height": 1158,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1-1680x1158.jpg"
+      },
+      "thumbnail": {
+        "file": "111024-LGM-3-1-480x331.jpg",
+        "width": 480,
+        "height": 331,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1-480x331.jpg"
+      },
+      "1536x1536": {
+        "file": "111024-LGM-3-1-1536x1059.jpg",
+        "width": 1536,
+        "height": 1059,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1-1536x1059.jpg"
+      },
+      "full": {
+        "file": "111024-LGM-3-1.jpg",
+        "width": 1857,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 155027,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/111024/LGM-3/111024-LGM-3-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/155028"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/10"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 190940,
+  "date": "2020-11-19T18:44:47",
+  "date_gmt": "2020-11-19T17:44:47",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1.jpg"
+  },
+  "modified": "2020-11-19T18:45:26",
+  "modified_gmt": "2020-11-19T17:45:26",
+  "slug": "maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/38380-saint-pierre-de-chartreuse-maison-contemporaine-ossature-bois-527eag/attachment/maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-2/",
+  "title": {
+    "rendered": "Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01"
+  },
+  "author": 21,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"720\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-960x720.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-960x720.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-1680x1260.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-480x360.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-1536x1152.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1.jpg 1707w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1707,
+    "height": 1280,
+    "file": "2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-960x720.jpg",
+        "width": 960,
+        "height": 720,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-960x720.jpg"
+      },
+      "large": {
+        "file": "Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-1680x1260.jpg",
+        "width": 1680,
+        "height": 1260,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-1680x1260.jpg"
+      },
+      "thumbnail": {
+        "file": "Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-480x360.jpg",
+        "width": 480,
+        "height": 360,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-480x360.jpg"
+      },
+      "1536x1536": {
+        "file": "Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-1536x1152.jpg",
+        "width": 1536,
+        "height": 1152,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1-1536x1152.jpg"
+      },
+      "full": {
+        "file": "Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1.jpg",
+        "width": 1707,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "2.2",
+      "credit": "",
+      "camera": "iPhone 6s Plus",
+      "caption": "",
+      "created_timestamp": "1605708083",
+      "copyright": "",
+      "focal_length": "4.15",
+      "iso": "25",
+      "shutter_speed": "0.00041597337770383",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 185394,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Maison-contemporaine-ossature-bois-saint-pierre-de-chartreuse-527eag-01-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/190940"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/21"
+      }
+    ]
+  }
+}

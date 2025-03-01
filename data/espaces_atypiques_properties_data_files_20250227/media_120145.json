@@ -1,0 +1,115 @@
+{
+  "id": 120145,
+  "date": "2020-07-30T06:56:03",
+  "date_gmt": "2020-07-30T04:56:03",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1.jpg"
+  },
+  "modified": "2020-07-30T06:56:10",
+  "modified_gmt": "2020-07-30T04:56:10",
+  "slug": "169165-eap145-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/80000-amiens-lideale-maison-darchitecte-et-son-parc-a-la-signature-californienne-eap145/attachment/169165-eap145-1-jpg/",
+  "title": {
+    "rendered": "L&rsquo;idéale &#8211; Maison d&rsquo;architecte  et son parc à la signature Californienne &#8211; Réf. EAP145"
+  },
+  "author": 11,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"642\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1-960x642.jpg\" class=\"attachment-medium size-medium\" alt=\"80000 AMIENS - L&#039;idéale - Maison d&#039;architecte  et son parc à la signature Californienne - Réf. EAP145\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1-960x642.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1-1680x1124.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1-1536x1027.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "80000 AMIENS - L'idéale - Maison d'architecte  et son parc à la signature Californienne - Réf. EAP145",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1284,
+    "file": "169165/EAP145/169165-EAP145-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "169165-EAP145-1-960x642.jpg",
+        "width": 960,
+        "height": 642,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1-960x642.jpg"
+      },
+      "large": {
+        "file": "169165-EAP145-1-1680x1124.jpg",
+        "width": 1680,
+        "height": 1124,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1-1680x1124.jpg"
+      },
+      "thumbnail": {
+        "file": "169165-EAP145-1-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "169165-EAP145-1-1536x1027.jpg",
+        "width": 1536,
+        "height": 1027,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1-1536x1027.jpg"
+      },
+      "full": {
+        "file": "169165-EAP145-1.jpg",
+        "width": 1920,
+        "height": 1284,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 120144,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP145/169165-EAP145-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/120145"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/11"
+      }
+    ]
+  }
+}

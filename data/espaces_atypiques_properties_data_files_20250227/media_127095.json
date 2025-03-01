@@ -1,0 +1,115 @@
+{
+  "id": 127095,
+  "date": "2020-07-31T17:40:35",
+  "date_gmt": "2020-07-31T15:40:35",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1.jpg"
+  },
+  "modified": "2020-07-31T17:40:48",
+  "modified_gmt": "2020-07-31T15:40:48",
+  "slug": "283405-ea64208-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/64990-mouguerre-maison-contemporaine-mouguerre-130-m%c2%b2-ea64208/attachment/283405-ea64208-1-jpg/",
+  "title": {
+    "rendered": "Maison contemporaine &#8211; Mouguerre -130 m² &#8211; Réf. EA64208"
+  },
+  "author": 27,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"64990 MOUGUERRE - Maison contemporaine - Mouguerre -130 m² - Réf. EA64208\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "64990 MOUGUERRE - Maison contemporaine - Mouguerre -130 m² - Réf. EA64208",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "283405/EA64208/283405-EA64208-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "283405-EA64208-1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1-960x640.jpg"
+      },
+      "large": {
+        "file": "283405-EA64208-1-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "283405-EA64208-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "283405-EA64208-1-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1-1536x1024.jpg"
+      },
+      "full": {
+        "file": "283405-EA64208-1.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 127092,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/283405/EA64208/283405-EA64208-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/127095"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/27"
+      }
+    ]
+  }
+}

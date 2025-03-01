@@ -1,0 +1,115 @@
+{
+  "id": 188629,
+  "date": "2020-11-13T19:06:48",
+  "date_gmt": "2020-11-13T18:06:48",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1.jpg"
+  },
+  "modified": "2020-11-13T19:07:01",
+  "modified_gmt": "2020-11-13T18:07:01",
+  "slug": "169165-eap233-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/02120-guise-entre-nature-et-culture-anciennes-ecuries-rehabilitees-eap233/attachment/169165-eap233-1-jpg/",
+  "title": {
+    "rendered": "Entre nature et culture &#8211; anciennes écuries réhabilitées &#8211; Réf. EAP233"
+  },
+  "author": 11,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"642\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1-960x642.jpg\" class=\"attachment-medium size-medium\" alt=\"02120 GUISE - Entre nature et culture - anciennes écuries réhabilitées - Réf. EAP233\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1-960x642.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1-1680x1124.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1-1536x1027.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "02120 GUISE - Entre nature et culture - anciennes écuries réhabilitées - Réf. EAP233",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1284,
+    "file": "169165/EAP233/169165-EAP233-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "169165-EAP233-1-960x642.jpg",
+        "width": 960,
+        "height": 642,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1-960x642.jpg"
+      },
+      "large": {
+        "file": "169165-EAP233-1-1680x1124.jpg",
+        "width": 1680,
+        "height": 1124,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1-1680x1124.jpg"
+      },
+      "thumbnail": {
+        "file": "169165-EAP233-1-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "169165-EAP233-1-1536x1027.jpg",
+        "width": 1536,
+        "height": 1027,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1-1536x1027.jpg"
+      },
+      "full": {
+        "file": "169165-EAP233-1.jpg",
+        "width": 1920,
+        "height": 1284,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 188628,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP233/169165-EAP233-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/188629"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/11"
+      }
+    ]
+  }
+}

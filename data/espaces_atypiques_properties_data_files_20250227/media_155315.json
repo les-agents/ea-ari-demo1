@@ -1,0 +1,108 @@
+{
+  "id": 155315,
+  "date": "2020-09-11T22:45:52",
+  "date_gmt": "2020-09-11T20:45:52",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2.jpg"
+  },
+  "modified": "2020-10-15T13:36:43",
+  "modified_gmt": "2020-10-15T11:36:43",
+  "slug": "281096-00116eaca-2-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/22360-langueux-maison-familiale-vue-mer-00116eaca-2/attachment/281096-00116eaca-2-jpg/",
+  "title": {
+    "rendered": "Maison familiale vue mer &#8211; Réf. 00116EACA"
+  },
+  "author": 41,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"672\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2-960x672.jpg\" class=\"attachment-medium size-medium\" alt=\"22360 LANGUEUX - Maison familiale vue mer - Réf. 00116EACA\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2-960x672.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2-480x336.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2-1536x1075.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2.jpg 1543w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "22360 LANGUEUX - Maison familiale vue mer - Réf. 00116EACA",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1543,
+    "height": 1080,
+    "file": "281096/00116EACA/281096-00116EACA-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "281096-00116EACA-2-960x672.jpg",
+        "width": 960,
+        "height": 672,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2-960x672.jpg"
+      },
+      "thumbnail": {
+        "file": "281096-00116EACA-2-480x336.jpg",
+        "width": 480,
+        "height": 336,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2-480x336.jpg"
+      },
+      "1536x1536": {
+        "file": "281096-00116EACA-2-1536x1075.jpg",
+        "width": 1536,
+        "height": 1075,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2-1536x1075.jpg"
+      },
+      "full": {
+        "file": "281096-00116EACA-2.jpg",
+        "width": 1543,
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 155312,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/00116EACA/281096-00116EACA-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/155315"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/41"
+      }
+    ]
+  }
+}

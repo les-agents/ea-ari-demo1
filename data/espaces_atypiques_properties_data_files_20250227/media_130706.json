@@ -1,0 +1,101 @@
+{
+  "id": 130706,
+  "date": "2020-08-04T04:40:46",
+  "date_gmt": "2020-08-04T02:40:46",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1.jpg"
+  },
+  "modified": "2021-04-22T04:47:01",
+  "modified_gmt": "2021-04-22T02:47:01",
+  "slug": "289693-0180ev-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83000-toulon-appartement-dernier-etage-dun-chateau-avec-jardin-0180ev/attachment/289693-0180ev-1-jpg/",
+  "title": {
+    "rendered": "Appartement dernier étage d&rsquo;un château avec jardin &#8211; Réf. 0180EV"
+  },
+  "author": 57,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"83000 TOULON - Appartement dernier étage d&#039;un château avec jardin - Réf. 0180EV\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1.jpg 1200w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83000 TOULON - Appartement dernier étage d'un château avec jardin - Réf. 0180EV",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1200,
+    "height": 800,
+    "file": "289693/0180EV/289693-0180EV-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "289693-0180EV-1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "289693-0180EV-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1-480x320.jpg"
+      },
+      "full": {
+        "file": "289693-0180EV-1.jpg",
+        "width": 1200,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 130705,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/289693/0180EV/289693-0180EV-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/130706"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/57"
+      }
+    ]
+  }
+}

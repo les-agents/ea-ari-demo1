@@ -1,0 +1,79 @@
+{
+  "id": 173776,
+  "date": "2020-10-14T15:15:10",
+  "date_gmt": "2020-10-14T13:15:10",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/04/immo-0020EM-St-Pargoire-SABROU-016.jpg"
+  },
+  "modified": "2020-10-14T15:16:05",
+  "modified_gmt": "2020-10-14T13:16:05",
+  "slug": "immo-0020em-st-pargoire-sabrou-016",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34230-saint-pargoire-confortable-maison-et-son-agreable-exterieur-0020em/attachment/immo-0020em-st-pargoire-sabrou-016/",
+  "title": {
+    "rendered": "immo 0020EM-St Pargoire-SABROU-016"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/04/immo-0020EM-St-Pargoire-SABROU-016.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/04/immo-0020EM-St-Pargoire-SABROU-016.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1349,
+    "height": 900,
+    "file": "2019/04/immo-0020EM-St-Pargoire-SABROU-016.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Gilles Auteroche",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "(C) 2015",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 123601,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/04/immo-0020EM-St-Pargoire-SABROU-016.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/173776"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

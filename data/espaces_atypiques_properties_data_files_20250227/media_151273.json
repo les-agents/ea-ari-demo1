@@ -1,0 +1,115 @@
+{
+  "id": 151273,
+  "date": "2020-09-05T21:02:28",
+  "date_gmt": "2020-09-05T19:02:28",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9.jpg"
+  },
+  "modified": "2021-01-11T11:28:34",
+  "modified_gmt": "2021-01-11T10:28:34",
+  "slug": "55044-2398ep-9-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/75001-paris-esprit-atelier-sur-deux-niveaux-avec-patio-2398ep/attachment/55044-2398ep-9-jpg/",
+  "title": {
+    "rendered": "Esprit atelier sur deux niveaux avec patio &#8211; Réf. 2398EP"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"643\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9-960x643.jpg\" class=\"attachment-medium size-medium\" alt=\"75001 PARIS - Esprit atelier sur deux niveaux avec patio - Réf. 2398EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9-960x643.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9-1680x1125.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9-480x322.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9-1536x1029.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9.jpg 1911w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "75001 PARIS - Esprit atelier sur deux niveaux avec patio - Réf. 2398EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1911,
+    "height": 1280,
+    "file": "55044/2398EP/55044-2398EP-9.jpg",
+    "sizes": {
+      "medium": {
+        "file": "55044-2398EP-9-960x643.jpg",
+        "width": 960,
+        "height": 643,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9-960x643.jpg"
+      },
+      "large": {
+        "file": "55044-2398EP-9-1680x1125.jpg",
+        "width": 1680,
+        "height": 1125,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9-1680x1125.jpg"
+      },
+      "thumbnail": {
+        "file": "55044-2398EP-9-480x322.jpg",
+        "width": 480,
+        "height": 322,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9-480x322.jpg"
+      },
+      "1536x1536": {
+        "file": "55044-2398EP-9-1536x1029.jpg",
+        "width": 1536,
+        "height": 1029,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9-1536x1029.jpg"
+      },
+      "full": {
+        "file": "55044-2398EP-9.jpg",
+        "width": 1911,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 151256,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2398EP/55044-2398EP-9.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/151273"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

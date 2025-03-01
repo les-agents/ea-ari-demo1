@@ -1,0 +1,94 @@
+{
+  "id": 129907,
+  "date": "2020-08-03T10:47:30",
+  "date_gmt": "2020-08-03T08:47:30",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon.jpg"
+  },
+  "modified": "2020-08-03T10:48:17",
+  "modified_gmt": "2020-08-03T08:48:17",
+  "slug": "loft-contemporain-patio-toulon-var-0294ev-photo-1-salon",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83000-toulon-loft-brutaliste-avec-patio-et-jardin-0294ev/attachment/loft-contemporain-patio-toulon-var-0294ev-photo-1-salon/",
+  "title": {
+    "rendered": "Loft-contemporain-patio-toulon-var-0294EV- Photo 1 salon"
+  },
+  "author": 57,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"Loft-contemporain-patio-toulon-var-0294EV- Photo 1 salon\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon.jpg 1922w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "Loft-contemporain-patio-toulon-var-0294EV- Photo 1 salon",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1922,
+    "height": 1280,
+    "file": "2020/06/Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon-960x639.jpg"
+      },
+      "full": {
+        "file": "Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon.jpg",
+        "width": 1922,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1593118752",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 127465,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Loft-contemporain-patio-toulon-var-0294EV-Photo-1-salon.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/129907"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/57"
+      }
+    ]
+  }
+}

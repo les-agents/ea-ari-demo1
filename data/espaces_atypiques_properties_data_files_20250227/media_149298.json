@@ -1,0 +1,101 @@
+{
+  "id": 149298,
+  "date": "2020-09-02T10:44:05",
+  "date_gmt": "2020-09-02T08:44:05",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier.jpg"
+  },
+  "modified": "2020-09-02T11:40:58",
+  "modified_gmt": "2020-09-02T09:40:58",
+  "slug": "appartement-terrasse-vue-panoramique-grenoble-506eag-1-copier",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/38000-grenoble-appartement-terrasse-renove-vue-panoramique-506eag/attachment/appartement-terrasse-vue-panoramique-grenoble-506eag-1-copier/",
+  "title": {
+    "rendered": "appartement-terrasse-vue-panoramique-grenoble-506eag-1 (Copier)"
+  },
+  "author": 21,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier-1680x1118.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier.jpg 1863w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1863,
+    "height": 1240,
+    "file": "2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier.jpg",
+    "sizes": {
+      "medium": {
+        "file": "appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier-960x639.jpg"
+      },
+      "large": {
+        "file": "appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier-1680x1118.jpg",
+        "width": 1680,
+        "height": 1118,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier-1680x1118.jpg"
+      },
+      "full": {
+        "file": "appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier.jpg",
+        "width": 1863,
+        "height": 1240,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "9",
+      "credit": "",
+      "camera": "NIKON D4S",
+      "caption": "",
+      "created_timestamp": "1598960118",
+      "copyright": "Michel BATTAGLIA",
+      "focal_length": "24",
+      "iso": "1600",
+      "shutter_speed": "0.016666666666667",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 149254,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/appartement-terrasse-vue-panoramique-grenoble-506eag-1-Copier.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/149298"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/21"
+      }
+    ]
+  }
+}

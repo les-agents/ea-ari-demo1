@@ -1,0 +1,94 @@
+{
+  "id": 175007,
+  "date": "2020-10-16T14:43:04",
+  "date_gmt": "2020-10-16T12:43:04",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/0383EAS-loft-hyper-centre-strasbourg-01bis.jpg"
+  },
+  "modified": "2020-10-16T14:43:46",
+  "modified_gmt": "2020-10-16T12:43:46",
+  "slug": "0383eas-loft-hyper-centre-strasbourg-01bis",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/67000-strasbourg-loft-baigne-de-lumiere-en-hyper-centre-0383eas/attachment/0383eas-loft-hyper-centre-strasbourg-01bis/",
+  "title": {
+    "rendered": "0383EAS-loft-hyper-centre-strasbourg-01bis"
+  },
+  "author": 56,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/0383EAS-loft-hyper-centre-strasbourg-01bis.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/0383EAS-loft-hyper-centre-strasbourg-01bis-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"67000 STRASBOURG - Loft baigné de lumière en hyper-centre - Réf. 0383EAS\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/0383EAS-loft-hyper-centre-strasbourg-01bis-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/0383EAS-loft-hyper-centre-strasbourg-01bis.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "67000 STRASBOURG - Loft baigné de lumière en hyper-centre - Réf. 0383EAS",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/09/0383EAS-loft-hyper-centre-strasbourg-01bis.jpg",
+    "sizes": {
+      "medium": {
+        "file": "0383EAS-loft-hyper-centre-strasbourg-01bis-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/0383EAS-loft-hyper-centre-strasbourg-01bis-960x640.jpg"
+      },
+      "full": {
+        "file": "0383EAS-loft-hyper-centre-strasbourg-01bis.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/0383EAS-loft-hyper-centre-strasbourg-01bis.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "22",
+      "credit": "Francois Vezien",
+      "camera": "Canon EOS 6D",
+      "caption": "",
+      "created_timestamp": "1591626588",
+      "copyright": "Tous droits reserves",
+      "focal_length": "17",
+      "iso": "200",
+      "shutter_speed": "0.16666666666667",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 41635,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/0383EAS-loft-hyper-centre-strasbourg-01bis.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/175007"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/56"
+      }
+    ]
+  }
+}

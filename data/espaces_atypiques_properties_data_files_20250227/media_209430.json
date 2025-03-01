@@ -1,0 +1,115 @@
+{
+  "id": 209430,
+  "date": "2021-01-04T22:01:43",
+  "date_gmt": "2021-01-04T21:01:43",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1.jpg"
+  },
+  "modified": "2021-01-04T22:01:44",
+  "modified_gmt": "2021-01-04T21:01:44",
+  "slug": "270305-289-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/35260-cancale-une-perle-dans-une-ancienne-huitriere-289/attachment/270305-289-1-jpg/",
+  "title": {
+    "rendered": "Une perle dans une ancienne huitrière &#8211; Réf. 289"
+  },
+  "author": 39,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"35260 CANCALE - Une perle dans une ancienne huitrière - Réf. 289\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1-1680x1118.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "35260 CANCALE - Une perle dans une ancienne huitrière - Réf. 289",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1278,
+    "file": "270305/289/270305-289-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "270305-289-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1-960x639.jpg"
+      },
+      "large": {
+        "file": "270305-289-1-1680x1118.jpg",
+        "width": 1680,
+        "height": 1118,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1-1680x1118.jpg"
+      },
+      "thumbnail": {
+        "file": "270305-289-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "270305-289-1-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1-1536x1022.jpg"
+      },
+      "full": {
+        "file": "270305-289-1.jpg",
+        "width": 1920,
+        "height": 1278,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 209429,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/289/270305-289-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/209430"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/39"
+      }
+    ]
+  }
+}

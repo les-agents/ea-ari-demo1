@@ -1,0 +1,108 @@
+{
+  "id": 184974,
+  "date": "2020-11-05T15:18:14",
+  "date_gmt": "2020-11-05T14:18:14",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01.jpg"
+  },
+  "modified": "2020-11-05T15:19:29",
+  "modified_gmt": "2020-11-05T14:19:29",
+  "slug": "146eaa_tarn_lasgraisses_maison_plain-pied_jardin_garage_01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/maison-de-plain-pied-avec-jardin-a-lasgraisses/attachment/146eaa_tarn_lasgraisses_maison_plain-pied_jardin_garage_01/",
+  "title": {
+    "rendered": "146EAA_tarn_lasgraisses_maison_plain pied_jardin_garage_01"
+  },
+  "author": 32,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"720\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01-960x720.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01-960x720.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01.jpg 1707w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>architecture, atypique, entreprise, exception, france, haute-garonne, immobilier, luxe, occitanie, photographie, prestige, reportage, toulouse</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1707,
+    "height": 1280,
+    "file": "2020/11/146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01-960x720.jpg",
+        "width": 960,
+        "height": 720,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01-960x720.jpg"
+      },
+      "full": {
+        "file": "146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01.jpg",
+        "width": 1707,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "Sagel Loann",
+      "camera": "NIKON D810",
+      "caption": "architecture, atypique, entreprise, exception, france, haute-garonne, immobilier, luxe, occitanie, photographie, prestige, reportage, toulouse",
+      "created_timestamp": "1570532213",
+      "copyright": "",
+      "focal_length": "19",
+      "iso": "400",
+      "shutter_speed": "0.04",
+      "title": "",
+      "orientation": "1",
+      "keywords": [
+        "architecture",
+        "atypique",
+        "entreprise",
+        "exception",
+        "france",
+        "haute-garonne",
+        "immobilier",
+        "luxe",
+        "occitanie",
+        "photographie",
+        "prestige",
+        "reportage",
+        "toulouse"
+      ]
+    }
+  },
+  "post": 184973,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/146EAA_tarn_lasgraisses_maison_plain-pied_jardin_garage_01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/184974"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/32"
+      }
+    ]
+  }
+}

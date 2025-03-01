@@ -1,0 +1,79 @@
+{
+  "id": 206677,
+  "date": "2020-12-21T14:04:07",
+  "date_gmt": "2020-12-21T13:04:07",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/2621EP-espaces-atypiques-appartement-bohème-paris-15e-01.jpg"
+  },
+  "modified": "2020-12-21T14:04:51",
+  "modified_gmt": "2020-12-21T13:04:51",
+  "slug": "2621ep-espaces-atypiques-appartement-boheme-paris-15e-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/75015-paris-appartement-boheme-2621ep/attachment/2621ep-espaces-atypiques-appartement-boheme-paris-15e-01/",
+  "title": {
+    "rendered": "2621EP-espaces-atypiques-appartement-bohème-paris-15e-01"
+  },
+  "author": 4142,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2621EP-espaces-atypiques-appartement-bohème-paris-15e-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2621EP-espaces-atypiques-appartement-bohème-paris-15e-01.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1536,
+    "height": 1024,
+    "file": "2020/12/2621EP-espaces-atypiques-appartement-bohème-paris-15e-01.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "Canon EOS 5DS R",
+      "caption": "",
+      "created_timestamp": "1608126557",
+      "copyright": "",
+      "focal_length": "18",
+      "iso": "100",
+      "shutter_speed": "1.5",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 205668,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/2621EP-espaces-atypiques-appartement-bohème-paris-15e-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/206677"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/4142"
+      }
+    ]
+  }
+}

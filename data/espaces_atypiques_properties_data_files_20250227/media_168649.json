@@ -1,0 +1,94 @@
+{
+  "id": 168649,
+  "date": "2020-10-05T16:19:57",
+  "date_gmt": "2020-10-05T14:19:57",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12.jpg"
+  },
+  "modified": "2020-10-05T16:22:01",
+  "modified_gmt": "2020-10-05T14:22:01",
+  "slug": "espaces-atypiques-angers-maison-appartement-architecte-loft-hotel-particulier-terrasse-jardin-achat-vente-bouchemaine-12",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/49080-bouchemaine-rare-maison-familiale-au-coeur-de-la-pointe-de-bouchemaine-arg874/attachment/espaces-atypiques-angers-maison-appartement-architecte-loft-hotel-particulier-terrasse-jardin-achat-vente-bouchemaine-12/",
+  "title": {
+    "rendered": "Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12"
+  },
+  "author": 35,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/10/Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12-960x640.jpg"
+      },
+      "full": {
+        "file": "Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "Canon EOS 5D Mark IV",
+      "caption": "",
+      "created_timestamp": "1601296650",
+      "copyright": "",
+      "focal_length": "24",
+      "iso": "100",
+      "shutter_speed": "0.008",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 168639,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/Espaces-Atypiques-Angers-maison-appartement-architecte-loft-hôtel-particulier-terrasse-jardin-Achat-Vente-Bouchemaine-12.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/168649"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/35"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 201237,
+  "date": "2020-12-10T17:33:11",
+  "date_gmt": "2020-12-10T16:33:11",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807.jpeg"
+  },
+  "modified": "2020-12-10T17:33:11",
+  "modified_gmt": "2020-12-10T16:33:11",
+  "slug": "img_1807",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33260-la-teste-de-buch-maison-contemporaine-avec-jardin-proche-du-marche-de-la-teste-912eaar/attachment/img_1807/",
+  "title": {
+    "rendered": "IMG_1807"
+  },
+  "author": 26,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"720\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-960x720.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-960x720.jpeg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-1680x1260.jpeg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-480x360.jpeg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-1536x1152.jpeg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-2048x1535.jpeg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 3996,
+    "height": 2996,
+    "file": "2020/11/IMG_1807.jpeg",
+    "sizes": {
+      "medium": {
+        "file": "IMG_1807-960x720.jpeg",
+        "width": 960,
+        "height": 720,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-960x720.jpeg"
+      },
+      "large": {
+        "file": "IMG_1807-1680x1260.jpeg",
+        "width": 1680,
+        "height": 1260,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-1680x1260.jpeg"
+      },
+      "thumbnail": {
+        "file": "IMG_1807-480x360.jpeg",
+        "width": 480,
+        "height": 360,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-480x360.jpeg"
+      },
+      "1536x1536": {
+        "file": "IMG_1807-1536x1152.jpeg",
+        "width": 1536,
+        "height": 1152,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-1536x1152.jpeg"
+      },
+      "2048x2048": {
+        "file": "IMG_1807-2048x1535.jpeg",
+        "width": 2048,
+        "height": 1535,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807-2048x1535.jpeg"
+      },
+      "full": {
+        "file": "IMG_1807.jpeg",
+        "width": 3996,
+        "height": 2996,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807.jpeg"
+      }
+    },
+    "image_meta": {
+      "aperture": "1.8",
+      "credit": "",
+      "camera": "iPhone SE (2nd generation)",
+      "caption": "",
+      "created_timestamp": "1599059385",
+      "copyright": "",
+      "focal_length": "3.99",
+      "iso": "20",
+      "shutter_speed": "0.0031055900621118",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 194540,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/IMG_1807.jpeg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/201237"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/26"
+      }
+    ]
+  }
+}

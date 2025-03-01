@@ -1,0 +1,101 @@
+{
+  "id": 143382,
+  "date": "2020-08-21T13:28:47",
+  "date_gmt": "2020-08-21T11:28:47",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext.jpg"
+  },
+  "modified": "2020-08-21T13:29:36",
+  "modified_gmt": "2020-08-21T11:29:36",
+  "slug": "villa-contemporain-centre-de-mauguio-montpellier-0193-ext",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34130-mauguio-villa-contemporaine-en-coeur-de-ville-0193-14/attachment/villa-contemporain-centre-de-mauguio-montpellier-0193-ext/",
+  "title": {
+    "rendered": "Villa contemporain centre de Mauguio-Montpellier-0193-ext"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 853,
+    "file": "2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext-480x320.jpg"
+      },
+      "full": {
+        "file": "Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext.jpg",
+        "width": 1280,
+        "height": 853,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "22",
+      "credit": "",
+      "camera": "NIKON D5",
+      "caption": "",
+      "created_timestamp": "1561117642",
+      "copyright": "",
+      "focal_length": "14",
+      "iso": "80",
+      "shutter_speed": "0.01",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 141509,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Villa-contemporain-centre-de-Mauguio-Montpellier-0193-ext.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/143382"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

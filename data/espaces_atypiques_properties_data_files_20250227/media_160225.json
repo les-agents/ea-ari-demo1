@@ -1,0 +1,101 @@
+{
+  "id": 160225,
+  "date": "2020-09-20T22:21:22",
+  "date_gmt": "2020-09-20T20:21:22",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL.jpg"
+  },
+  "modified": "2020-09-20T22:21:44",
+  "modified_gmt": "2020-09-20T20:21:44",
+  "slug": "dsc_7967_sans_tache_small",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/28000-chartres-magnifique-maison-7-pieces-0048eao/attachment/dsc_7967_sans_tache_small/",
+  "title": {
+    "rendered": "DSC_7967_sans_tache_SMALL"
+  },
+  "author": 46,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL.jpg 1007w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1007,
+    "height": 672,
+    "file": "2019/12/DSC_7967_sans_tache_SMALL.jpg",
+    "sizes": {
+      "medium": {
+        "file": "DSC_7967_sans_tache_SMALL-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "DSC_7967_sans_tache_SMALL-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL-480x320.jpg"
+      },
+      "full": {
+        "file": "DSC_7967_sans_tache_SMALL.jpg",
+        "width": 1007,
+        "height": 672,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "16",
+      "credit": "Pascal Mendez",
+      "camera": "NIKON D750",
+      "caption": "",
+      "created_timestamp": "1576675828",
+      "copyright": "Pascal Mendez",
+      "focal_length": "14",
+      "iso": "200",
+      "shutter_speed": "0.00625",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 103957,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/12/DSC_7967_sans_tache_SMALL.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/160225"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/46"
+      }
+    ]
+  }
+}

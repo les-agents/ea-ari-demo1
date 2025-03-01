@@ -1,0 +1,108 @@
+{
+  "id": 165396,
+  "date": "2020-09-29T12:38:21",
+  "date_gmt": "2020-09-29T10:38:21",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2.jpg"
+  },
+  "modified": "2020-09-29T13:01:09",
+  "modified_gmt": "2020-09-29T11:01:09",
+  "slug": "img_0184-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/45450-fay-aux-loges-charmante-longere-proche-dorleans-0061eao/attachment/img_0184-2/",
+  "title": {
+    "rendered": "IMG_0184-2"
+  },
+  "author": 46,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/02/IMG_0184-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "IMG_0184-2-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2-960x640.jpg"
+      },
+      "large": {
+        "file": "IMG_0184-2-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "IMG_0184-2-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2-480x320.jpg"
+      },
+      "full": {
+        "file": "IMG_0184-2.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 104151,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/02/IMG_0184-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/165396"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/46"
+      }
+    ]
+  }
+}

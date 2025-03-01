@@ -1,0 +1,115 @@
+{
+  "id": 78141,
+  "date": "2020-07-22T15:00:28",
+  "date_gmt": "2020-07-22T13:00:28",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1.jpg"
+  },
+  "modified": "2020-07-22T15:00:39",
+  "modified_gmt": "2020-07-22T13:00:39",
+  "slug": "138081-0346-18-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34590-marsillargues-appartement-renove-avec-terrasse-tropezienne-0346-18/attachment/138081-0346-18-1-jpg/",
+  "title": {
+    "rendered": "Appartement rénové avec terrasse tropézienne &#8211; Réf. 0346-18"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"540\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1-960x540.jpg\" class=\"attachment-medium size-medium\" alt=\"34590 MARSILLARGUES - Appartement rénové avec terrasse tropézienne - Réf. 0346-18\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1-960x540.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1-1680x945.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1-480x270.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1-1536x864.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "34590 MARSILLARGUES - Appartement rénové avec terrasse tropézienne - Réf. 0346-18",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1080,
+    "file": "138081/0346-18/138081-0346-18-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "138081-0346-18-1-960x540.jpg",
+        "width": 960,
+        "height": 540,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1-960x540.jpg"
+      },
+      "large": {
+        "file": "138081-0346-18-1-1680x945.jpg",
+        "width": 1680,
+        "height": 945,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1-1680x945.jpg"
+      },
+      "thumbnail": {
+        "file": "138081-0346-18-1-480x270.jpg",
+        "width": 480,
+        "height": 270,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1-480x270.jpg"
+      },
+      "1536x1536": {
+        "file": "138081-0346-18-1-1536x864.jpg",
+        "width": 1536,
+        "height": 864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1-1536x864.jpg"
+      },
+      "full": {
+        "file": "138081-0346-18-1.jpg",
+        "width": 1920,
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 13240,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/138081/0346-18/138081-0346-18-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/78141"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

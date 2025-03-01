@@ -1,0 +1,115 @@
+{
+  "id": 167667,
+  "date": "2020-10-02T20:43:29",
+  "date_gmt": "2020-10-02T18:43:29",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027.jpg"
+  },
+  "modified": "2020-10-02T20:44:45",
+  "modified_gmt": "2020-10-02T18:44:45",
+  "slug": "img_0027",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/45000-orleans-appartement-duplex-dernier-etage-0068eao/attachment/img_0027/",
+  "title": {
+    "rendered": "IMG_0027"
+  },
+  "author": 46,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027-1536x1024.jpg 1536w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 3500,
+    "height": 2333,
+    "file": "2020/03/IMG_0027.jpg",
+    "sizes": {
+      "medium": {
+        "file": "IMG_0027-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027-960x640.jpg"
+      },
+      "large": {
+        "file": "IMG_0027-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "IMG_0027-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "IMG_0027-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027-1536x1024.jpg"
+      },
+      "full": {
+        "file": "IMG_0027.jpg",
+        "width": 3500,
+        "height": 2333,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 167377,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/IMG_0027.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/167667"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/46"
+      }
+    ]
+  }
+}

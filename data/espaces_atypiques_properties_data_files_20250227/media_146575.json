@@ -1,0 +1,108 @@
+{
+  "id": 146575,
+  "date": "2020-08-28T11:39:54",
+  "date_gmt": "2020-08-28T09:39:54",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane.jpg"
+  },
+  "modified": "2020-08-28T11:39:54",
+  "modified_gmt": "2020-08-28T09:39:54",
+  "slug": "2020-06-04-maison-macon-005-filigrane",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/71000-macon-maison-de-ville-au-centre-historique-197eb/attachment/2020-06-04-maison-macon-005-filigrane/",
+  "title": {
+    "rendered": "2020-06-04 maison Macon &#8211; 005 filigrane"
+  },
+  "author": 12,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane.jpg 1618w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1618,
+    "height": 1080,
+    "file": "2020/06/2020-06-04-maison-Macon-005-filigrane.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2020-06-04-maison-Macon-005-filigrane-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "2020-06-04-maison-Macon-005-filigrane-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "2020-06-04-maison-Macon-005-filigrane-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane-1536x1025.jpg"
+      },
+      "full": {
+        "file": "2020-06-04-maison-Macon-005-filigrane.jpg",
+        "width": 1618,
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "NIKON D750",
+      "caption": "",
+      "created_timestamp": "1591279800",
+      "copyright": "",
+      "focal_length": "24",
+      "iso": "200",
+      "shutter_speed": "0.1",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 106969,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/2020-06-04-maison-Macon-005-filigrane.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/146575"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/12"
+      }
+    ]
+  }
+}

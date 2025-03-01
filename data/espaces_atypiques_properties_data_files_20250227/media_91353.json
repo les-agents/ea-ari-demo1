@@ -1,0 +1,115 @@
+{
+  "id": 91353,
+  "date": "2020-07-24T16:18:46",
+  "date_gmt": "2020-07-24T14:18:46",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1.jpg"
+  },
+  "modified": "2020-07-24T16:18:56",
+  "modified_gmt": "2020-07-24T14:18:56",
+  "slug": "165164-arg313-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/49100-angers-prieure-historique-aux-volumes-exceptionnels-arg313/attachment/165164-arg313-1-jpg/",
+  "title": {
+    "rendered": "PRIEURÉ HISTORIQUE AUX VOLUMES EXCEPTIONNELS &#8211; Réf. ARG313"
+  },
+  "author": 35,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"597\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1-960x597.jpg\" class=\"attachment-medium size-medium\" alt=\"49100 ANGERS - PRIEURÉ HISTORIQUE AUX VOLUMES EXCEPTIONNELS - Réf. ARG313\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1-960x597.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1-1680x1044.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1-480x298.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1-1536x954.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "49100 ANGERS - PRIEURÉ HISTORIQUE AUX VOLUMES EXCEPTIONNELS - Réf. ARG313",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1193,
+    "file": "165164/ARG313/165164-ARG313-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "165164-ARG313-1-960x597.jpg",
+        "width": 960,
+        "height": 597,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1-960x597.jpg"
+      },
+      "large": {
+        "file": "165164-ARG313-1-1680x1044.jpg",
+        "width": 1680,
+        "height": 1044,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1-1680x1044.jpg"
+      },
+      "thumbnail": {
+        "file": "165164-ARG313-1-480x298.jpg",
+        "width": 480,
+        "height": 298,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1-480x298.jpg"
+      },
+      "1536x1536": {
+        "file": "165164-ARG313-1-1536x954.jpg",
+        "width": 1536,
+        "height": 954,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1-1536x954.jpg"
+      },
+      "full": {
+        "file": "165164-ARG313-1.jpg",
+        "width": 1920,
+        "height": 1193,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 91352,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/165164/ARG313/165164-ARG313-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/91353"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/35"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": 144790,
+  "date": "2020-08-24T17:46:12",
+  "date_gmt": "2020-08-24T15:46:12",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1.jpg"
+  },
+  "modified": "2020-08-24T17:46:18",
+  "modified_gmt": "2020-08-24T15:46:18",
+  "slug": "169287-ealr468-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/17000-la-rochelle-appartement-aux-allures-datelier-dartiste-ealr468/attachment/169287-ealr468-1-jpg/",
+  "title": {
+    "rendered": "Appartement aux allures d&rsquo;atelier d&rsquo;artiste &#8211; Réf. EALR468"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"17000 LA ROCHELLE - Appartement aux allures d&#039;atelier d&#039;artiste - Réf. EALR468\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "17000 LA ROCHELLE - Appartement aux allures d'atelier d'artiste - Réf. EALR468",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 682,
+    "file": "169287/EALR468/169287-EALR468-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "169287-EALR468-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1-960x639.jpg"
+      },
+      "thumbnail": {
+        "file": "169287-EALR468-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1-480x320.jpg"
+      },
+      "full": {
+        "file": "169287-EALR468-1.jpg",
+        "width": 1024,
+        "height": 682,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 144789,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR468/169287-EALR468-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/144790"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

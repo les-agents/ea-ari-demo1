@@ -1,0 +1,108 @@
+{
+  "id": 199968,
+  "date": "2020-12-08T00:46:14",
+  "date_gmt": "2020-12-07T23:46:14",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1.jpg"
+  },
+  "modified": "2020-12-08T00:46:29",
+  "modified_gmt": "2020-12-07T23:46:29",
+  "slug": "104734-914eabx-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33290-parempuyre-belle-contemporaine-au-bord-du-lac-de-parempuyre-914eabx/attachment/104734-914eabx-1-jpg/",
+  "title": {
+    "rendered": "Belle contemporaine au bord du Lac de Parempuyre &#8211; Réf. 914EABX"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"33290 PAREMPUYRE - Belle contemporaine au bord du Lac de Parempuyre - Réf. 914EABX\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1.jpg 1600w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "33290 PAREMPUYRE - Belle contemporaine au bord du Lac de Parempuyre - Réf. 914EABX",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1600,
+    "height": 1068,
+    "file": "104734/914EABX/104734-914EABX-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "104734-914EABX-1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "104734-914EABX-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "104734-914EABX-1-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1-1536x1025.jpg"
+      },
+      "full": {
+        "file": "104734-914EABX-1.jpg",
+        "width": 1600,
+        "height": 1068,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 199967,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/104734/914EABX/104734-914EABX-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/199968"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

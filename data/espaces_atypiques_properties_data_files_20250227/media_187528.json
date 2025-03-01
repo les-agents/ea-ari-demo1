@@ -1,0 +1,79 @@
+{
+  "id": 187528,
+  "date": "2020-11-11T00:15:14",
+  "date_gmt": "2020-11-10T23:15:14",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/151467/157/151467-157-1.jpg"
+  },
+  "modified": "2020-11-14T00:16:13",
+  "modified_gmt": "2020-11-13T23:16:13",
+  "slug": "151467-157-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83400-hyeres-lalliance-du-contemporain-et-de-lindustriel-sur-le-port-157/attachment/151467-157-1-jpg/",
+  "title": {
+    "rendered": "L&rsquo;ALLIANCE DU CONTEMPORAIN ET DE L&rsquo;INDUSTRIEL SUR LE PORT &#8211; Réf. 157"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/151467/157/151467-157-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"398\" height=\"266\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/151467/157/151467-157-1.jpg\" class=\"attachment-medium size-medium\" alt=\"83400 HYERES - L&#039;ALLIANCE DU CONTEMPORAIN ET DE L&#039;INDUSTRIEL SUR LE PORT - Réf. 157\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "83400 HYERES - L'ALLIANCE DU CONTEMPORAIN ET DE L'INDUSTRIEL SUR LE PORT - Réf. 157",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 398,
+    "height": 266,
+    "file": "151467/157/151467-157-1.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 187527,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/151467/157/151467-157-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/187528"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

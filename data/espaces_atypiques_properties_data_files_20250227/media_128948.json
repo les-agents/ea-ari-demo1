@@ -1,0 +1,115 @@
+{
+  "id": 128948,
+  "date": "2020-08-02T09:41:45",
+  "date_gmt": "2020-08-02T07:41:45",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386.jpg"
+  },
+  "modified": "2020-08-02T09:41:45",
+  "modified_gmt": "2020-08-02T07:41:45",
+  "slug": "2_espaces-atypiques_tousson_vuemaison2_sm386",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/91490-milly-la-foret-veritable-corps-de-ferme-renove-et-ses-dependances-sm386/attachment/2_espaces-atypiques_tousson_vuemaison2_sm386/",
+  "title": {
+    "rendered": "2_espaces atypiques_tousson_vuemaison2_SM386"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2_espaces-atypiques_tousson_vuemaison2_SM386-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386-960x640.jpg"
+      },
+      "large": {
+        "file": "2_espaces-atypiques_tousson_vuemaison2_SM386-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "2_espaces-atypiques_tousson_vuemaison2_SM386-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "2_espaces-atypiques_tousson_vuemaison2_SM386-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386-1536x1024.jpg"
+      },
+      "full": {
+        "file": "2_espaces-atypiques_tousson_vuemaison2_SM386.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "Lucie-Anne Mottet (LUXHANNAH studio)",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 100675,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/2_espaces-atypiques_tousson_vuemaison2_SM386.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/128948"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

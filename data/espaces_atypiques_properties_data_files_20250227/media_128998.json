@@ -1,0 +1,79 @@
+{
+  "id": 128998,
+  "date": "2020-08-02T10:28:37",
+  "date_gmt": "2020-08-02T08:28:37",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_nemours_vuemaison1_SM404.jpg"
+  },
+  "modified": "2020-08-02T10:30:05",
+  "modified_gmt": "2020-08-02T08:30:05",
+  "slug": "1_espaces-atypiques_nemours_vuemaison1_sm404",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/77140-nemours-maison-de-ville-avec-dependance-et-jardin-clos-sm404/attachment/1_espaces-atypiques_nemours_vuemaison1_sm404/",
+  "title": {
+    "rendered": "1_espaces atypiques_nemours_vuemaison1_SM404"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_nemours_vuemaison1_SM404.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_nemours_vuemaison1_SM404.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1281,
+    "file": "2020/06/1_espaces-atypiques_nemours_vuemaison1_SM404.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "NIKON D800E",
+      "caption": "",
+      "created_timestamp": "1592234952",
+      "copyright": "",
+      "focal_length": "14",
+      "iso": "100",
+      "shutter_speed": "0.008",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 121590,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_nemours_vuemaison1_SM404.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/128998"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

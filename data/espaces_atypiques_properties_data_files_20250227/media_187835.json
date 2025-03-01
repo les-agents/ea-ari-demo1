@@ -1,0 +1,115 @@
+{
+  "id": 187835,
+  "date": "2020-11-11T16:33:58",
+  "date_gmt": "2020-11-11T15:33:58",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17.jpg"
+  },
+  "modified": "2020-11-11T16:33:58",
+  "modified_gmt": "2020-11-11T15:33:58",
+  "slug": "forcalquier-maison-d-artiste-17",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/04300-forcalquier-maison-dartiste-a-lelegante-renovation-et-son-jardin-paysage-497eaa/attachment/forcalquier-maison-d-artiste-17/",
+  "title": {
+    "rendered": "forcalquier-maison-d-artiste-17"
+  },
+  "author": 16,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/11/forcalquier-maison-d-artiste-17.jpg",
+    "sizes": {
+      "medium": {
+        "file": "forcalquier-maison-d-artiste-17-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17-960x640.jpg"
+      },
+      "large": {
+        "file": "forcalquier-maison-d-artiste-17-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "forcalquier-maison-d-artiste-17-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "forcalquier-maison-d-artiste-17-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17-1536x1024.jpg"
+      },
+      "full": {
+        "file": "forcalquier-maison-d-artiste-17.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "PHILIPPE MAGONI",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1602848100",
+      "copyright": "Philippe Magoni",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 187352,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/forcalquier-maison-d-artiste-17.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/187835"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/16"
+      }
+    ]
+  }
+}

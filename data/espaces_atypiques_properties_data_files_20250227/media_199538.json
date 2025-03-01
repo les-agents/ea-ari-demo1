@@ -1,0 +1,101 @@
+{
+  "id": 199538,
+  "date": "2020-12-07T10:13:38",
+  "date_gmt": "2020-12-07T09:13:38",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4.jpeg"
+  },
+  "modified": "2020-12-07T10:13:38",
+  "modified_gmt": "2020-12-07T09:13:38",
+  "slug": "joli-cocon-revisite-4",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33000-bordeaux-le-petit-cocon-de-pey-berland-873aebx/attachment/joli-cocon-revisite-4/",
+  "title": {
+    "rendered": "Joli-cocon-revisite-4"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4-960x640.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4-960x640.jpeg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4-480x320.jpeg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4.jpeg 1214w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1214,
+    "height": 809,
+    "file": "2020/11/Joli-cocon-revisite-4.jpeg",
+    "sizes": {
+      "medium": {
+        "file": "Joli-cocon-revisite-4-960x640.jpeg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4-960x640.jpeg"
+      },
+      "thumbnail": {
+        "file": "Joli-cocon-revisite-4-480x320.jpeg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4-480x320.jpeg"
+      },
+      "full": {
+        "file": "Joli-cocon-revisite-4.jpeg",
+        "width": 1214,
+        "height": 809,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4.jpeg"
+      }
+    },
+    "image_meta": {
+      "aperture": "4",
+      "credit": "",
+      "camera": "NIKON D3400",
+      "caption": "",
+      "created_timestamp": "1513805625",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.16666666666667",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 189506,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/11/Joli-cocon-revisite-4.jpeg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/199538"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

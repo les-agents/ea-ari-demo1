@@ -1,0 +1,115 @@
+{
+  "id": 137190,
+  "date": "2020-08-11T20:35:21",
+  "date_gmt": "2020-08-11T18:35:21",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a.jpg"
+  },
+  "modified": "2020-08-19T09:30:09",
+  "modified_gmt": "2020-08-19T07:30:09",
+  "slug": "38444131a",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/40440-ondres-appartement-ondres-3-pieces-60-m%c2%b2-3207aeald/attachment/38444131a/",
+  "title": {
+    "rendered": "38444131a"
+  },
+  "author": 51,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"429\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a-960x429.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a-960x429.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a-1680x751.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a-480x215.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a-1536x686.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 858,
+    "file": "2020/07/38444131a.jpg",
+    "sizes": {
+      "medium": {
+        "file": "38444131a-960x429.jpg",
+        "width": 960,
+        "height": 429,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a-960x429.jpg"
+      },
+      "large": {
+        "file": "38444131a-1680x751.jpg",
+        "width": 1680,
+        "height": 751,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a-1680x751.jpg"
+      },
+      "thumbnail": {
+        "file": "38444131a-480x215.jpg",
+        "width": 480,
+        "height": 215,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a-480x215.jpg"
+      },
+      "1536x1536": {
+        "file": "38444131a-1536x686.jpg",
+        "width": 1536,
+        "height": 686,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a-1536x686.jpg"
+      },
+      "full": {
+        "file": "38444131a.jpg",
+        "width": 1920,
+        "height": 858,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 132138,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/38444131a.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/137190"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/51"
+      }
+    ]
+  }
+}

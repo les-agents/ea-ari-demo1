@@ -1,0 +1,115 @@
+{
+  "id": 61566,
+  "date": "2020-07-22T09:40:48",
+  "date_gmt": "2020-07-22T07:40:48",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14.jpg"
+  },
+  "modified": "2020-07-22T09:40:59",
+  "modified_gmt": "2020-07-22T07:40:59",
+  "slug": "167945-2952-14-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/76200-dieppe-manoir-du-xvieme-siecle-sur-la-cote-dalbatre-2952/attachment/167945-2952-14-jpg/",
+  "title": {
+    "rendered": "Manoir du XVIème siècle sur la côte d&rsquo;Albâtre &#8211; Réf. 2952"
+  },
+  "author": 43,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"76200 DIEPPE - Manoir du XVIème siècle sur la côte d&#039;Albâtre - Réf. 2952\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "76200 DIEPPE - Manoir du XVIème siècle sur la côte d'Albâtre - Réf. 2952",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "167945/2952/167945-2952-14.jpg",
+    "sizes": {
+      "medium": {
+        "file": "167945-2952-14-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14-960x640.jpg"
+      },
+      "large": {
+        "file": "167945-2952-14-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "167945-2952-14-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "167945-2952-14-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14-1536x1024.jpg"
+      },
+      "full": {
+        "file": "167945-2952-14.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 9938,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2952/167945-2952-14.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/61566"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/43"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": 166848,
+  "date": "2020-10-01T19:07:40",
+  "date_gmt": "2020-10-01T17:07:40",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01.jpg"
+  },
+  "modified": "2020-10-01T19:10:14",
+  "modified_gmt": "2020-10-01T17:10:14",
+  "slug": "488-driant-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/59200-tourcoing-loft-avec-terrasse-et-jardin-immeuble-art-deco-488/attachment/488-driant-01/",
+  "title": {
+    "rendered": "488 DRIANT 01"
+  },
+  "author": 10,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01.jpg 1918w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1918,
+    "height": 1280,
+    "file": "2020/09/488-DRIANT-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "488-DRIANT-01-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01-960x641.jpg"
+      },
+      "large": {
+        "file": "488-DRIANT-01-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "488-DRIANT-01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01-480x320.jpg"
+      },
+      "full": {
+        "file": "488-DRIANT-01.jpg",
+        "width": 1918,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "6.3",
+      "credit": "",
+      "camera": "ILCE-7R",
+      "caption": "",
+      "created_timestamp": "1600337184",
+      "copyright": "",
+      "focal_length": "17",
+      "iso": "400",
+      "shutter_speed": "0.016666666666667",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 159314,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/488-DRIANT-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/166848"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/10"
+      }
+    ]
+  }
+}

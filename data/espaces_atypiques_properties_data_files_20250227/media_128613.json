@@ -1,0 +1,79 @@
+{
+  "id": 128613,
+  "date": "2020-08-01T20:10:06",
+  "date_gmt": "2020-08-01T18:10:06",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/02/1_espaces-atypiques_bois-le-roi_piscine_SM192.jpg"
+  },
+  "modified": "2020-08-01T20:10:46",
+  "modified_gmt": "2020-08-01T18:10:46",
+  "slug": "1_espaces-atypiques_bois-le-roi_piscine_sm192",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/77590-bois-le-roi-maison-contemporaine-avec-piscine-sm192/attachment/1_espaces-atypiques_bois-le-roi_piscine_sm192/",
+  "title": {
+    "rendered": "1_espaces atypiques_bois le roi_piscine_SM192"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/02/1_espaces-atypiques_bois-le-roi_piscine_SM192.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/02/1_espaces-atypiques_bois-le-roi_piscine_SM192.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 683,
+    "file": "2019/02/1_espaces-atypiques_bois-le-roi_piscine_SM192.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 121954,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/02/1_espaces-atypiques_bois-le-roi_piscine_SM192.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/128613"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

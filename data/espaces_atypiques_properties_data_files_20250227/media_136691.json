@@ -1,0 +1,115 @@
+{
+  "id": 136691,
+  "date": "2020-08-11T08:06:18",
+  "date_gmt": "2020-08-11T06:06:18",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16.jpg"
+  },
+  "modified": "2020-08-11T08:06:18",
+  "modified_gmt": "2020-08-11T06:06:18",
+  "slug": "22-rue-saint-thurian-16",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/22800-quintin-maison-de-charme-et-son-ecrin-de-verdure-0095eaca/attachment/22-rue-saint-thurian-16/",
+  "title": {
+    "rendered": "22 Rue Saint-Thurian-16"
+  },
+  "author": 41,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16-1680x1119.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16-1536x1023.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1279,
+    "file": "2020/07/22-Rue-Saint-Thurian-16.jpg",
+    "sizes": {
+      "medium": {
+        "file": "22-Rue-Saint-Thurian-16-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16-960x640.jpg"
+      },
+      "large": {
+        "file": "22-Rue-Saint-Thurian-16-1680x1119.jpg",
+        "width": 1680,
+        "height": 1119,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16-1680x1119.jpg"
+      },
+      "thumbnail": {
+        "file": "22-Rue-Saint-Thurian-16-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "22-Rue-Saint-Thurian-16-1536x1023.jpg",
+        "width": 1536,
+        "height": 1023,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16-1536x1023.jpg"
+      },
+      "full": {
+        "file": "22-Rue-Saint-Thurian-16.jpg",
+        "width": 1920,
+        "height": 1279,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "10",
+      "credit": "",
+      "camera": "PENTAX K-1 Mark II",
+      "caption": "",
+      "created_timestamp": "1593956961",
+      "copyright": "",
+      "focal_length": "16",
+      "iso": "640",
+      "shutter_speed": "0.00625",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 136432,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/22-Rue-Saint-Thurian-16.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/136691"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/41"
+      }
+    ]
+  }
+}

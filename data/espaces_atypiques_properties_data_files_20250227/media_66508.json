@@ -1,0 +1,115 @@
+{
+  "id": 66508,
+  "date": "2020-07-22T11:04:45",
+  "date_gmt": "2020-07-22T09:04:45",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4.jpg"
+  },
+  "modified": "2020-07-29T09:22:15",
+  "modified_gmt": "2020-07-29T07:22:15",
+  "slug": "55044-2185ep-4-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/93210-st-denis-loft-en-dernier-etage-avec-balcon-2185ep/attachment/55044-2185ep-4-jpg/",
+  "title": {
+    "rendered": "Loft en dernier étage avec balcon &#8211; Réf. 2185EP"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"642\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4-960x642.jpg\" class=\"attachment-medium size-medium\" alt=\"93210 ST DENIS - Loft en dernier étage avec balcon - Réf. 2185EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4-960x642.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4-1680x1124.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4-1536x1027.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4.jpg 1914w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "93210 ST DENIS - Loft en dernier étage avec balcon - Réf. 2185EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1914,
+    "height": 1280,
+    "file": "55044/2185EP/55044-2185EP-4.jpg",
+    "sizes": {
+      "medium": {
+        "file": "55044-2185EP-4-960x642.jpg",
+        "width": 960,
+        "height": 642,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4-960x642.jpg"
+      },
+      "large": {
+        "file": "55044-2185EP-4-1680x1124.jpg",
+        "width": 1680,
+        "height": 1124,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4-1680x1124.jpg"
+      },
+      "thumbnail": {
+        "file": "55044-2185EP-4-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "55044-2185EP-4-1536x1027.jpg",
+        "width": 1536,
+        "height": 1027,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4-1536x1027.jpg"
+      },
+      "full": {
+        "file": "55044-2185EP-4.jpg",
+        "width": 1914,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 39883,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2185EP/55044-2185EP-4.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/66508"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

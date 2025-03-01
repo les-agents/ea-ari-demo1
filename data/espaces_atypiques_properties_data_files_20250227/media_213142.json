@@ -1,0 +1,108 @@
+{
+  "id": 213142,
+  "date": "2021-01-13T15:17:50",
+  "date_gmt": "2021-01-13T14:17:50",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2.jpg"
+  },
+  "modified": "2021-01-14T11:59:22",
+  "modified_gmt": "2021-01-14T10:59:22",
+  "slug": "832ea-aixlesbains-duplex-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/duplex-avec-terrasse-2/attachment/832ea-aixlesbains-duplex-2/",
+  "title": {
+    "rendered": "832EA-AixlesBAins-Duplex-2"
+  },
+  "author": 22,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"aix les bains duplex\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "aix les bains duplex",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2021/01/832EA-AixlesBAins-Duplex-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "832EA-AixlesBAins-Duplex-2-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2-960x640.jpg"
+      },
+      "large": {
+        "file": "832EA-AixlesBAins-Duplex-2-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "832EA-AixlesBAins-Duplex-2-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2-480x320.jpg"
+      },
+      "full": {
+        "file": "832EA-AixlesBAins-Duplex-2.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 213139,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2021/01/832EA-AixlesBAins-Duplex-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/213142"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/22"
+      }
+    ]
+  }
+}

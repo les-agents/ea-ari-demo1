@@ -1,0 +1,115 @@
+{
+  "id": 66273,
+  "date": "2020-07-22T11:01:42",
+  "date_gmt": "2020-07-22T09:01:42",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1.jpg"
+  },
+  "modified": "2020-07-29T09:19:45",
+  "modified_gmt": "2020-07-29T07:19:45",
+  "slug": "55044-2151ep-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/75012-paris-loft-dans-ancien-atelier-de-tanneur-2151ep/attachment/55044-2151ep-1-jpg/",
+  "title": {
+    "rendered": "Loft dans ancien atelier de tanneur &#8211; Réf. 2151EP"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"663\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1-960x663.jpg\" class=\"attachment-medium size-medium\" alt=\"75012 PARIS - Loft dans ancien atelier de tanneur - Réf. 2151EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1-960x663.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1-1680x1160.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1-480x332.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1-1536x1061.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "75012 PARIS - Loft dans ancien atelier de tanneur - Réf. 2151EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1326,
+    "file": "55044/2151EP/55044-2151EP-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "55044-2151EP-1-960x663.jpg",
+        "width": 960,
+        "height": 663,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1-960x663.jpg"
+      },
+      "large": {
+        "file": "55044-2151EP-1-1680x1160.jpg",
+        "width": 1680,
+        "height": 1160,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1-1680x1160.jpg"
+      },
+      "thumbnail": {
+        "file": "55044-2151EP-1-480x332.jpg",
+        "width": 480,
+        "height": 332,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1-480x332.jpg"
+      },
+      "1536x1536": {
+        "file": "55044-2151EP-1-1536x1061.jpg",
+        "width": 1536,
+        "height": 1061,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1-1536x1061.jpg"
+      },
+      "full": {
+        "file": "55044-2151EP-1.jpg",
+        "width": 1920,
+        "height": 1326,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 39612,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/55044/2151EP/55044-2151EP-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/66273"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

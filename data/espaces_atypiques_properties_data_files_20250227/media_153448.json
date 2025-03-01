@@ -1,0 +1,115 @@
+{
+  "id": 153448,
+  "date": "2020-09-09T22:37:33",
+  "date_gmt": "2020-09-09T20:37:33",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1.jpg"
+  },
+  "modified": "2020-09-09T22:37:44",
+  "modified_gmt": "2020-09-09T20:37:44",
+  "slug": "167945-2887-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/76000-rouen-loft-avec-skydome-en-centre-ville-2887/attachment/167945-2887-1-jpg/",
+  "title": {
+    "rendered": "Loft avec skydome en centre ville &#8211; Réf. 2887"
+  },
+  "author": 43,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"76000 Rouen - Loft avec skydome en centre ville - Réf. 2887\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "76000 Rouen - Loft avec skydome en centre ville - Réf. 2887",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1281,
+    "file": "167945/2887/167945-2887-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "167945-2887-1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1-960x641.jpg"
+      },
+      "large": {
+        "file": "167945-2887-1-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "167945-2887-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "167945-2887-1-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1-1536x1025.jpg"
+      },
+      "full": {
+        "file": "167945-2887-1.jpg",
+        "width": 1920,
+        "height": 1281,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 153447,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/167945/2887/167945-2887-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/153448"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/43"
+      }
+    ]
+  }
+}

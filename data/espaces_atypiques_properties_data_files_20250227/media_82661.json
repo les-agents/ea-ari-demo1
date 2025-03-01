@@ -1,0 +1,115 @@
+{
+  "id": 82661,
+  "date": "2020-07-22T16:55:48",
+  "date_gmt": "2020-07-22T14:55:48",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11.jpg"
+  },
+  "modified": "2020-11-30T08:10:47",
+  "modified_gmt": "2020-11-30T07:10:47",
+  "slug": "270305-3168-11-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/35000-rennes-le-loft-escargot-rennes-sud-gare-200-m%c2%b2-5-chambres-3168/attachment/270305-3168-11-jpg/",
+  "title": {
+    "rendered": "Le loft escargot &#8230; Rennes Sud Gare &#8211;  200 m² &#8211; 5 chambres &#8211; Réf. 3168"
+  },
+  "author": 39,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"35000 RENNES - Le loft escargot ... Rennes Sud Gare -  200 m² - 5 chambres - Réf. 3168\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11-1680x1118.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "35000 RENNES - Le loft escargot ... Rennes Sud Gare -  200 m² - 5 chambres - Réf. 3168",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1278,
+    "file": "270305/3168/270305-3168-11.jpg",
+    "sizes": {
+      "medium": {
+        "file": "270305-3168-11-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11-960x639.jpg"
+      },
+      "large": {
+        "file": "270305-3168-11-1680x1118.jpg",
+        "width": 1680,
+        "height": 1118,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11-1680x1118.jpg"
+      },
+      "thumbnail": {
+        "file": "270305-3168-11-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "270305-3168-11-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11-1536x1022.jpg"
+      },
+      "full": {
+        "file": "270305-3168-11.jpg",
+        "width": 1920,
+        "height": 1278,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 82640,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/270305/3168/270305-3168-11.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/82661"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/39"
+      }
+    ]
+  }
+}

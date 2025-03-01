@@ -1,0 +1,94 @@
+{
+  "id": 209083,
+  "date": "2021-01-04T12:08:08",
+  "date_gmt": "2021-01-04T11:08:08",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/Visuels-Protégés_Côtes-dArmor.jpg"
+  },
+  "modified": "2021-01-04T12:09:39",
+  "modified_gmt": "2021-01-04T11:09:39",
+  "slug": "visuels-proteges_co%cc%82tes-darmor",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/22870-ile-de-brehat-maison-ile-de-brehat-habitat-unique-00142eaca/attachment/visuels-proteges_co%cc%82tes-darmor/",
+  "title": {
+    "rendered": "Visuels Protégés_Côtes d&rsquo;Armor"
+  },
+  "author": 41,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/Visuels-Protégés_Côtes-dArmor.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"540\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/Visuels-Protégés_Côtes-dArmor-960x540.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 2560,
+    "height": 1440,
+    "file": "2020/12/Visuels-Protégés_Côtes-dArmor.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Visuels-Protégés_Côtes-dArmor-960x540.jpg",
+        "width": 960,
+        "height": 540,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/Visuels-Protégés_Côtes-dArmor-960x540.jpg"
+      },
+      "full": {
+        "file": "Visuels-Protégés_Côtes-dArmor.jpg",
+        "width": 2560,
+        "height": 1440,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/Visuels-Protégés_Côtes-dArmor.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 208386,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/Visuels-Protégés_Côtes-dArmor.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/209083"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/41"
+      }
+    ]
+  }
+}

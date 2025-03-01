@@ -1,0 +1,122 @@
+{
+  "id": 132744,
+  "date": "2020-08-05T17:07:33",
+  "date_gmt": "2020-08-05T15:07:33",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03.jpg"
+  },
+  "modified": "2020-08-05T17:07:33",
+  "modified_gmt": "2020-08-05T15:07:33",
+  "slug": "m1914ep-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/92210-saint-cloud-ancienne-pharmacie-1914ep/attachment/m1914ep-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-2/",
+  "title": {
+    "rendered": "M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03"
+  },
+  "author": 54,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"646\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-960x646.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-960x646.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-1680x1130.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-480x323.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-1536x1033.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-2048x1377.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 2974,
+    "height": 2000,
+    "file": "2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-960x646.jpg",
+        "width": 960,
+        "height": 646,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-960x646.jpg"
+      },
+      "large": {
+        "file": "M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-1680x1130.jpg",
+        "width": 1680,
+        "height": 1130,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-1680x1130.jpg"
+      },
+      "thumbnail": {
+        "file": "M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-480x323.jpg",
+        "width": 480,
+        "height": 323,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-480x323.jpg"
+      },
+      "1536x1536": {
+        "file": "M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-1536x1033.jpg",
+        "width": 1536,
+        "height": 1033,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-1536x1033.jpg"
+      },
+      "2048x2048": {
+        "file": "M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-2048x1377.jpg",
+        "width": 2048,
+        "height": 1377,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03-2048x1377.jpg"
+      },
+      "full": {
+        "file": "M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03.jpg",
+        "width": 2974,
+        "height": 2000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 131656,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/05/M1914EP-espaces-atypiques-ancienne-pharmacie-saint-cloud-03.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/132744"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/54"
+      }
+    ]
+  }
+}

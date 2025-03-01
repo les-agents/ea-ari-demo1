@@ -1,0 +1,79 @@
+{
+  "id": 143404,
+  "date": "2020-08-21T13:36:30",
+  "date_gmt": "2020-08-21T11:36:30",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/09/2658-MEZE-PETRONE-2.jpg"
+  },
+  "modified": "2020-08-21T13:37:20",
+  "modified_gmt": "2020-08-21T11:37:20",
+  "slug": "2658-meze-petrone-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34140-meze-maison-de-caractere-et-sa-paisible-cour-arboree-0149/attachment/2658-meze-petrone-2/",
+  "title": {
+    "rendered": "2658-MEZE-PETRONE-2"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/2658-MEZE-PETRONE-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/2658-MEZE-PETRONE-2.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 853,
+    "file": "2019/09/2658-MEZE-PETRONE-2.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "13",
+      "credit": "",
+      "camera": "NIKON D5",
+      "caption": "",
+      "created_timestamp": "1547560668",
+      "copyright": "",
+      "focal_length": "15",
+      "iso": "160",
+      "shutter_speed": "0.003125",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 141513,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/09/2658-MEZE-PETRONE-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/143404"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 207664,
+  "date": "2020-12-23T10:32:16",
+  "date_gmt": "2020-12-23T09:32:16",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1.jpg"
+  },
+  "modified": "2020-12-23T10:32:51",
+  "modified_gmt": "2020-12-23T09:32:51",
+  "slug": "restaurant-rehabilitation-toulon-mourillon-hd-photo-1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83000-toulon-rehabilitation-dun-ancien-restaurant-en-bord-de-mer-0355ev/attachment/restaurant-rehabilitation-toulon-mourillon-hd-photo-1/",
+  "title": {
+    "rendered": "restaurant-réhabilitation-toulon-mourillon-HD-photo 1"
+  },
+  "author": 57,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"608\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1-960x608.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1-960x608.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1-1680x1064.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1-480x304.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1-1536x973.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1.jpg 1995w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1995,
+    "height": 1264,
+    "file": "2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "restaurant-réhabilitation-toulon-mourillon-HD-photo-1-960x608.jpg",
+        "width": 960,
+        "height": 608,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1-960x608.jpg"
+      },
+      "large": {
+        "file": "restaurant-réhabilitation-toulon-mourillon-HD-photo-1-1680x1064.jpg",
+        "width": 1680,
+        "height": 1064,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1-1680x1064.jpg"
+      },
+      "thumbnail": {
+        "file": "restaurant-réhabilitation-toulon-mourillon-HD-photo-1-480x304.jpg",
+        "width": 480,
+        "height": 304,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1-480x304.jpg"
+      },
+      "1536x1536": {
+        "file": "restaurant-réhabilitation-toulon-mourillon-HD-photo-1-1536x973.jpg",
+        "width": 1536,
+        "height": 973,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1-1536x973.jpg"
+      },
+      "full": {
+        "file": "restaurant-réhabilitation-toulon-mourillon-HD-photo-1.jpg",
+        "width": 1995,
+        "height": 1264,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 171517,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/restaurant-réhabilitation-toulon-mourillon-HD-photo-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/207664"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/57"
+      }
+    ]
+  }
+}

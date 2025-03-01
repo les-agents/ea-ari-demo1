@@ -1,0 +1,122 @@
+{
+  "id": 169255,
+  "date": "2020-10-06T16:43:31",
+  "date_gmt": "2020-10-06T14:43:31",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531.jpeg"
+  },
+  "modified": "2020-10-06T16:43:31",
+  "modified_gmt": "2020-10-06T14:43:31",
+  "slug": "dsc_0531",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33300-bordeaux-appartement-cocooning-avec-terrasse-et-loggia-aux-chartrons-855eabx/attachment/dsc_0531/",
+  "title": {
+    "rendered": "DSC_0531"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-960x640.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-960x640.jpeg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-1680x1120.jpeg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-480x320.jpeg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-1536x1024.jpeg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-2048x1365.jpeg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 6000,
+    "height": 4000,
+    "file": "2020/08/DSC_0531.jpeg",
+    "sizes": {
+      "medium": {
+        "file": "DSC_0531-960x640.jpeg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-960x640.jpeg"
+      },
+      "large": {
+        "file": "DSC_0531-1680x1120.jpeg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-1680x1120.jpeg"
+      },
+      "thumbnail": {
+        "file": "DSC_0531-480x320.jpeg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-480x320.jpeg"
+      },
+      "1536x1536": {
+        "file": "DSC_0531-1536x1024.jpeg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-1536x1024.jpeg"
+      },
+      "2048x2048": {
+        "file": "DSC_0531-2048x1365.jpeg",
+        "width": 2048,
+        "height": 1365,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531-2048x1365.jpeg"
+      },
+      "full": {
+        "file": "DSC_0531.jpeg",
+        "width": 6000,
+        "height": 4000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531.jpeg"
+      }
+    },
+    "image_meta": {
+      "aperture": "16",
+      "credit": "",
+      "camera": "NIKON D3400",
+      "caption": "",
+      "created_timestamp": "1511921709",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.066666666666667",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 148840,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/08/DSC_0531.jpeg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/169255"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

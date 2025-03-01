@@ -1,0 +1,115 @@
+{
+  "id": 123575,
+  "date": "2020-07-30T17:22:07",
+  "date_gmt": "2020-07-30T15:22:07",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15.jpg"
+  },
+  "modified": "2020-07-30T17:27:53",
+  "modified_gmt": "2020-07-30T15:27:53",
+  "slug": "1980_douville_2019julientragin-15",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/27380-douville-sur-andelle-maison-de-style-directoire-avec-batiment-industriel-2939/attachment/1980_douville_2019julientragin-15/",
+  "title": {
+    "rendered": "1980_DOUVILLE_2019©JulienTragin-15"
+  },
+  "author": 43,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2019/10/1980_DOUVILLE_2019©JulienTragin-15.jpg",
+    "sizes": {
+      "medium": {
+        "file": "1980_DOUVILLE_2019©JulienTragin-15-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15-960x640.jpg"
+      },
+      "large": {
+        "file": "1980_DOUVILLE_2019©JulienTragin-15-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "1980_DOUVILLE_2019©JulienTragin-15-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "1980_DOUVILLE_2019©JulienTragin-15-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15-1536x1024.jpg"
+      },
+      "full": {
+        "file": "1980_DOUVILLE_2019©JulienTragin-15.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "13",
+      "credit": "JULIENTRAGIN",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1571408632",
+      "copyright": "JULIENTRAGIN",
+      "focal_length": "12",
+      "iso": "320",
+      "shutter_speed": "0.00025",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 10519,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/10/1980_DOUVILLE_2019©JulienTragin-15.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/123575"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/43"
+      }
+    ]
+  }
+}

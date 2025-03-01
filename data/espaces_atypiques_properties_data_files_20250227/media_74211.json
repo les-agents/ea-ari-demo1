@@ -1,0 +1,115 @@
+{
+  "id": 74211,
+  "date": "2020-07-22T13:46:01",
+  "date_gmt": "2020-07-22T11:46:01",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10.jpg"
+  },
+  "modified": "2020-07-22T13:46:07",
+  "modified_gmt": "2020-07-22T11:46:07",
+  "slug": "169165-eap244-10-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/60890-thury-en-valois-une-pepite-dans-son-ecrin-longere-de-charme-renovee-pres-de-crepy-en-valois-eap244/attachment/169165-eap244-10-jpg/",
+  "title": {
+    "rendered": "Une pépite dans son écrin &#8211; Longère de charme rénovée près de Crépy-en-Valois &#8211; Réf. EAP244"
+  },
+  "author": 11,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"642\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10-960x642.jpg\" class=\"attachment-medium size-medium\" alt=\"60890 THURY EN VALOIS - Une pépite dans son écrin - Longère de charme rénovée près de Crépy-en-Valois - Réf. EAP244\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10-960x642.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10-1680x1124.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10-1536x1027.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "60890 THURY EN VALOIS - Une pépite dans son écrin - Longère de charme rénovée près de Crépy-en-Valois - Réf. EAP244",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1284,
+    "file": "169165/EAP244/169165-EAP244-10.jpg",
+    "sizes": {
+      "medium": {
+        "file": "169165-EAP244-10-960x642.jpg",
+        "width": 960,
+        "height": 642,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10-960x642.jpg"
+      },
+      "large": {
+        "file": "169165-EAP244-10-1680x1124.jpg",
+        "width": 1680,
+        "height": 1124,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10-1680x1124.jpg"
+      },
+      "thumbnail": {
+        "file": "169165-EAP244-10-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10-480x321.jpg"
+      },
+      "1536x1536": {
+        "file": "169165-EAP244-10-1536x1027.jpg",
+        "width": 1536,
+        "height": 1027,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10-1536x1027.jpg"
+      },
+      "full": {
+        "file": "169165-EAP244-10.jpg",
+        "width": 1920,
+        "height": 1284,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 44076,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169165/EAP244/169165-EAP244-10.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/74211"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/11"
+      }
+    ]
+  }
+}

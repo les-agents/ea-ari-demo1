@@ -1,0 +1,115 @@
+{
+  "id": 181085,
+  "date": "2020-10-27T18:53:38",
+  "date_gmt": "2020-10-27T17:53:38",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01.jpg"
+  },
+  "modified": "2020-10-27T18:56:02",
+  "modified_gmt": "2020-10-27T17:56:02",
+  "slug": "m2521ep-espaces-atypiques-maison-ville-village-charonne-paris-20e-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/75020-paris-maison-de-ville-au-coeur-du-village-charonne-2521ep/attachment/m2521ep-espaces-atypiques-maison-ville-village-charonne-paris-20e-01/",
+  "title": {
+    "rendered": "M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"75020 PARIS - Maison de ville au coeur du Village Charonne - Réf. 2521EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "75020 PARIS - Maison de ville au coeur du Village Charonne - Réf. 2521EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-960x640.jpg"
+      },
+      "large": {
+        "file": "M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01-1536x1024.jpg"
+      },
+      "full": {
+        "file": "M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "13",
+      "credit": "",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1603030422",
+      "copyright": "",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "1.5",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 181034,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2521EP-espaces-atypiques-maison-ville-village-charonne-paris-20e-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/181085"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

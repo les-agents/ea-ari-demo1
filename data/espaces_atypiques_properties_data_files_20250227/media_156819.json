@@ -1,0 +1,108 @@
+{
+  "id": 156819,
+  "date": "2020-09-15T12:03:45",
+  "date_gmt": "2020-09-15T10:03:45",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26.jpg"
+  },
+  "modified": "2020-09-15T12:03:45",
+  "modified_gmt": "2020-09-15T10:03:45",
+  "slug": "achat-vente-grande-maison-familiale-espaces-atypiques-nantes-26",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/44100-nantes-maison-aux-multiples-expositions-val-de-chezine-545/attachment/achat-vente-grande-maison-familiale-espaces-atypiques-nantes-26/",
+  "title": {
+    "rendered": "Achat Vente Grande Maison Familiale &#8211; Espaces Atypiques Nantes-26"
+  },
+  "author": 33,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26.jpg 1678w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1678,
+    "height": 1120,
+    "file": "2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26-1536x1025.jpg"
+      },
+      "full": {
+        "file": "Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26.jpg",
+        "width": 1678,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "10",
+      "credit": "",
+      "camera": "ILCE-7",
+      "caption": "",
+      "created_timestamp": "1578651498",
+      "copyright": "",
+      "focal_length": "16",
+      "iso": "100",
+      "shutter_speed": "0.0125",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 148847,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/01/Achat-Vente-Grande-Maison-Familiale-Espaces-Atypiques-Nantes-26.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/156819"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/33"
+      }
+    ]
+  }
+}

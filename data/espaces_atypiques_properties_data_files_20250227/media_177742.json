@@ -1,0 +1,108 @@
+{
+  "id": 177742,
+  "date": "2020-10-21T17:46:23",
+  "date_gmt": "2020-10-21T15:46:23",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19.jpg"
+  },
+  "modified": "2020-10-21T17:49:38",
+  "modified_gmt": "2020-10-21T15:49:38",
+  "slug": "180517_sttropez_villatabou_-11",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/villa-de-prestige-a-trois-minutes-de-la-plage-tahiti-a-saint-tropez-224/attachment/180517_sttropez_villatabou_-11/",
+  "title": {
+    "rendered": "180517_StTropez_VillaTabou_"
+  },
+  "author": 18,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"638\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19-960x638.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19-960x638.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19-1536x1021.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19.jpg 1680w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1117,
+    "file": "2020/10/180517_StTropez_VillaTabou_19.jpg",
+    "sizes": {
+      "medium": {
+        "file": "180517_StTropez_VillaTabou_19-960x638.jpg",
+        "width": 960,
+        "height": 638,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19-960x638.jpg"
+      },
+      "thumbnail": {
+        "file": "180517_StTropez_VillaTabou_19-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "180517_StTropez_VillaTabou_19-1536x1021.jpg",
+        "width": 1536,
+        "height": 1021,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19-1536x1021.jpg"
+      },
+      "full": {
+        "file": "180517_StTropez_VillaTabou_19.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "16",
+      "credit": "MelgraniOlivier",
+      "camera": "PENTAX K-3",
+      "caption": "",
+      "created_timestamp": "1526553619",
+      "copyright": "",
+      "focal_length": "10",
+      "iso": "100",
+      "shutter_speed": "0.011111111111111",
+      "title": "180517_StTropez_VillaTabou_",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 177274,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/180517_StTropez_VillaTabou_19.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/177742"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/18"
+      }
+    ]
+  }
+}

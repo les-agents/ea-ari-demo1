@@ -1,0 +1,115 @@
+{
+  "id": 193147,
+  "date": "2020-11-24T16:32:10",
+  "date_gmt": "2020-11-24T15:32:10",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001.jpg"
+  },
+  "modified": "2020-11-24T16:37:04",
+  "modified_gmt": "2020-11-24T15:37:04",
+  "slug": "propriete-familiale-en-bord-de-mer00001",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/29360-clohars-carnoet-propriete-familiale-en-bord-de-mer-1108eaf/attachment/propriete-familiale-en-bord-de-mer00001/",
+  "title": {
+    "rendered": "Propriété familiale en bord de mer Réf.1108EAF"
+  },
+  "author": 40,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"29360 CLOHARS CARNOET -Propriété familiale en bord de mer Réf.1108EAF\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "29360 CLOHARS CARNOET -Propriété familiale en bord de mer Réf.1108EAF",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/10/propriete-familiale-en-bord-de-mer00001.jpg",
+    "sizes": {
+      "medium": {
+        "file": "propriete-familiale-en-bord-de-mer00001-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001-960x640.jpg"
+      },
+      "large": {
+        "file": "propriete-familiale-en-bord-de-mer00001-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "propriete-familiale-en-bord-de-mer00001-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "propriete-familiale-en-bord-de-mer00001-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001-1536x1024.jpg"
+      },
+      "full": {
+        "file": "propriete-familiale-en-bord-de-mer00001.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 193111,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/propriete-familiale-en-bord-de-mer00001.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/193147"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/40"
+      }
+    ]
+  }
+}

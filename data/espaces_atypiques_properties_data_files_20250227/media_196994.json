@@ -1,0 +1,101 @@
+{
+  "id": 196994,
+  "date": "2020-12-02T10:03:45",
+  "date_gmt": "2020-12-02T09:03:45",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1.jpg"
+  },
+  "modified": "2020-12-02T10:04:38",
+  "modified_gmt": "2020-12-02T09:04:38",
+  "slug": "maison_archi_labotiere_1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/33000-bordeaux-maison-darchitecte-quartier-labotiere-766/attachment/maison_archi_labotiere_1/",
+  "title": {
+    "rendered": "maison_archi_labotiere_1"
+  },
+  "author": 5,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 854,
+    "file": "2018/09/maison_archi_labotiere_1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "maison_archi_labotiere_1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "maison_archi_labotiere_1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1-480x320.jpg"
+      },
+      "full": {
+        "file": "maison_archi_labotiere_1.jpg",
+        "width": 1280,
+        "height": 854,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "1536051662",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 196761,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/09/maison_archi_labotiere_1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/196994"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/5"
+      }
+    ]
+  }
+}

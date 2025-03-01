@@ -1,0 +1,79 @@
+{
+  "id": 129892,
+  "date": "2020-08-03T10:27:29",
+  "date_gmt": "2020-08-03T08:27:29",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/07/maison-contemporaine-architecte-design-six-fours-brusc-var-0323EV-Photo-13-maison.jpeg"
+  },
+  "modified": "2020-08-03T10:30:14",
+  "modified_gmt": "2020-08-03T08:30:14",
+  "slug": "maison-contemporaine-architecte-design-six-fours-brusc-var-0323ev-photo-13-maison",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/83140-six-fours-les-plages-villa-contemporaine-aux-allures-corse-0323ev/attachment/maison-contemporaine-architecte-design-six-fours-brusc-var-0323ev-photo-13-maison/",
+  "title": {
+    "rendered": "maison-contemporaine-architecte-design-six-fours-brusc-var-0323EV-Photo 12 piscine vert bali"
+  },
+  "author": 57,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/maison-contemporaine-architecte-design-six-fours-brusc-var-0323EV-Photo-13-maison.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/maison-contemporaine-architecte-design-six-fours-brusc-var-0323EV-Photo-13-maison.jpeg\" class=\"attachment-medium size-medium\" alt=\"maison-contemporaine-architecte-design-six-fours-brusc-var-0323EV-Photo 13 maison\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "maison-contemporaine-architecte-design-six-fours-brusc-var-0323EV-Photo 13 maison",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2020/07/maison-contemporaine-architecte-design-six-fours-brusc-var-0323EV-Photo-13-maison.jpeg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "0",
+      "credit": "By Lucart",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 127464,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/07/maison-contemporaine-architecte-design-six-fours-brusc-var-0323EV-Photo-13-maison.jpeg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/129892"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/57"
+      }
+    ]
+  }
+}

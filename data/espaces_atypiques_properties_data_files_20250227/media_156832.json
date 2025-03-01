@@ -1,0 +1,79 @@
+{
+  "id": 156832,
+  "date": "2020-09-15T12:19:19",
+  "date_gmt": "2020-09-15T10:19:19",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/11/Achat-Vente-Charmant-Appartement-T1-Bis-Centre-Ville-de-Nantes-Espaces-Atypiques-Nantes-1.jpg"
+  },
+  "modified": "2020-09-15T12:21:17",
+  "modified_gmt": "2020-09-15T10:21:17",
+  "slug": "achat-vente-charmant-appartement-t1-bis-centre-ville-de-nantes-espaces-atypiques-nantes-1",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/44000-nantes-charmant-appartement-dans-le-coeur-de-nantes-508/attachment/achat-vente-charmant-appartement-t1-bis-centre-ville-de-nantes-espaces-atypiques-nantes-1/",
+  "title": {
+    "rendered": "Achat Vente Charmant Appartement T1 Bis Centre-Ville de Nantes &#8211; Espaces Atypiques Nantes-1"
+  },
+  "author": 33,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Achat-Vente-Charmant-Appartement-T1-Bis-Centre-Ville-de-Nantes-Espaces-Atypiques-Nantes-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Achat-Vente-Charmant-Appartement-T1-Bis-Centre-Ville-de-Nantes-Espaces-Atypiques-Nantes-1.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1680,
+    "height": 1120,
+    "file": "2019/11/Achat-Vente-Charmant-Appartement-T1-Bis-Centre-Ville-de-Nantes-Espaces-Atypiques-Nantes-1.jpg",
+    "sizes": {},
+    "image_meta": {
+      "aperture": "10",
+      "credit": "",
+      "camera": "ILCE-7",
+      "caption": "",
+      "created_timestamp": "1573038331",
+      "copyright": "",
+      "focal_length": "16",
+      "iso": "400",
+      "shutter_speed": "0.016666666666667",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 148852,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/11/Achat-Vente-Charmant-Appartement-T1-Bis-Centre-Ville-de-Nantes-Espaces-Atypiques-Nantes-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/156832"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/33"
+      }
+    ]
+  }
+}

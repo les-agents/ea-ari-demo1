@@ -1,0 +1,101 @@
+{
+  "id": 115063,
+  "date": "2020-07-29T17:18:33",
+  "date_gmt": "2020-07-29T15:18:33",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1.jpg"
+  },
+  "modified": "2020-07-31T08:45:05",
+  "modified_gmt": "2020-07-31T06:45:05",
+  "slug": "281096-0043eaca-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/22410-saint-quay-portrieux-maison-architecte-au-coeur-de-la-station-0043eaca/attachment/281096-0043eaca-1-jpg/",
+  "title": {
+    "rendered": "Maison architecte au coeur de la Station &#8211; Réf. 0043EACA"
+  },
+  "author": 41,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"720\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1-960x720.jpg\" class=\"attachment-medium size-medium\" alt=\"22410 SAINT QUAY PORTRIEUX - Maison architecte au coeur de la Station - Réf. 0043EACA\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1-960x720.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1-480x360.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "22410 SAINT QUAY PORTRIEUX - Maison architecte au coeur de la Station - Réf. 0043EACA",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 768,
+    "file": "281096/0043EACA/281096-0043EACA-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "281096-0043EACA-1-960x720.jpg",
+        "width": 960,
+        "height": 720,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1-960x720.jpg"
+      },
+      "thumbnail": {
+        "file": "281096-0043EACA-1-480x360.jpg",
+        "width": 480,
+        "height": 360,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1-480x360.jpg"
+      },
+      "full": {
+        "file": "281096-0043EACA-1.jpg",
+        "width": 1024,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 90646,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0043EACA/281096-0043EACA-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/115063"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/41"
+      }
+    ]
+  }
+}

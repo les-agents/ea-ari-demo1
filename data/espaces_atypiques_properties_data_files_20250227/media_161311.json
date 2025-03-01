@@ -1,0 +1,115 @@
+{
+  "id": 161311,
+  "date": "2020-09-22T18:23:19",
+  "date_gmt": "2020-09-22T16:23:19",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1.jpg"
+  },
+  "modified": "2020-11-06T15:15:31",
+  "modified_gmt": "2020-11-06T14:15:31",
+  "slug": "154205-514eam-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/06000-nice-toit-terrasse-avec-vue-mer-et-ville-panoramique-514eam-2/attachment/154205-514eam-1-jpg/",
+  "title": {
+    "rendered": "Toit terrasse avec vue mer et ville panoramique &#8211; Réf. 514EAM"
+  },
+  "author": 17,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"06000 NICE - Toit terrasse avec vue mer et ville panoramique - Réf. 514EAM\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "06000 NICE - Toit terrasse avec vue mer et ville panoramique - Réf. 514EAM",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "154205/514EAM/154205-514EAM-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "154205-514EAM-1-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1-960x640.jpg"
+      },
+      "large": {
+        "file": "154205-514EAM-1-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "154205-514EAM-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "154205-514EAM-1-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1-1536x1024.jpg"
+      },
+      "full": {
+        "file": "154205-514EAM-1.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 161310,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/154205/514EAM/154205-514EAM-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/161311"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/17"
+      }
+    ]
+  }
+}

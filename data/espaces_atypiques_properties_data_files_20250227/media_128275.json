@@ -1,0 +1,101 @@
+{
+  "id": 128275,
+  "date": "2020-08-01T11:39:48",
+  "date_gmt": "2020-08-01T09:39:48",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A.jpg"
+  },
+  "modified": "2020-08-01T11:57:57",
+  "modified_gmt": "2020-08-01T09:57:57",
+  "slug": "propriete-renover-gites-hotes-520m2-pluneret-072er-photo-a",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/56400-auray-propriete-du-xviieme-composee-dune-longere-et-de-gites-renoves-157/attachment/propriete-renover-gites-hotes-520m2-pluneret-072er-photo-a/",
+  "title": {
+    "rendered": "Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A"
+  },
+  "author": 38,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A-1680x1122.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1282,
+    "file": "2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A-960x641.jpg"
+      },
+      "large": {
+        "file": "Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A-1680x1122.jpg",
+        "width": 1680,
+        "height": 1122,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A-1680x1122.jpg"
+      },
+      "full": {
+        "file": "Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A.jpg",
+        "width": 1920,
+        "height": 1282,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Jean-Yves GAUTIER",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "J-Y GAUTIER Photographe",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 7681,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/Propriete-renover-gites-hotes-520m2-Pluneret-072ER-photo-A.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/128275"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/38"
+      }
+    ]
+  }
+}

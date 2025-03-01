@@ -1,0 +1,115 @@
+{
+  "id": 204288,
+  "date": "2020-12-15T18:15:51",
+  "date_gmt": "2020-12-15T17:15:51",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1.jpg"
+  },
+  "modified": "2020-12-20T18:16:11",
+  "modified_gmt": "2020-12-20T17:16:11",
+  "slug": "145451-486eaa-1-jpg-2",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/84400-saignon-classique-et-atypique-maison-provencale-486eaa/attachment/145451-486eaa-1-jpg-2/",
+  "title": {
+    "rendered": "Classique et atypique maison provençale &#8211; Réf. 486EAA"
+  },
+  "author": 16,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"84400 SAIGNON - Classique et atypique maison provençale - Réf. 486EAA\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1-1680x1117.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1-480x319.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "84400 SAIGNON - Classique et atypique maison provençale - Réf. 486EAA",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1277,
+    "file": "145451/486EAA/145451-486EAA-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "145451-486EAA-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1-960x639.jpg"
+      },
+      "large": {
+        "file": "145451-486EAA-1-1680x1117.jpg",
+        "width": 1680,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1-1680x1117.jpg"
+      },
+      "thumbnail": {
+        "file": "145451-486EAA-1-480x319.jpg",
+        "width": 480,
+        "height": 319,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1-480x319.jpg"
+      },
+      "1536x1536": {
+        "file": "145451-486EAA-1-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1-1536x1022.jpg"
+      },
+      "full": {
+        "file": "145451-486EAA-1.jpg",
+        "width": 1920,
+        "height": 1277,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 204285,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/486EAA/145451-486EAA-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/204288"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/16"
+      }
+    ]
+  }
+}

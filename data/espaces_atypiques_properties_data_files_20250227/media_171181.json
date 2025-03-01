@@ -1,0 +1,101 @@
+{
+  "id": 171181,
+  "date": "2020-10-09T14:51:46",
+  "date_gmt": "2020-10-09T12:51:46",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e.jpg"
+  },
+  "modified": "2020-10-09T15:02:33",
+  "modified_gmt": "2020-10-09T13:02:33",
+  "slug": "37208622e",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/belle-ferme-renovee/attachment/37208622e/",
+  "title": {
+    "rendered": "Belle ferme rénovée &#8211; Réf. 193EB"
+  },
+  "author": 12,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"01290 BIZIAT - Belle ferme rénovée - Réf. 193EB\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "01290 BIZIAT - Belle ferme rénovée - Réf. 193EB",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 683,
+    "file": "2020/10/37208622e.jpg",
+    "sizes": {
+      "medium": {
+        "file": "37208622e-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "37208622e-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e-480x320.jpg"
+      },
+      "full": {
+        "file": "37208622e.jpg",
+        "width": 1024,
+        "height": 683,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 171174,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/37208622e.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/171181"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/12"
+      }
+    ]
+  }
+}

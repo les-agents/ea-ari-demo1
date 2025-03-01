@@ -1,0 +1,101 @@
+{
+  "id": 182860,
+  "date": "2020-10-31T19:05:34",
+  "date_gmt": "2020-10-31T18:05:34",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2.jpg"
+  },
+  "modified": "2020-10-31T19:05:41",
+  "modified_gmt": "2020-10-31T18:05:41",
+  "slug": "280518-eavo001-2-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/parc-naturel-belle-propriete-au-calme-vue-sur-la-tour-eiffel-eavo001/attachment/280518-eavo001-2-jpg/",
+  "title": {
+    "rendered": "vue sur la tour Eiffel &#8211; Réf. EAVO001"
+  },
+  "author": 8,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"642\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2-960x642.jpg\" class=\"attachment-medium size-medium\" alt=\"vue sur la tour Eiffel - Réf. EAVO001\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2-960x642.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2-480x321.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "vue sur la tour Eiffel - Réf. EAVO001",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 685,
+    "file": "280518/EAVO001/280518-EAVO001-2.jpg",
+    "sizes": {
+      "medium": {
+        "file": "280518-EAVO001-2-960x642.jpg",
+        "width": 960,
+        "height": 642,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2-960x642.jpg"
+      },
+      "thumbnail": {
+        "file": "280518-EAVO001-2-480x321.jpg",
+        "width": 480,
+        "height": 321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2-480x321.jpg"
+      },
+      "full": {
+        "file": "280518-EAVO001-2.jpg",
+        "width": 1024,
+        "height": 685,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 182857,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/280518/EAVO001/280518-EAVO001-2.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/182860"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/8"
+      }
+    ]
+  }
+}

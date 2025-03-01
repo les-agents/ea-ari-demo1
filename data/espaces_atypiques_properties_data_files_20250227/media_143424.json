@@ -1,0 +1,101 @@
+{
+  "id": 143424,
+  "date": "2020-08-21T13:44:28",
+  "date_gmt": "2020-08-21T11:44:28",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47.jpg"
+  },
+  "modified": "2020-08-21T13:44:28",
+  "modified_gmt": "2020-08-21T11:44:28",
+  "slug": "2556-espaces-atypiques-agde-villa-contemporaine-47",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34300-le-grau-d-agde-villa-californienne-en-bord-de-mer-2556-11/attachment/2556-espaces-atypiques-agde-villa-contemporaine-47/",
+  "title": {
+    "rendered": "2556-Espaces-atypiques-Agde-Villa-Contemporaine-47"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47.jpg 1349w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1349,
+    "height": 900,
+    "file": "2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47.jpg",
+    "sizes": {
+      "medium": {
+        "file": "2556-Espaces-atypiques-Agde-Villa-Contemporaine-47-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47-960x640.jpg"
+      },
+      "thumbnail": {
+        "file": "2556-Espaces-atypiques-Agde-Villa-Contemporaine-47-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47-480x320.jpg"
+      },
+      "full": {
+        "file": "2556-Espaces-atypiques-Agde-Villa-Contemporaine-47.jpg",
+        "width": 1349,
+        "height": 900,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "Gilles Auteroche",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "(C) 2015",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 141522,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2018/11/2556-Espaces-atypiques-Agde-Villa-Contemporaine-47.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/143424"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

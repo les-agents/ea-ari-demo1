@@ -1,0 +1,108 @@
+{
+  "id": 169182,
+  "date": "2020-10-06T15:57:13",
+  "date_gmt": "2020-10-06T13:57:13",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01.jpg"
+  },
+  "modified": "2020-10-06T16:02:41",
+  "modified_gmt": "2020-10-06T14:02:41",
+  "slug": "m2486ep-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/93100-montreuil-duplex-esprit-maison-2486ep/attachment/m2486ep-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01/",
+  "title": {
+    "rendered": "M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"644\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-960x644.jpg\" class=\"attachment-medium size-medium\" alt=\"93100 MONTREUIL - Duplex esprit maison - Réf. 2486EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-960x644.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-1680x1126.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-480x322.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01.jpg 1909w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "93100 MONTREUIL - Duplex esprit maison - Réf. 2486EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1909,
+    "height": 1280,
+    "file": "2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-960x644.jpg",
+        "width": 960,
+        "height": 644,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-960x644.jpg"
+      },
+      "large": {
+        "file": "M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-1680x1126.jpg",
+        "width": 1680,
+        "height": 1126,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-1680x1126.jpg"
+      },
+      "thumbnail": {
+        "file": "M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-480x322.jpg",
+        "width": 480,
+        "height": 322,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01-480x322.jpg"
+      },
+      "full": {
+        "file": "M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01.jpg",
+        "width": 1909,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1601481373",
+      "copyright": "",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "0.3",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 169174,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/10/M2486EP-espaces-atypiques-duplex-esprit-maison-montreuil-93100-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/169182"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

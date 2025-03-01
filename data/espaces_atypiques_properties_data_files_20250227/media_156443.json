@@ -1,0 +1,115 @@
+{
+  "id": 156443,
+  "date": "2020-09-15T08:53:13",
+  "date_gmt": "2020-09-15T06:53:13",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01.jpg"
+  },
+  "modified": "2020-09-15T08:56:38",
+  "modified_gmt": "2020-09-15T06:56:38",
+  "slug": "m2412ep-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/75002-paris-dernier-etage-avec-terrasse-et-vue-2412ep/attachment/m2412ep-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01/",
+  "title": {
+    "rendered": "M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01"
+  },
+  "author": 52,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"647\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-960x647.jpg\" class=\"attachment-medium size-medium\" alt=\"75002 PARIS - Duplex en dernier étage avec vue - Réf. 2412EP\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-960x647.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-1680x1132.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-480x323.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-1536x1035.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01.jpg 1900w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "75002 PARIS - Duplex en dernier étage avec vue - Réf. 2412EP",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1900,
+    "height": 1280,
+    "file": "2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-960x647.jpg",
+        "width": 960,
+        "height": 647,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-960x647.jpg"
+      },
+      "large": {
+        "file": "M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-1680x1132.jpg",
+        "width": 1680,
+        "height": 1132,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-1680x1132.jpg"
+      },
+      "thumbnail": {
+        "file": "M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-480x323.jpg",
+        "width": 480,
+        "height": 323,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-480x323.jpg"
+      },
+      "1536x1536": {
+        "file": "M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-1536x1035.jpg",
+        "width": 1536,
+        "height": 1035,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01-1536x1035.jpg"
+      },
+      "full": {
+        "file": "M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01.jpg",
+        "width": 1900,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "",
+      "camera": "Canon EOS 6D Mark II",
+      "caption": "",
+      "created_timestamp": "1599739881",
+      "copyright": "",
+      "focal_length": "17",
+      "iso": "100",
+      "shutter_speed": "0.011111111111111",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 156442,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/09/M2412EP-espaces-atypiques-dernier-etage-terrasse-vue-paris-2e-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/156443"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/52"
+      }
+    ]
+  }
+}

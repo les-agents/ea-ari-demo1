@@ -1,0 +1,101 @@
+{
+  "id": 133336,
+  "date": "2020-08-05T19:29:13",
+  "date_gmt": "2020-08-05T17:29:13",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1.jpg"
+  },
+  "modified": "2020-08-05T19:29:24",
+  "modified_gmt": "2020-08-05T17:29:24",
+  "slug": "169287-ealr269-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/17470-aulnay-maison-de-famille-aux-airs-de-provence-ealr269/attachment/169287-ealr269-1-jpg/",
+  "title": {
+    "rendered": "Maison de famille aux airs de Provence &#8211; Réf. EALR269"
+  },
+  "author": 28,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"17470 AULNAY - Maison de famille aux airs de Provence - Réf. EALR269\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1.jpg 1024w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "17470 AULNAY - Maison de famille aux airs de Provence - Réf. EALR269",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1024,
+    "height": 682,
+    "file": "169287/EALR269/169287-EALR269-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "169287-EALR269-1-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1-960x639.jpg"
+      },
+      "thumbnail": {
+        "file": "169287-EALR269-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1-480x320.jpg"
+      },
+      "full": {
+        "file": "169287-EALR269-1.jpg",
+        "width": 1024,
+        "height": 682,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 133335,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/169287/EALR269/169287-EALR269-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/133336"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/28"
+      }
+    ]
+  }
+}

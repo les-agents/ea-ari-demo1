@@ -1,0 +1,115 @@
+{
+  "id": 200223,
+  "date": "2020-12-08T17:52:20",
+  "date_gmt": "2020-12-08T16:52:20",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01.jpg"
+  },
+  "modified": "2020-12-08T17:52:59",
+  "modified_gmt": "2020-12-08T16:52:59",
+  "slug": "0473eas-appartement-prestige-vue-esca-strasbourg-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/67000-strasbourg-appartement-de-prestige-avec-vue-sur-lill-0473eas/attachment/0473eas-appartement-prestige-vue-esca-strasbourg-01/",
+  "title": {
+    "rendered": "0473EAS-appartement-prestige-vue-esca-strasbourg-01"
+  },
+  "author": 56,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"67000 STRASBOURG - Appartement de prestige avec vue sur l&#039;Ill - Réf. 0473EAS\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01-1680x1119.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01-1536x1024.jpg 1536w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "67000 STRASBOURG - Appartement de prestige avec vue sur l'Ill - Réf. 0473EAS",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 3237,
+    "height": 2157,
+    "file": "2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "0473EAS-appartement-prestige-vue-esca-strasbourg-01-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01-960x640.jpg"
+      },
+      "large": {
+        "file": "0473EAS-appartement-prestige-vue-esca-strasbourg-01-1680x1119.jpg",
+        "width": 1680,
+        "height": 1119,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01-1680x1119.jpg"
+      },
+      "thumbnail": {
+        "file": "0473EAS-appartement-prestige-vue-esca-strasbourg-01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "0473EAS-appartement-prestige-vue-esca-strasbourg-01-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01-1536x1024.jpg"
+      },
+      "full": {
+        "file": "0473EAS-appartement-prestige-vue-esca-strasbourg-01.jpg",
+        "width": 3237,
+        "height": 2157,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 197936,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/0473EAS-appartement-prestige-vue-esca-strasbourg-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/200223"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/56"
+      }
+    ]
+  }
+}

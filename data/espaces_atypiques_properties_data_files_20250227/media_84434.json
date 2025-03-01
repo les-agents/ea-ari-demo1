@@ -1,0 +1,101 @@
+{
+  "id": 84434,
+  "date": "2020-07-22T17:51:06",
+  "date_gmt": "2020-07-22T15:51:06",
+  "guid": {
+    "rendered": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1.jpg"
+  },
+  "modified": "2020-10-23T22:47:43",
+  "modified_gmt": "2020-10-23T20:47:43",
+  "slug": "281096-0041eaca-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/22430-erquy-maison-individuelle-et-sa-dependance-0041eaca-2/attachment/281096-0041eaca-1-jpg/",
+  "title": {
+    "rendered": "Maison individuelle et sa dépendance &#8211; Réf. 0041EACA"
+  },
+  "author": 41,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"22430 ERQUY - Maison individuelle et sa dépendance - Réf. 0041EACA\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1.jpg 1280w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "22430 ERQUY - Maison individuelle et sa dépendance - Réf. 0041EACA",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1280,
+    "height": 854,
+    "file": "281096/0041EACA/281096-0041EACA-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "281096-0041EACA-1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1-960x641.jpg"
+      },
+      "thumbnail": {
+        "file": "281096-0041EACA-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1-480x320.jpg"
+      },
+      "full": {
+        "file": "281096-0041EACA-1.jpg",
+        "width": 1280,
+        "height": 854,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 32675,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/281096/0041EACA/281096-0041EACA-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/84434"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/41"
+      }
+    ]
+  }
+}

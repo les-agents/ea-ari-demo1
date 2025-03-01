@@ -1,0 +1,115 @@
+{
+  "id": 153831,
+  "date": "2020-09-10T12:27:32",
+  "date_gmt": "2020-09-10T10:27:32",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08.jpg"
+  },
+  "modified": "2020-09-10T12:27:32",
+  "modified_gmt": "2020-09-10T10:27:32",
+  "slug": "espaces-atypiques-cholet-angers-08",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/49300-cholet-la-contemporaine-aerienne-ch605/attachment/espaces-atypiques-cholet-angers-08/",
+  "title": {
+    "rendered": "ESPACES ATYPIQUES CHOLET ANGERS 08"
+  },
+  "author": 36,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1281,
+    "file": "2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08.jpg",
+    "sizes": {
+      "medium": {
+        "file": "ESPACES-ATYPIQUES-CHOLET-ANGERS-08-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08-960x641.jpg"
+      },
+      "large": {
+        "file": "ESPACES-ATYPIQUES-CHOLET-ANGERS-08-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "ESPACES-ATYPIQUES-CHOLET-ANGERS-08-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "ESPACES-ATYPIQUES-CHOLET-ANGERS-08-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08-1536x1025.jpg"
+      },
+      "full": {
+        "file": "ESPACES-ATYPIQUES-CHOLET-ANGERS-08.jpg",
+        "width": 1920,
+        "height": 1281,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "11",
+      "credit": "cedric colin",
+      "camera": "ILCE-7RM3",
+      "caption": "",
+      "created_timestamp": "1584095995",
+      "copyright": "cedric colin",
+      "focal_length": "19",
+      "iso": "200",
+      "shutter_speed": "0.008",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 91651,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/03/ESPACES-ATYPIQUES-CHOLET-ANGERS-08.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/153831"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/36"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": 135418,
+  "date": "2020-08-08T04:57:11",
+  "date_gmt": "2020-08-08T02:57:11",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1.jpg"
+  },
+  "modified": "2020-08-08T04:57:17",
+  "modified_gmt": "2020-08-08T02:57:17",
+  "slug": "145451-277eaa-1-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/84000-avignon-atelier-appartement-a-reinventer-277eaa/attachment/145451-277eaa-1-jpg/",
+  "title": {
+    "rendered": "atelier/appartement à reinventer &#8211; Réf. 277EAA"
+  },
+  "author": 16,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"84000 AVIGNON - atelier/appartement à reinventer - Réf. 277EAA\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1.jpg 1918w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "84000 AVIGNON - atelier/appartement à reinventer - Réf. 277EAA",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1918,
+    "height": 1280,
+    "file": "145451/277EAA/145451-277EAA-1.jpg",
+    "sizes": {
+      "medium": {
+        "file": "145451-277EAA-1-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1-960x641.jpg"
+      },
+      "large": {
+        "file": "145451-277EAA-1-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "145451-277EAA-1-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "145451-277EAA-1-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1-1536x1025.jpg"
+      },
+      "full": {
+        "file": "145451-277EAA-1.jpg",
+        "width": 1918,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 135417,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/145451/277EAA/145451-277EAA-1.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/135418"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/16"
+      }
+    ]
+  }
+}

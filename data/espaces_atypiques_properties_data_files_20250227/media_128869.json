@@ -1,0 +1,101 @@
+{
+  "id": 128869,
+  "date": "2020-08-02T08:01:15",
+  "date_gmt": "2020-08-02T06:01:15",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376.jpg"
+  },
+  "modified": "2020-08-02T08:02:25",
+  "modified_gmt": "2020-08-02T06:02:25",
+  "slug": "1_espaces-atypiques_veneux_vuemaison1_sm376",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/77300-fontainebleau-maison-de-charme-avec-jardin-et-dependances-sm376/attachment/1_espaces-atypiques_veneux_vuemaison1_sm376/",
+  "title": {
+    "rendered": "1_espaces atypiques_veneux_vuemaison1_SM376"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1280,
+    "file": "2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376.jpg",
+    "sizes": {
+      "medium": {
+        "file": "1_espaces-atypiques_veneux_vuemaison1_SM376-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376-960x640.jpg"
+      },
+      "large": {
+        "file": "1_espaces-atypiques_veneux_vuemaison1_SM376-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376-1680x1120.jpg"
+      },
+      "full": {
+        "file": "1_espaces-atypiques_veneux_vuemaison1_SM376.jpg",
+        "width": 1920,
+        "height": 1280,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "Lucie-Anne Mottet",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 121477,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/06/1_espaces-atypiques_veneux_vuemaison1_SM376.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/128869"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

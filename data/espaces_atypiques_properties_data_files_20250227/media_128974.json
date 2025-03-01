@@ -1,0 +1,122 @@
+{
+  "id": 128974,
+  "date": "2020-08-02T10:24:12",
+  "date_gmt": "2020-08-02T08:24:12",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317.jpg"
+  },
+  "modified": "2020-08-02T10:25:28",
+  "modified_gmt": "2020-08-02T08:25:28",
+  "slug": "1_espaces-atypiques_la-ferte_vue_sm317",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/91590-la-ferte-alais-maison-darchitecte-des-annees-70-avec-son-studio-independant-sm317/attachment/1_espaces-atypiques_la-ferte_vue_sm317/",
+  "title": {
+    "rendered": "1_espaces atypiques_la ferté_vue_SM317"
+  },
+  "author": 50,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-2048x1365.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 2160,
+    "height": 1440,
+    "file": "2020/06/1_espaces-atypiques_la-ferté_vue_SM317.jpg",
+    "sizes": {
+      "medium": {
+        "file": "1_espaces-atypiques_la-ferté_vue_SM317-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-960x640.jpg"
+      },
+      "large": {
+        "file": "1_espaces-atypiques_la-ferté_vue_SM317-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "1_espaces-atypiques_la-ferté_vue_SM317-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "1_espaces-atypiques_la-ferté_vue_SM317-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-1536x1024.jpg"
+      },
+      "2048x2048": {
+        "file": "1_espaces-atypiques_la-ferté_vue_SM317-2048x1365.jpg",
+        "width": 2048,
+        "height": 1365,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317-2048x1365.jpg"
+      },
+      "full": {
+        "file": "1_espaces-atypiques_la-ferté_vue_SM317.jpg",
+        "width": 2160,
+        "height": 1440,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "Lucie-Anne Mottet",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 100888,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/06/1_espaces-atypiques_la-ferté_vue_SM317.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/128974"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/50"
+      }
+    ]
+  }
+}

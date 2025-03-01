@@ -1,0 +1,122 @@
+{
+  "id": 203083,
+  "date": "2020-12-13T16:19:27",
+  "date_gmt": "2020-12-13T15:19:27",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/12/514-04.jpg"
+  },
+  "modified": "2020-12-14T11:44:28",
+  "modified_gmt": "2020-12-14T10:44:28",
+  "slug": "514-04",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/59710-avelin-appartement-chic-avec-jardin-514/attachment/514-04/",
+  "title": {
+    "rendered": "514 &#8211; 04"
+  },
+  "author": 10,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-2048x1367.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 7068,
+    "height": 4717,
+    "file": "2020/12/514-04.jpg",
+    "sizes": {
+      "medium": {
+        "file": "514-04-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-960x641.jpg"
+      },
+      "large": {
+        "file": "514-04-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "514-04-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "514-04-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-1536x1025.jpg"
+      },
+      "2048x2048": {
+        "file": "514-04-2048x1367.jpg",
+        "width": 2048,
+        "height": 1367,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04-2048x1367.jpg"
+      },
+      "full": {
+        "file": "514-04.jpg",
+        "width": 7068,
+        "height": 4717,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "8",
+      "credit": "",
+      "camera": "ILCE-7R",
+      "caption": "",
+      "created_timestamp": "1607513768",
+      "copyright": "",
+      "focal_length": "20",
+      "iso": "500",
+      "shutter_speed": "0.2",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 44907,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/12/514-04.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/203083"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/10"
+      }
+    ]
+  }
+}

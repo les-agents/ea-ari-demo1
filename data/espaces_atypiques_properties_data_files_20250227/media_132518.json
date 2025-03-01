@@ -1,0 +1,122 @@
+{
+  "id": 132518,
+  "date": "2020-08-05T12:50:23",
+  "date_gmt": "2020-08-05T10:50:23",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01.jpg"
+  },
+  "modified": "2020-08-05T12:51:13",
+  "modified_gmt": "2020-08-05T10:51:13",
+  "slug": "m1663ep-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/92240-malakoff-loft-familial-dans-un-ancien-hangar-avec-toit-terrasse-1663ep/attachment/m1663ep-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01/",
+  "title": {
+    "rendered": "M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01"
+  },
+  "author": 54,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"640\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-960x640.jpg\" class=\"attachment-medium size-medium\" alt=\"M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-960x640.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-1680x1120.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-1536x1024.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-2048x1365.jpg 2048w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 2990,
+    "height": 1993,
+    "file": "2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01.jpg",
+    "sizes": {
+      "medium": {
+        "file": "M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-960x640.jpg",
+        "width": 960,
+        "height": 640,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-960x640.jpg"
+      },
+      "large": {
+        "file": "M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-1680x1120.jpg",
+        "width": 1680,
+        "height": 1120,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-1680x1120.jpg"
+      },
+      "thumbnail": {
+        "file": "M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-1536x1024.jpg",
+        "width": 1536,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-1536x1024.jpg"
+      },
+      "2048x2048": {
+        "file": "M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-2048x1365.jpg",
+        "width": 2048,
+        "height": 1365,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01-2048x1365.jpg"
+      },
+      "full": {
+        "file": "M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01.jpg",
+        "width": 2990,
+        "height": 1993,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "1",
+      "keywords": []
+    }
+  },
+  "post": 131658,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2019/03/M1663EP-espaces-atypiques-duplex-architecte-dernier-etage-malakoff-01.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/132518"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/54"
+      }
+    ]
+  }
+}

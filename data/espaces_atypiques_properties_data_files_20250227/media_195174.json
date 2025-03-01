@@ -1,0 +1,115 @@
+{
+  "id": 195174,
+  "date": "2020-11-28T21:30:51",
+  "date_gmt": "2020-11-28T20:30:51",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8.jpg"
+  },
+  "modified": "2020-11-28T21:30:58",
+  "modified_gmt": "2020-11-28T20:30:58",
+  "slug": "285205-ch383-8-jpg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/49300-cholet-demeure-de-maitre-dans-lhyper-centre-de-cholet-ch383/attachment/285205-ch383-8-jpg/",
+  "title": {
+    "rendered": "Demeure de maître dans l&rsquo;hyper-centre de Cholet &#8211; Réf. CH383"
+  },
+  "author": 36,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"639\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8-960x639.jpg\" class=\"attachment-medium size-medium\" alt=\"49300 CHOLET - Demeure de maître dans l&#039;hyper-centre de Cholet - Réf. CH383\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8-960x639.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8-1680x1118.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8-1536x1022.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": ""
+  },
+  "alt_text": "49300 CHOLET - Demeure de maître dans l'hyper-centre de Cholet - Réf. CH383",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1278,
+    "file": "285205/CH383/285205-CH383-8.jpg",
+    "sizes": {
+      "medium": {
+        "file": "285205-CH383-8-960x639.jpg",
+        "width": 960,
+        "height": 639,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8-960x639.jpg"
+      },
+      "large": {
+        "file": "285205-CH383-8-1680x1118.jpg",
+        "width": 1680,
+        "height": 1118,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8-1680x1118.jpg"
+      },
+      "thumbnail": {
+        "file": "285205-CH383-8-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "285205-CH383-8-1536x1022.jpg",
+        "width": 1536,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8-1536x1022.jpg"
+      },
+      "full": {
+        "file": "285205-CH383-8.jpg",
+        "width": 1920,
+        "height": 1278,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": 195159,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/285205/CH383/285205-CH383-8.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/195174"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/36"
+      }
+    ]
+  }
+}

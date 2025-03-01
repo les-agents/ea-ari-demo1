@@ -1,0 +1,125 @@
+{
+  "id": 143358,
+  "date": "2020-08-21T13:17:50",
+  "date_gmt": "2020-08-21T11:17:50",
+  "guid": {
+    "rendered": "https://www.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse.jpg"
+  },
+  "modified": "2020-08-21T13:18:31",
+  "modified_gmt": "2020-08-21T11:18:31",
+  "slug": "photographie-immobiliere-10",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://preprod.espaces-atypiques.com/ventes/34140-meze-maison-de-ville-et-son-cocon-sous-les-toits-0339-13/attachment/photographie-immobiliere-10/",
+  "title": {
+    "rendered": "Photographie Immobiliere"
+  },
+  "author": 29,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "acf": [],
+  "description": {
+    "rendered": "<p class=\"attachment\"><a href='https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"960\" height=\"641\" src=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse-960x641.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse-960x641.jpg 960w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse-1680x1121.jpg 1680w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse-480x320.jpg 480w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse-1536x1025.jpg 1536w, https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse.jpg 1920w\" sizes=\"(max-width: 960px) 100vw, 960px\" /></a></p>\n"
+  },
+  "caption": {
+    "rendered": "<p>Photographie immobiliere pour agence immobiliere. Villa de luxe, appartement haut standing, domaine, chateau, residence atypique. France</p>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+    "width": 1920,
+    "height": 1281,
+    "file": "2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse.jpg",
+    "sizes": {
+      "medium": {
+        "file": "Maison-de-ville-Meze-0339-cuisine-terrasse-960x641.jpg",
+        "width": 960,
+        "height": 641,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse-960x641.jpg"
+      },
+      "large": {
+        "file": "Maison-de-ville-Meze-0339-cuisine-terrasse-1680x1121.jpg",
+        "width": 1680,
+        "height": 1121,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse-1680x1121.jpg"
+      },
+      "thumbnail": {
+        "file": "Maison-de-ville-Meze-0339-cuisine-terrasse-480x320.jpg",
+        "width": 480,
+        "height": 320,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse-480x320.jpg"
+      },
+      "1536x1536": {
+        "file": "Maison-de-ville-Meze-0339-cuisine-terrasse-1536x1025.jpg",
+        "width": 1536,
+        "height": 1025,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse-1536x1025.jpg"
+      },
+      "full": {
+        "file": "Maison-de-ville-Meze-0339-cuisine-terrasse.jpg",
+        "width": 1920,
+        "height": 1281,
+        "mime_type": "image/jpeg",
+        "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse.jpg"
+      }
+    },
+    "image_meta": {
+      "aperture": "10",
+      "credit": "Gilles Auteroche",
+      "camera": "NIKON D800",
+      "caption": "Photographie immobiliere pour agence immobiliere. Villa de luxe, appartement haut standing, domaine, chateau, residence atypique. France",
+      "created_timestamp": "1589893482",
+      "copyright": "Gilles Auteroche",
+      "focal_length": "16",
+      "iso": "1600",
+      "shutter_speed": "0.0005",
+      "title": "Photographie Immobiliere",
+      "orientation": "0",
+      "keywords": [
+        "herault",
+        "immobilier",
+        "languedoc roussillon",
+        "maison",
+        "meze",
+        "occitanie",
+        "photo immobiliere",
+        "real estate",
+        "villa"
+      ]
+    }
+  },
+  "post": 141510,
+  "source_url": "https://preprod.espaces-atypiques.com/wp-content/uploads/2020/05/Maison-de-ville-Meze-0339-cuisine-terrasse.jpg",
+  "_links": {
+    "self": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media/143358"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://preprod.espaces-atypiques.com/wp-json/wp/v2/users/29"
+      }
+    ]
+  }
+}

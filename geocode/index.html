@@ -248,9 +248,8 @@
       const resultsInfo = document.getElementById('results-info');
       const propertyGrid = document.getElementById('property-grid');
 
-      // URL de base de la source d'annonces et proxy CORS
-      const PROXY_URL = "https://cors-anywhere.herokuapp.com/";
-      const ANNOUNCE_URL = "https://www.espaces-atypiques.com/wp-content/plugins/tv2m-json-feed-annonces/annonces-vente-fr.json";
+      // Ici, nous utilisons un fichier local placé dans "../data/annonces-vente-fr.json"
+      const LOCAL_ANNOUNCE_URL = "../data/annonces-vente-fr.json";
 
       // Géocodage avec l'API Nominatim
       function geocodeLocation(query) {
@@ -266,7 +265,7 @@
           });
       }
 
-      // Formule de Haversine pour calculer la distance
+      // Calcul de la distance via la formule de Haversine
       function haversine(lat1, lon1, lat2, lon2) {
         const R = 6371; // Rayon de la Terre en km
         const toRad = angle => angle * Math.PI / 180;
@@ -277,9 +276,9 @@
         return R * c;
       }
 
-      // Récupération des annonces depuis la source via le proxy CORS
+      // Récupération des annonces depuis le fichier local
       function getPropertyListings() {
-        return fetch(PROXY_URL + ANNOUNCE_URL)
+        return fetch(LOCAL_ANNOUNCE_URL)
           .then(response => {
             if (!response.ok) {
               throw new Error(`Erreur HTTP : ${response.status}`);
@@ -313,8 +312,8 @@
             <div class="property-info">
               <div class="property-agency">${property.agence || 'Espaces Atypiques'}</div>
               <h3 class="property-title">
-                <!-- Lien en dur vers la source d'annonces -->
-                <a href="${ANNOUNCE_URL}" target="_blank">${property.nom}</a>
+                <!-- Lien en dur vers le fichier local (ou la source d'annonces) -->
+                <a href="${LOCAL_ANNOUNCE_URL}" target="_blank">${property.nom}</a>
               </h3>
               <div class="property-meta">
                 <div>${property.ville || ''} ${property.cp || ''}</div>
@@ -360,7 +359,7 @@
             return getPropertyListings().then(listings => {
               // Filtrer les propriétés ayant des coordonnées valides
               let validProperties = listings.filter(prop => prop.lat && prop.lng);
-              // Calculer la distance entre la localisation recherchée et chaque propriété
+              // Calculer la distance pour chaque propriété
               validProperties = validProperties.map(prop => {
                 const distance = haversine(location.lat, location.lng, parseFloat(prop.lat), parseFloat(prop.lng));
                 return { ...prop, distance };
