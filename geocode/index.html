@@ -248,7 +248,8 @@
       const resultsInfo = document.getElementById('results-info');
       const propertyGrid = document.getElementById('property-grid');
 
-      // URL en dur pour la source d'annonces
+      // URL de base de la source d'annonces et proxy CORS
+      const PROXY_URL = "https://cors-anywhere.herokuapp.com/";
       const ANNOUNCE_URL = "https://www.espaces-atypiques.com/wp-content/plugins/tv2m-json-feed-annonces/annonces-vente-fr.json";
 
       // Géocodage avec l'API Nominatim
@@ -265,7 +266,7 @@
           });
       }
 
-      // Formule de Haversine
+      // Formule de Haversine pour calculer la distance
       function haversine(lat1, lon1, lat2, lon2) {
         const R = 6371; // Rayon de la Terre en km
         const toRad = angle => angle * Math.PI / 180;
@@ -276,19 +277,16 @@
         return R * c;
       }
 
-      // Récupération des annonces depuis la source d'annonces
+      // Récupération des annonces depuis la source via le proxy CORS
       function getPropertyListings() {
-        return fetch(ANNOUNCE_URL)
+        return fetch(PROXY_URL + ANNOUNCE_URL)
           .then(response => {
             if (!response.ok) {
               throw new Error(`Erreur HTTP : ${response.status}`);
             }
             return response.json();
           })
-          .then(data => {
-            // On suppose que le JSON contient une propriété "annonces" qui est un tableau
-            return data.annonces || [];
-          });
+          .then(data => data.annonces || []);
       }
 
       // Affichage des résultats
@@ -360,12 +358,12 @@
         geocodeLocation(query)
           .then(location => {
             return getPropertyListings().then(listings => {
-              // Filtrer les propriétés qui ont des coordonnées valides
+              // Filtrer les propriétés ayant des coordonnées valides
               let validProperties = listings.filter(prop => prop.lat && prop.lng);
-              // Calculer la distance pour chaque propriété
+              // Calculer la distance entre la localisation recherchée et chaque propriété
               validProperties = validProperties.map(prop => {
-                let distance = haversine(location.lat, location.lng, parseFloat(prop.lat), parseFloat(prop.lng));
-                return Object.assign({}, prop, { distance: distance });
+                const distance = haversine(location.lat, location.lng, parseFloat(prop.lat), parseFloat(prop.lng));
+                return { ...prop, distance };
               });
               // Trier par distance
               validProperties.sort((a, b) => a.distance - b.distance);
