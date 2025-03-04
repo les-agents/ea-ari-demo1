@@ -35,10 +35,12 @@ const CustomOpenURLExtension = {
             assistant: { 
                 extensions: [CustomOpenURLExtension],
                 stylesheet:'https://ea-ari-demo1.vercel.app/voiceflow.fr.css'
-             },
+             }
+             /*,
             voice: { 
                 url: "https://runtime-api.voiceflow.com" 
             }
+                */
         });
     };
     //v.src = "https://cdn.voiceflow.com/widget-next/bundle.mjs";
