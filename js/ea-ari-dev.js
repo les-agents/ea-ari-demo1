@@ -42,7 +42,7 @@ const CustomOpenURLExtension = {
       });
   };
   //v.src = "https://cdn.voiceflow.com/widget-next/bundle.mjs";
-  v.src = "https://cdn.voiceflow.com/widget-next/bundle.mjs";
+  v.src = "https://cdn.voiceflow.com/widget/bundle.mjs";
   v.type = "text/javascript";
   s.parentNode.insertBefore(v, s);
 })(document, 'script');
