@@ -1,1 +1,53 @@
 node_modules/
+
+
+# Environnement virtuel Python
+venv/
+venv_web/
+env/
+.env/
+.venv/
+ENV/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Fichiers de configuration LiveReload
+.livereload
+
+# Fichiers de build/distribution Python
+dist/
+build/
+*.egg-info/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers d'éditeurs
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*~
+
+# Fichiers de logs
+*.log
+logs/
+
+# Fichiers de dépendances Node.js (au cas où vous utiliseriez aussi Node)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Fichiers temporaires
+.tmp/
+temp/
