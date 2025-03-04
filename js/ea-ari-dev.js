@@ -29,9 +29,9 @@ const CustomOpenURLExtension = {
     var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
     v.onload = function() {
         window.voiceflow.chat.load({
-            verify: { projectID: '679bba21dbd2e6376007c5b8' },
+            verify: { projectID: '67c42da6a9ca2ac532c2c721' },
             url: 'https://general-runtime.voiceflow.com',
-            versionID: 'production', 
+            versionID: 'development', 
             assistant: { 
                 extensions: [CustomOpenURLExtension],
                 stylesheet:'https://ea-ari-demo1.vercel.app/voiceflow.fr.css'
