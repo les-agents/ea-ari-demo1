@@ -1,5 +1,6 @@
 //ea-ari.js
 //2025-03-31-09:19
+
 const CustomOpenURLExtension = {
     name: "CustomOpenURLExtension",
     type: "effect",
@@ -27,6 +28,7 @@ const CustomOpenURLExtension = {
 };
 
 (function(d, t) {
+    console.log("=> ea-ari.js 2025-03-31-09:19");
     var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
     v.onload = function() {
         window.voiceflow.chat.load({
