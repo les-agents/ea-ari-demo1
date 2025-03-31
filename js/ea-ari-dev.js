@@ -223,6 +223,7 @@ const LeadFormExtension = {
 };
 
 (function (d, t) {
+    console.log("=> ea-ari-dev.js 2025-03-31-09:19");
   var v = d.createElement(t),
     s = d.getElementsByTagName(t)[0];
   v.onload = function () {
