@@ -10,6 +10,7 @@ const CustomOpenURLExtension = {
     },
 
     effect: ({ trace }) => {
+        console.log("CustomOpenURLExtension effect");
         // Ensure the payload contains a valid URL
         if (!trace.payload || !trace.payload.url) {
             console.warn("No URL found in trace payload.");
