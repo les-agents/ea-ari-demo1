@@ -1,6 +1,49 @@
-//ea-ari.js
-//2025-03-31-09:19
-console.log("=> ea-ari.js 2025-03-31-09:19");
+//ea-ari.js - Script Voiceflow avec paramètre versionID via URL ou localStorage (12h)
+//2025-04-01-12:54
+console.log("=> ea-ari.js - Voiceflow configurator with dynamic versionID (URL/localStorage) 2025-04-01-12:54");
+
+// Fonction pour vérifier si une valeur dans localStorage est encore valide (moins de 12h)
+function isStoredValueValid(timestamp) {
+    const currentTime = new Date().getTime();
+    const storedTime = parseInt(timestamp, 10);
+    const twelveHoursInMs = 12 * 60 * 60 * 1000;
+    
+    return !isNaN(storedTime) && (currentTime - storedTime < twelveHoursInMs);
+}
+
+// Récupération du paramètre ARIversionID depuis l'URL ou localStorage
+const urlParams = new URLSearchParams(window.location.search);
+const versionIDParam = urlParams.get('ARIversionID');
+
+// Gestion du localStorage avec expiration de 12h
+let versionID = 'production';
+
+if (versionIDParam) {
+    // Si un paramètre est fourni dans l'URL, on l'utilise et on le stocke
+    versionID = versionIDParam;
+    localStorage.setItem('ARIversionID', versionID);
+    localStorage.setItem('ARIversionID_timestamp', new Date().getTime().toString());
+    console.log(`Using Voiceflow versionID from URL: ${versionID}`);
+} else {
+    // Sinon, on cherche dans le localStorage
+    const storedVersionID = localStorage.getItem('ARIversionID');
+    const timestamp = localStorage.getItem('ARIversionID_timestamp');
+    
+    if (storedVersionID && isStoredValueValid(timestamp)) {
+        // Si une valeur valide existe dans le localStorage, on l'utilise
+        versionID = storedVersionID;
+        console.log(`Using Voiceflow versionID from localStorage: ${versionID}`);
+    } else {
+        // Sinon, on utilise la valeur par défaut
+        console.log(`Using default Voiceflow versionID: ${versionID}`);
+        // On nettoie le localStorage si la valeur a expiré
+        if (storedVersionID) {
+            localStorage.removeItem('ARIversionID');
+            localStorage.removeItem('ARIversionID_timestamp');
+        }
+    }
+}
+
 const CustomOpenURLExtension = {
     name: "CustomOpenURLExtension",
     type: "effect",
@@ -34,7 +77,7 @@ const CustomOpenURLExtension = {
         window.voiceflow.chat.load({
             verify: { projectID: '67c42da6a9ca2ac532c2c721' },
             url: 'https://general-runtime.voiceflow.com',
-            versionID: 'production', 
+            versionID: versionID, // Utilise la valeur récupérée du paramètre d'URL
             assistant: { 
                 extensions: [CustomOpenURLExtension],
                 stylesheet:'https://ea-ari-demo1.vercel.app/voiceflow.fr.css'
