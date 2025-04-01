@@ -96,19 +96,19 @@ const CustomOpenURLExtension = {
 document.addEventListener('DOMContentLoaded', function() {
     // Extraire la référence de la page
     const pageReference = extractReference();
-    console.log('Référence trouvée sur la page:', pageReference);
+    console.log("Référence trouvée sur la page:", pageReference);
     
     // Récupérer la référence stockée
     const storedReference = localStorage.getItem('ARIreference');
     const referenceTimestamp = localStorage.getItem('ARIreference_timestamp');
     
-    console.log('Référence stockée:', storedReference);
+    console.log("Référence stockée:", storedReference);
     
     let shouldOpenChatAutomatically = false;
     
     // Vérifier si les références correspondent
     if (pageReference && storedReference && isStoredValueValid(referenceTimestamp) && pageReference === storedReference) {
-        console.log('Les références correspondent, le widget s'ouvrira automatiquement');
+        console.log("Les références correspondent, le widget s'ouvrira automatiquement");
         shouldOpenChatAutomatically = true;
     }
     
@@ -130,17 +130,19 @@ document.addEventListener('DOMContentLoaded', function() {
             };
             
             // Charger le widget
-            window.voiceflow.chat.load(voiceflowConfig).then(() => {
-                if (shouldOpenChatAutomatically) {
-                    // Ouvrir automatiquement le widget après 5 secondes si les références correspondent
-                    setTimeout(() => {
-                        console.log('Ouverture automatique du widget Voiceflow');
-                        window.voiceflow.chat.open();
-                    }, 5000);
-                }
-            }).catch(err => {
-                console.error('Erreur lors du chargement du widget Voiceflow:', err);
-            });
+            window.voiceflow.chat.load(voiceflowConfig)
+                .then(() => {
+                    if (shouldOpenChatAutomatically) {
+                        // Ouvrir automatiquement le widget après 5 secondes si les références correspondent
+                        setTimeout(() => {
+                            console.log("Ouverture automatique du widget Voiceflow");
+                            window.voiceflow.chat.open();
+                        }, 5000);
+                    }
+                })
+                .catch(err => {
+                    console.error("Erreur lors du chargement du widget Voiceflow:", err);
+                });
         };
         v.src = "https://cdn.voiceflow.com/widget-next/bundle.mjs";
         v.type = "text/javascript";
