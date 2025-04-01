@@ -61,15 +61,13 @@ const CustomOpenURLExtension = {
         }
 
         const url = trace.payload.url.trim();
-        const ARIreference = trace.payload.reference.trim();
-        localStorage.setItem('ARIreference', ARIreference);
-        console.log("Ref:" & ARIreference):
+
         if (!url.startsWith("http://") && !url.startsWith("https://")) {
             console.warn("Invalid URL:", url);
             return;
         }
         // Redirect the page to the given URL
-        //window.location.href = url;
+        window.location.href = url;
     }
 };
 
