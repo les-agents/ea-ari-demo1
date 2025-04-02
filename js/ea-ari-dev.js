@@ -51,6 +51,7 @@ const LeadFormExtension = {
   match: ({ trace }) =>
     trace.type === 'ext_lead_form' || trace.payload?.name === 'ext_lead_form',
   render: ({ trace, element }) => {
+    const { api, data } = trace.payload;
     const { ui } = process(trace);
 
     const formContainer = document.createElement('form');
@@ -197,15 +198,37 @@ const LeadFormExtension = {
       submitButton.disabled = true;
       cancelButton.disabled = true;
 
-      window.voiceflow.chat.interact({
-        type: 'complete',
-        payload: {
+      // Send data to local API instead of voiceflow
+      fetch(api.endpoint, {
+        method: 'POST',
+        headers: {
+          Authorization: api.key,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          ...data,
           firstName: firstName.value || null,
           lastName: lastName.value || null,
           email: email.value || null,
           phoneNumber: phoneNumber.value || null,
-        },
-      });
+        }),
+      })
+        .then((response) => response.json())
+        .then((record) => {
+          window.voiceflow.chat.interact({
+            type: 'complete',
+            payload: {
+              id: record.id,
+            },
+          });
+        })
+        .catch((error) => {
+          console.error('[API] Error:', error);
+          // Continue with voiceflow even if API call fails
+          window.voiceflow.chat.interact({
+            type: 'error',
+          });
+        });
     });
 
     cancelButton.addEventListener('click', () => {
