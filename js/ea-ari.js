@@ -88,7 +88,11 @@ const CustomOpenURLExtension = {
         }
         
         // Redirect the page to the given URL
-        window.location.href = url;
+        setTimeout(() => {
+            console.log("Ouverture automatique de l'annonce : "+ url);
+            window.location.href = url;
+        }, 2000);
+       
     }
 };
 
