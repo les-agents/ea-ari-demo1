@@ -334,7 +334,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         setTimeout(() => {
                             console.log("Ouverture automatique du widget Voiceflow");
                             window.voiceflow.chat.open();
-                        }, 5000);
+                        }, 1000);
                     }
                 })
                 .catch(err => {
