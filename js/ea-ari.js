@@ -89,6 +89,7 @@ const CustomOpenURLExtension = {
         
         // Redirect the page to the given URL
         setTimeout(() => {
+            localStorage.setItem('ARIresume', true);
             console.log("Ouverture automatique de l'annonce : "+ url);
             window.location.href = url;
         }, 2000);
@@ -338,6 +339,12 @@ document.addEventListener('DOMContentLoaded', function() {
                         setTimeout(() => {
                             console.log("Ouverture automatique du widget Voiceflow");
                             window.voiceflow.chat.open();
+                              console.log('ARIresume : '+localStorage.getItem('ARIresume'));
+       
+                              if (localStorage.getItem('ARIresume') == true || localStorage.getItem('ARIresume') == "true"){
+                                console.log('Mode resume');
+                                localStorage.setItem('ARIresume', false);
+                                window.voiceflow.chat.interact({"type": "event","payload": {"event": {"name": "resume_carousel"}}})}
                         }, 5000);
                     }
                 })
