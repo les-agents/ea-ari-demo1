@@ -92,7 +92,7 @@ const CustomOpenURLExtension = {
             localStorage.setItem('ARIresume', true);
             console.log("Ouverture automatique de l'annonce : "+ url);
             window.location.href = url;
-        }, 2000);
+        }, 3000);
        
     }
 };
