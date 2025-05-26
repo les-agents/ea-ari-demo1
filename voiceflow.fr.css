@@ -20,3 +20,6 @@
   content: 'Annuler';
   color: rgba(0, 0, 0, 0.9);
 }
+.vfrc-launcher {
+  background-color: #FFF !important;
+}
