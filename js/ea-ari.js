@@ -258,7 +258,20 @@ const LeadFormExtension = {
         console.log("📋 Full trace:", trace);
         console.log("📋 Full payload:", trace.payload);
         
-        const { api, data } = trace.payload;
+        let payload = trace.payload;
+        if (typeof payload === 'string') {
+            try {
+                payload = JSON.parse(payload);
+            } catch (e) {
+                console.error('❌ Failed to parse extension payload:', e);
+                return;
+            }
+        }
+        const { api, data } = payload || {};
+        if (!api || !api.endpoint || !api.key) {
+            console.error('❌ Missing API configuration:', payload);
+            return;
+        }
         console.log("📋 API config:", api);
         console.log("📋 Data config:", data);
         
@@ -479,6 +492,7 @@ const LeadFormExtension = {
                 phoneNumber: phoneNumber.value || null,
             };
 
+            if (!api) return; // or display an error to the user
             console.log("📋 Corps de la requête API:", requestBody);
             console.log("📋 URL API:", api.endpoint);
             console.log("📋 Headers API:", {
