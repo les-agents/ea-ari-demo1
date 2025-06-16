@@ -22,6 +22,14 @@
 }
 .vfrc-launcher {
   background-color: #FFF !important;
-  height: 60px;
-  width: 60px;
+  height: 80px;
+  width: 80px;
+}
+.vfrc-button svg:only-of-type {
+  width: 64px;
+  height: 64px;
+}
+
+.vfrc-button svg path {
+  fill: #E6411B;
 }
