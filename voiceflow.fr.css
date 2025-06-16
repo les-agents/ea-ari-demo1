@@ -22,4 +22,6 @@
 }
 .vfrc-launcher {
   background-color: #FFF !important;
+  width: 150%;
+  height: 150%;
 }
