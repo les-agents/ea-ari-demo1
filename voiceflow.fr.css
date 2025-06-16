@@ -20,12 +20,14 @@
   content: 'Annuler';
   color: rgba(0, 0, 0, 0.9);
 }
-/*
+
 .vfrc-launcher {
   background-color: #FFF !important;
   height: 60px;
   width: 60px;
 }
+
+/*
 button.vfrc-button.vfrc-launcher svg {
   transform: scale(2);
   transform-origin: center center;
