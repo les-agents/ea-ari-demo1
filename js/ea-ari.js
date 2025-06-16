@@ -665,7 +665,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             message: "Essayez ARI, notre assistant avec intelligence artificielle pour vous accompagner dans la recherche de votre bien immobilier."
                             }
                         });
-                        }, 4000);
+                        }, 4500);
                     }
                 })
                 .catch(err => {
