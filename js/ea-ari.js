@@ -649,7 +649,11 @@ document.addEventListener('DOMContentLoaded', function() {
                         console.log("📋 Pas d'ouverture automatique prévue");
                         window.voiceflow.chat.proactive.push({
                          type: 'text',
-                         payload: { message: "Besoin d'aide ? \n Essayez ARI, notre assistant avec intelligence artificielle pour vous accompagner dans la recherche de votre bien immobilier." }
+                         payload: { message: "Besoin d'aide ?" }
+                        },
+                        {
+                         type: 'text',
+                         payload: { message: "Essayez ARI, notre assistant avec intelligence artificielle pour vous accompagner dans la recherche de votre bien immobilier." }
                         });
                     }
                 })
