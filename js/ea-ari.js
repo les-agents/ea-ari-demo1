@@ -647,6 +647,10 @@ document.addEventListener('DOMContentLoaded', function() {
                         }, 5000);
                     } else {
                         console.log("📋 Pas d'ouverture automatique prévue");
+                        window.voiceflow.chat.proactive.push({
+                         type: 'text',
+                         payload: { message: "Besoin d'aide ? Essayez ARI, notre assistant avec intelligence artificielle pour vous accompagner dans la recherche de votre bien immobilier." }
+                        });
                     }
                 })
                 .catch(err => {
