@@ -27,13 +27,15 @@
   width: 60px;
 }
 
+.vfrc-button svg path {
+  fill: #E6411B;
+}
+
 /*
 button.vfrc-button.vfrc-launcher svg {
   transform: scale(2);
   transform-origin: center center;
 }
 
-.vfrc-button svg path {
-  fill: #E6411B;
-}
+
 */
