@@ -647,14 +647,25 @@ document.addEventListener('DOMContentLoaded', function() {
                         }, 5000);
                     } else {
                         console.log("📋 Pas d'ouverture automatique prévue");
+                        // Premier message après 3 secondes
+                        setTimeout(() => {
+                        console.log("🚀 Envoi message proactif #1");
                         window.voiceflow.chat.proactive.push({
-                         type: 'text',
-                         payload: { message: "Besoin d'aide ?" }
-                        },
-                        {
-                         type: 'text',
-                         payload: { message: "Essayez ARI, notre assistant avec intelligence artificielle pour vous accompagner dans la recherche de votre bien immobilier." }
+                            type: 'text',
+                            payload: { message: "Besoin d'aide ?" }
                         });
+                        }, 3000);
+
+                        // Second message 1 seconde plus tard
+                        setTimeout(() => {
+                        console.log("🚀 Envoi message proactif #2");
+                        window.voiceflow.chat.proactive.push({
+                            type: 'text',
+                            payload: {
+                            message: "Essayez ARI, notre assistant avec intelligence artificielle pour vous accompagner dans la recherche de votre bien immobilier."
+                            }
+                        });
+                        }, 4000);
                     }
                 })
                 .catch(err => {
