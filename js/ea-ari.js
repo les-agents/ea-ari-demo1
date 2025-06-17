@@ -662,7 +662,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         window.voiceflow.chat.proactive.push({
                             type: 'text',
                             payload: {
-                            message: "Essayez ARI, notre assistant avec intelligence artificielle pour vous accompagner dans la recherche de votre bien immobilier."
+                            message: "Essayez ARI, notre assistant avec intelligence artificielle pour vous accompagner dans votre projet immobilier."
                             }
                         });
                         }, 4500);
