@@ -1,3 +1,4 @@
+
 .vfrc-prompt button.vfrc-button,
 .vfrc-footer #vfrc-start-chat {
   position: relative;
@@ -27,14 +28,18 @@
   width: 60px;
 }
 
+/* Règle générale qui applique la couleur orange */
 .vfrc-button svg path {
   fill: #E6411B;
 }
-
 
 button.vfrc-button.vfrc-launcher svg {
   transform: scale(2);
   transform-origin: center center;
 }
 
-
+/* NOUVELLE RÈGLE AJOUTÉE */
+/* Annule la couleur orange spécifiquement pour le bouton dans le header */
+.vfrc-header--button.vfrc-button svg path {
+  fill: currentColor;
+}
