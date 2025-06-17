@@ -43,3 +43,8 @@ button.vfrc-button.vfrc-launcher svg {
 .vfrc-header--button.vfrc-button svg path {
   fill: currentColor;
 }
+
+/* Règle spécifique pour l'icône du bouton d'envoi ("Send") */
+#vfrc-send-message svg path {
+  fill: currentColor;
+}
