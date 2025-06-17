@@ -48,3 +48,8 @@ button.vfrc-button.vfrc-launcher svg {
 #vfrc-send-message svg path {
   fill: currentColor;
 }
+
+button.vfrc-launcher[title="Close chat agent"] {
+  width: 40px;
+  height: 40px;
+}
