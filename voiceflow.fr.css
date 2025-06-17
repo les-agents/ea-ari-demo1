@@ -33,9 +33,15 @@
   fill: #E6411B;
 }
 
+/*
 button.vfrc-button.vfrc-launcher svg {
   transform: scale(3);
   transform-origin: center center;
+}
+
+*/
+.vfrc-launcher img[alt="open chat"] {
+  transform: scale(1.5); /* Augmente la taille de 50% */
 }
 
 /* NOUVELLE RÈGLE AJOUTÉE */
