@@ -518,7 +518,7 @@ const LeadFormExtension = {
                 console.log("📋 Envoi de 'complete' à Voiceflow avec ID:", record.id);
                 
                 // Supprimer les données sauvegardées après envoi réussi
-                clearFormData();
+                //clearFormData();
                 
                 window.voiceflow.chat.interact({
                   type: 'complete',
