@@ -392,7 +392,7 @@ const LeadFormExtension = {
               
               <div class="fieldset">
                 <label for="phoneNumber">Votre téléphone</label>
-                <input type="text" class="phoneNumber" name="phoneNumber" value="${savedData?.phoneNumber || ''}" placeholder="06 74 95 03 85 ou +33 6 74 95 03 85" />
+                <input type="text" class="phoneNumber" name="phoneNumber" value="${savedData?.phoneNumber || ''}" />
               </div>
               
               <div id="buttonContainer">
