@@ -59,3 +59,4 @@ button.vfrc-launcher[title="Close chat agent"] svg {
   width: 20px;
   height: 20px;
 }
+.vf-chat-ended-banner { display:none !important; }
